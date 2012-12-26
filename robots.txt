@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_includes
+Disallow: /_layouts
+Disallow: /_posts
+Disallow: /assets
+Disallow: /.gitignore
+Disallow: /CNAME
+Disallow: /_config.yml
+Disallow: /rss.xml
