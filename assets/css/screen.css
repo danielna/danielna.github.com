@@ -1,0 +1,306 @@
+/* line 9, ../sass/screen.scss */
+html {
+  height: 100%;
+}
+
+/* line 13, ../sass/screen.scss */
+body {
+  float: left;
+  display: block;
+  position: relative;
+  height: 100%;
+  background: url("/assets/img/bg_grid.png") repeat black;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+}
+
+/* line 23, ../sass/screen.scss */
+div.wrapper {
+  display: block;
+  position: relative;
+  float: left;
+  background: url("/assets/img/paper.png") repeat white;
+  border-right: 2px solid #444;
+  min-height: 100%;
+  width: 880px;
+  padding: 0 40px;
+}
+
+/* line 34, ../sass/screen.scss */
+header {
+  display: block;
+  position: relative;
+  float: left;
+  width: 880px;
+}
+/* line 39, ../sass/screen.scss */
+header a.page-heading {
+  float: left;
+  display: block;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 42px;
+  font-weight: bold;
+  color: #ed2525;
+  text-shadow: 0px 0px 1px #ccc;
+  filter: dropshadow(color=#cccccc, offx=0, offy=0);
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+/* line 53, ../sass/screen.scss */
+header div.right {
+  float: right;
+  display: block;
+  text-align: right;
+  margin-top: 30px;
+  font-family: verdana;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+/* line 64, ../sass/screen.scss */
+div.container {
+  position: relative;
+  display: block;
+  float: left;
+  width: 880px;
+  padding-bottom: 20px;
+}
+/* line 70, ../sass/screen.scss */
+div.container section.tag-nav {
+  position: relative;
+  display: block;
+  float: right;
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+/* line 76, ../sass/screen.scss */
+div.container section.tag-nav a {
+  color: #adadad;
+}
+/* line 78, ../sass/screen.scss */
+div.container section.tag-nav a.active {
+  font-weight: bold;
+  color: #999;
+}
+/* line 85, ../sass/screen.scss */
+div.container section#home {
+  display: block;
+  position: relative;
+}
+/* line 88, ../sass/screen.scss */
+div.container section#home .post-list {
+  display: block;
+  padding: 0;
+}
+/* line 91, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item {
+  float: left;
+  display: block;
+  margin-bottom: 25px;
+}
+/* line 95, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item.last {
+  margin-bottom: 0px;
+}
+/* line 98, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .post-date {
+  display: block;
+  float: left;
+  width: 125px;
+  font-size: 13px;
+  line-height: 19px;
+  font-family: Verdana;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ADADAD;
+}
+/* line 109, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .meta {
+  display: block;
+  float: left;
+  width: 740px;
+  border-left: 5px solid #f2f2f2;
+  padding-left: 10px;
+}
+/* line 115, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .meta .post-title {
+  float: left;
+  display: block;
+  font-family: Helvetica;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: bold;
+  color: #222222;
+  text-decoration: none;
+}
+/* line 126, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .meta span.tag {
+  font-size: 12px;
+  font-style: italic;
+  display: inline-block;
+  margin-left: 5px;
+  color: #adadad;
+}
+/* line 133, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .meta .post-subtitle {
+  display: block;
+  float: left;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0px;
+}
+/* line 145, ../sass/screen.scss */
+div.container div.post {
+  display: block;
+  position: relative;
+  float: left;
+}
+/* line 149, ../sass/screen.scss */
+div.container div.post h1 {
+  margin-top: 0px;
+}
+
+/* line 155, ../sass/screen.scss */
+footer {
+  position: relative;
+  display: block;
+  float: left;
+  text-align: right;
+  width: 100%;
+  font-size: 12px;
+  margin: 20px 0 5px;
+}
+
+/* line 165, ../sass/screen.scss */
+h1 {
+  color: #222;
+}
+/* line 167, ../sass/screen.scss */
+h1.top {
+  margin-top: 0px;
+}
+
+/* line 171, ../sass/screen.scss */
+h2 {
+  margin-bottom: 5px;
+}
+
+/* line 175, ../sass/screen.scss */
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #444;
+}
+
+/* line 182, ../sass/screen.scss */
+a {
+  text-decoration: none;
+  color: #0088cc;
+}
+/* line 185, ../sass/screen.scss */
+a:hover {
+  text-decoration: underline;
+}
+
+/* line 190, ../sass/screen.scss */
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 40px 0;
+}
+
+/* line 199, ../sass/screen.scss */
+img.pull-left {
+  float: left;
+  vertical-align: top;
+  padding: 10px 25px 10px 0;
+}
+/* line 204, ../sass/screen.scss */
+img#about-cheekswab {
+  margin-top: 8px;
+}
+/* line 207, ../sass/screen.scss */
+img.home-top {
+  margin-bottom: 15px;
+}
+
+/* line 212, ../sass/screen.scss */
+blockquote {
+  border-left: 10px solid #f2f2f2;
+  padding-left: 15px;
+  margin-left: 20px;
+}
+/* line 216, ../sass/screen.scss */
+blockquote p {
+  font-family: Georgia;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 32px;
+  color: #ed2525;
+}
+
+/* line 225, ../sass/screen.scss */
+p.quote-source {
+  text-align: right;
+}
+
+/* line 229, ../sass/screen.scss */
+ol {
+  counter-reset: li;
+  margin-left: 30px;
+  padding-left: 0;
+}
+/* line 233, ../sass/screen.scss */
+ol li {
+  position: relative;
+  margin: 0 0 10px 2em;
+  padding: 4px 8px;
+  list-style: none;
+  background: transparent;
+}
+/* line 239, ../sass/screen.scss */
+ol li:before {
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  top: 0px;
+  left: -2em;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 2em;
+  margin-right: 8px;
+  padding: 4px;
+  color: #fff;
+  background: #666;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+}
+
+/* line 261, ../sass/screen.scss */
+ul li {
+  margin-bottom: 4px;
+}
+
+/* line 266, ../sass/screen.scss */
+div.caption {
+  font-family: Georgia;
+  text-align: right;
+  font-style: italic;
+  margin-top: 4px;
+}
+
+/* line 273, ../sass/screen.scss */
+div.disqus-comments {
+  position: relative;
+  display: block;
+  float: left;
+  width: 100%;
+  margin-top: 40px;
+}

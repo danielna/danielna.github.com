@@ -1,0 +1,279 @@
+$page-padding: 0 40px;
+$font-black: #222222;
+$light-gray: #f2f2f2;
+$less-light-gray: #adadad;
+$color-blue: #0088CC;
+$helvetica-neue: "Helvetica Neue", Helvetica,Arial,sans-serif;
+$header-color: #ED2525;
+
+html {
+    height: 100%;
+}
+
+body {
+    float: left;
+    display: block;
+    position: relative;
+    height: 100%;
+    background: url("/assets/img/bg_grid.png") repeat #000;
+    font-family: $helvetica-neue;
+    color: #444;
+}
+
+div.wrapper {
+    display: block;
+    position: relative;
+    float: left;
+    background: url("/assets/img/paper.png") repeat #fff;
+    border-right: 2px solid #444;
+    min-height: 100%;
+    width: 880px;
+    padding: $page-padding;
+}
+
+header {
+    display: block;
+    position: relative;
+    float: left;
+    width: 880px;
+    a.page-heading {
+        float: left;
+        display: block;
+        font-family: $helvetica-neue;
+        font-size: 42px;
+        font-weight: bold;
+        color: $header-color;
+        // text-transform: uppercase;
+        text-shadow: 0px 0px 1px #ccc;
+        filter: dropshadow(color=#ccc, offx=0, offy=0);
+        text-decoration: none;
+        margin: 0 auto;
+        padding: 20px 0;
+    }
+    div.right {
+        float: right;
+        display: block;
+        text-align: right;
+        margin-top: 30px;
+        font-family: verdana;
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
+
+div.container {
+    position: relative;
+    display: block;
+    float: left;
+    width: 880px;
+    padding-bottom: 20px;
+    section.tag-nav {
+        position: relative;
+        display: block;
+        float: right;
+        margin-bottom: 15px;
+        font-size: 12px;
+        a {
+            color: $less-light-gray;
+            &.active {
+                font-weight: bold;
+                color: #999;
+            }
+        }
+
+    }
+    section#home {
+        display: block;
+        position: relative;
+        .post-list {
+            display: block;
+            padding: 0;
+            .post-list-item {
+                float: left;
+                display: block;
+                margin-bottom: 25px;
+                &.last {
+                    margin-bottom: 0px;
+                }
+                .post-date {
+                    display: block;
+                    float: left;
+                    width: 125px;
+                    font-size: 13px;
+                    line-height: 19px;
+                    font-family: Verdana;
+                    text-transform: uppercase;
+                    text-decoration: none;
+                    color: #ADADAD;
+                }
+                .meta {
+                    display: block;
+                    float: left;
+                    width: 740px;
+                    border-left: 5px solid $light-gray;
+                    padding-left: 10px;
+                    .post-title { 
+                        float: left;
+                        display: block;
+                        font-family: Helvetica;
+                        font-size: 18px;
+                        line-height: 26px;
+                        font-weight: bold;
+                        color: $font-black;
+                        // text-transform: uppercase;
+                        text-decoration: none;
+                    }
+                    span.tag {
+                        font-size: 12px;
+                        font-style: italic;
+                        display: inline-block;
+                        margin-left: 5px;
+                        color: $less-light-gray;
+                    }
+                    .post-subtitle {
+                        display: block;
+                        float: left;
+                        font-family: $helvetica-neue;
+                        font-size: 16px;
+                        line-height: 24px;
+                        margin: 0px;
+                    }
+                }
+            }
+        } 
+    }
+    div.post {
+        display: block;
+        position: relative;
+        float: left;
+        h1 {
+            margin-top: 0px;
+        }
+    }
+}
+
+footer {
+    position: relative;
+    display: block;
+    float: left;
+    text-align: right;
+    width: 100%;
+    font-size: 12px;
+    margin: 20px 0 5px;
+}
+
+h1 {
+    color: #222;
+    &.top {
+        margin-top: 0px;
+    }
+}
+h2 {
+    margin-bottom: 5px;
+}
+
+p {
+    font-family: $helvetica-neue;
+    font-size: 16px;
+    line-height: 24px;
+    color: #444;
+}
+
+a {
+    text-decoration: none;
+    color: $color-blue;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); 
+    margin: 40px 0
+}
+
+img {
+    &.pull-left {
+        float: left;
+        vertical-align: top;
+        padding: 10px 25px 10px 0;
+    }
+    &#about-cheekswab {
+        margin-top: 8px; 
+    }
+    &.home-top {
+        margin-bottom: 15px;
+    }
+}
+
+blockquote {
+    border-left: 10px solid #f2f2f2;
+    padding-left: 15px;
+    margin-left: 20px;
+    p {
+        font-family: Georgia;
+        font-size: 20px;
+        font-style: italic;
+        line-height: 32px;
+        color: $header-color;
+    }
+}
+
+p.quote-source {
+    text-align: right;
+}
+
+ol {
+    counter-reset: li;
+    margin-left: 30px;
+    padding-left: 0;
+    li {
+        position: relative;
+        margin: 0 0 10px 2em;
+        padding: 4px 8px;
+        list-style: none; 
+        background: transparent;
+        &:before {
+            content: counter(li);
+            counter-increment: li;
+            position: absolute;
+            top: 0px;
+            left: -2em;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            width: 2em;
+            margin-right: 8px;
+            padding: 4px;
+            color: #fff;
+            background: #666;
+            font-weight: bold;
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            text-align: center;
+        }
+    }
+}
+
+ul {
+    li {
+        margin-bottom: 4px;
+    }
+}
+
+div.caption {
+    font-family: Georgia;
+    text-align: right;
+    font-style: italic;
+    margin-top: 4px;
+}
+
+div.disqus-comments {
+    position: relative;
+    display: block;
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+}
