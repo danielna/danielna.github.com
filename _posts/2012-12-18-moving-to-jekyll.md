@@ -11,7 +11,7 @@ The straw that broke the camels back with Tumblr was how the CMS handled image u
 
 Jekyll is a static-site generator written in Ruby.  I decided to go with Jekyll for various reasons, including the ability to fully control my own markup, render the site locally, speed/performance, and nostalgia for the days of static HTML websites. There is a massive irony around here somewhere.
 
-I like the idea of a blog being a testing ground for various technologies -- plugins, techniques, layouts, typefaces, etc.  I've used a lot of the major blogging services up until now -- xanga, typepad, blogger/blogspot, wordpress, tumblr -- but the more familiar I become with the possibilities of the web, the less I'm satisfied with the current offerings of WYSIWYG editors.
+I like the idea of a blog being a testing ground for various technologies -- plugins, techniques, layouts, typefaces, etc.  I've used a lot of the major blogging services up until now -- xanga, typepad, blogger/blogspot, wordpress, tumblr -- but the more familiar I become with the possibilities of the web, the less I'm satisfied with the current offerings of rich text editors.
 
 Thus, Jekyll.
 
