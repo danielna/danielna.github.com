@@ -19,6 +19,8 @@ I originally gave <a href="http://octopress.org/" title="Octopress" target="_bla
 
 Unfortunately for prospective Jekyll users, the default docs are kind of horrendous.  The <a href="http://jekyllbootstrap.com/lessons/jekyll-introduction.html" title="Jekyll Introduction" target="_blank">introduction at jekyllbootstrap</a> is a much better place to start.
 
+<a href="http://github.com/danielna/danielna.github.com" title="Blog source @ github" target="_blank">Hosting things on github</a> is also really, really awesome.
+
 <hr>
 
 Any posts predating this post are cherrypicked from old blogs.
