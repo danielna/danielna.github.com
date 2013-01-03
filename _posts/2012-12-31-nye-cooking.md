@@ -27,13 +27,13 @@ Being sick as a dog on New Years Eve is not my preferred way to kick in the new 
 I prefer to bake things over pan frying them because it's less work/less smell/healthier, especially in large quantities.  I don't remember where I learned the technique but I remembered it was easy to bake fish filets in packets of foil.  Add some oil, some herbs, lemon, salt and pepper, and 20 minutes later (at 400 degrees) dinner is ready.
 
 <img src="/assets/img/2012-12-31/4.jpg" title="Tilapia on the chopping block"/>
-<div class="caption">Rinse the fish in water and pat it dry with a paper towel.</div>
+<div class="caption">Rinse the fish in water and pat dry with a paper towel.</div>
 
 <img src="/assets/img/2012-12-31/5.jpg" title="Seasoning the fish"/>
 <div class="caption">A big sheet of foil, a coating of olive oil, and a sprinkling of herbs.</div>
 
 <img src="/assets/img/2012-12-31/6.jpg" title="Seasoning the fish, part II"/>
-<div class="caption">I'm pretty liberal with seasoning. Here it's salt, pepper, rosemary, thyme, and lemon slices.</div>
+<div class="caption">I'm pretty liberal with seasoning. Here it's salt, pepper, rosemary, thyme, dill and lemon slices.</div>
 
 <img src="/assets/img/2012-12-31/7.jpg" title="Wrap at the top"/>
 <div class="caption">Center the fish in the foil and bring up the two long ends.
