@@ -293,10 +293,11 @@ div.caption {
   font-family: Georgia;
   text-align: right;
   font-style: italic;
-  margin-top: 4px;
+  margin-top: -16px;
+  color: #666;
 }
 
-/* line 273, ../sass/screen.scss */
+/* line 274, ../sass/screen.scss */
 div.disqus-comments {
   position: relative;
   display: block;
