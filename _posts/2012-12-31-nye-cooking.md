@@ -14,8 +14,6 @@ Almost everything I know about food is literally from watching hours of Food Net
 
 Following a recipe isn't something to be intimidated by.  If you can put together a piece of Ikea furniture, you can learn to cook a proper meal.  If you can't put together a piece of Ikea furniture...
 
-<em>Shrugs.</em>
-
 <img src="/assets/img/2012-12-31/2.jpg" title="Tilapia"/>
 <div class="caption">Guest of honor: Tilapia</div>
 
