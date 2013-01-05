@@ -61,7 +61,7 @@ Eat with lime tostitos, which are amazing.
 <img src="/assets/img/2012-12-31/12.jpg" title="Mix with a fork"/>
 <div class="caption">Mix with a fork.</div>
 
-Fish should be done.  It should flake with a fork.  The packet techinque is nice because it keeps things from drying out.
+Fish should be done.  It should flake with a fork.  The packet technique is nice because it keeps things from drying out.
 
 <img src="/assets/img/2012-12-31/13.jpg" title="Fish: done!"/>
 <div class="caption">Fish: done!</div>
