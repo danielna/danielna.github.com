@@ -6,7 +6,7 @@ tags: text
 ---
 
 <div class="photo-block top">
-    <img src="/assets/img/2012-07-02_Guatemala1.jpg" title="The tree-tops of Antigua, Guatemala"/>
+    <img class="big" src="/assets/img/2012-07-02_Guatemala1.jpg" title="The tree-tops of Antigua, Guatemala"/>
     <div class="caption">The tree-tops of Antigua, Guatemala</div>
 </div>
 
@@ -17,14 +17,14 @@ I traveled a lot when I was in elementary school, as my parents made it a point 
 The "travel more" directive is pretty much on every single bucketlist-esque post on the Internet.  I was too young to fully appreciate everything non-Disneyworld/beach earlier in life, and while travel has been something I could appreciate from afar, I couldn't afford any overseas trips for a long time.  Now that I can fund everything on my own it's something I hope to be doing a lot more of.
 
 <div class="photo-block">
-    <img src="/assets/img/2012-07-02_Guatemala2.jpg" title="I like foreign stop signs"/>
+    <img class="big" src="/assets/img/2012-07-02_Guatemala2.jpg" title="I like foreign stop signs"/>
     <div class="caption">I like foreign stop signs</div>
 </div>
 
 Traveling in Central America was this interesting dichotomy of keeping your guard up enough to protect yourself and letting your guard down enough to soak in the culture and beauty of your surroundings.  I take a lot for granted in the US, like infrastructure, clean water, safety and regulatory institutions, and even language fluency.  It’s crazy to think that the norm in Guatemala City is that it’s unsafe to get into any random cab on the street for fear of being kidnapped.  That even locals don’t walk around much at night for fear of being mugged.  I mean this is the capital city here, not some random town of ill repute.
 
 <div class="photo-block">
-    <img src="/assets/img/2012-07-02_Guatemala3.jpg" title="A woman weaving textiles for sale"/>
+    <img class="big" src="/assets/img/2012-07-02_Guatemala3.jpg" title="A woman weaving textiles for sale"/>
     <div class="caption">A woman weaving textiles for sale</div>
 </div>
 
@@ -33,7 +33,7 @@ The best part about this trip for me was that for the first time in my life I di
 There are distinct differences between life here and life elsewhere, where people aren’t compulsively checking social media feeds and online news sources.  And I don’t say that in some sort of condescending, “life is so simple there” type of sentiment that some travelers get.  People abroad are not somehow more primitive as a result of a difference in lifestyle or technology.  It’s just different.  And really nice.
 
 <div class="photo-block">
-    <img src="/assets/img/2012-07-02_CostaRica1.jpg" title="Waking up in Monteverde, Costa Rica"/>
+    <img class="big" src="/assets/img/2012-07-02_CostaRica1.jpg" title="Waking up in Monteverde, Costa Rica"/>
     <div class="caption">Waking up in Monteverde, Costa Rica</div>
 </div>
 
@@ -42,7 +42,7 @@ On my flight back from Costa Rica, I sat next to a third-year college student fr
 For everything I had just experienced in both Guatemala and Costa Rica, Jouan is about to experience it ten-fold.  My trip was six days, with the knowledge that I’d be returning to a functional iPhone and a new job and life as normal.  We lost each other in customs, but I gave him my email address on the plane.  You can’t help but feel excited for the guy.
 
 <div class="photo-block">
-    <img src="/assets/img/2012-07-02_CostaRica2.jpg" title="The waterfall at San Luis, Costa Rica"/>
+    <img class="big" src="/assets/img/2012-07-02_CostaRica2.jpg" title="The waterfall at San Luis, Costa Rica"/>
     <div class="caption">The waterfall at San Luis, Costa Rica</div>
 </div>
 

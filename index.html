@@ -71,6 +71,9 @@ title: danielna.com
             <a class="post-date" href="{{ post.url }}" title="{{ post.title }}">
                 {{ post.date | date: "%b %d, %Y" }}
             </a>
+            {% if post.tags %}
+                <span class="hide-desktop tag">{{ post.tags }}</span>
+            {% endif %}
             <div class="meta">
                 <a class="post-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                 {% if post.tags %}

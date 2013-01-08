@@ -38,7 +38,7 @@ header {
     display: block;
     position: relative;
     float: left;
-    width: 880px;
+    width: 100%;
     a.page-heading {
         float: left;
         display: block;
@@ -68,7 +68,7 @@ div.container {
     position: relative;
     display: block;
     float: left;
-    width: 880px;
+    width: 100%;
     padding-bottom: 20px;
     section.tag-nav {
         position: relative;
@@ -99,6 +99,9 @@ div.container {
                 &.last {
                     margin-bottom: 0px;
                 }
+                a:hover {
+                    background-color: transparent;
+                }
                 .post-date {
                     display: block;
                     float: left;
@@ -109,6 +112,12 @@ div.container {
                     text-transform: uppercase;
                     text-decoration: none;
                     color: #ADADAD;
+                }
+                span.tag {
+                    font-size: 12px;
+                    font-style: italic;
+                    margin-left: 5px;
+                    color: $less-light-gray;
                 }
                 .meta {
                     display: block;
@@ -126,15 +135,6 @@ div.container {
                         color: $font-black;
                         // text-transform: uppercase;
                         text-decoration: none;
-                        &:hover {
-                            background-color: transparent;
-                        }
-                    }
-                    span.tag {
-                        font-size: 12px;
-                        font-style: italic;
-                        margin-left: 5px;
-                        color: $less-light-gray;
                     }
                     .post-subtitle {
                         display: block;
@@ -207,11 +207,8 @@ a {
     color: $color-blue;
     &:hover {
         // text-decoration: underline;
-        div.container & {
+        div.container &, header div.right &, footer & {
             background-color: #E3F0F7;
-        }
-        img & {
-            background-color: transparent;
         }
     }
 }
@@ -268,12 +265,15 @@ div.caption {
 
 
 
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3); 
-    margin: 40px 0
+div.separator {
+    position: relative;
+    display: block;
+    float: left;
+    margin: 20px 0;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    color: #CCC;
 }
 
 div.photo-block {
@@ -290,6 +290,7 @@ div.photo-block {
 }
 
 img {
+    width: 100%;
     &.pull-left {
         float: left;
         vertical-align: top;
@@ -297,6 +298,7 @@ img {
     }
     &#about-cheekswab {
         margin-top: 8px; 
+        width: auto;
     }
     &.home-top {
         margin-bottom: 15px;
@@ -358,4 +360,125 @@ div.disqus-comments {
     float: left;
     width: 100%;
     margin-top: 40px;
+}
+
+.hide-desktop {
+    display: none;
+}
+
+//
+// Media Queries
+
+/* 500px width for 7" */
+@media (max-width: 680px) {
+    div.wrapper {
+        width: 500px;
+    }
+    div.container section#home .post-list .post-list-item {
+        .post-date {
+            position: relative;
+            float: left;
+            display: block;
+            font-size: 14px;
+            line-height: 14px;
+            margin-bottom: 0px;
+            width: auto;
+            vertical-align: bottom;
+        }
+        span.tag {
+            position: relative;
+            float: left;
+            display: block;
+            font-size: 12px;
+            line-height: 18px;
+            margin-left: 10px;
+            vertical-align: bottom;
+        }
+        .meta {
+            margin-top: 0px;
+            border-left: 0px;
+            padding-left: 0px;
+            width: 100%;
+            span.tag {
+                display: none;
+            }
+            .post-subtitle {
+                line-height: 16px;
+            }
+        }
+    }
+    .hide-desktop {
+        display: inline-block;
+    }
+
+    img {
+        width: 500px;
+    }
+
+    a#about-cheekswab-link {
+        display: block;
+        float: left;
+        position: relative;
+        width: 100%;
+        clear: both;
+        text-align: center;
+        &:hover {
+            background-color: transparent;
+        }
+        img#about-cheekswab {
+            padding: 10px 0;
+            margin: 0 auto;
+        }
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    ol {
+        margin-left: 20px;
+    }
+
+    blockquote {
+        margin-left: 5px;
+    }
+}
+
+// 300px for iPhones
+@media (max-width: 520px) {
+     div.wrapper {
+        width: 300px;
+    }
+    div.container section#home .post-list .post-list-item .meta .post-title {
+        line-height: 22px;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    img#about-cheekswab {
+        width: 300px;
+    }
+
+    ol {
+        margin-left: 10px;
+        li {
+            padding: 3px 6px;
+            font-size: 16px; 
+            line-height: 24px;
+        }
+    }
+    
+    blockquote {
+        margin-left: 0px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    img {
+        width: 300px;
+    }
 }
