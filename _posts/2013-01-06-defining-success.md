@@ -13,7 +13,7 @@ tags: excerpt
 >
 > I can't say it any better than that.  True success is not about anything that can be measured -- money, awards, pageviews.  It's the intimate feeling that you've pushed yourself to do the best work you can.
 
-<p class="quote-source">John Gruber, from <a href="http://www.offscreenmag.com/issue3/" title="Offscreen Magazine, Issue 3" target="_blank">Offscreen, Issue 3.</a></p>
+<p class="quote-source">(John Gruber, from <a href="http://www.offscreenmag.com/issue3/" title="Offscreen Magazine, Issue 3" target="_blank">Offscreen, Issue 3</a>)</p>
 
 <p>I really love this magazine. At ~$18/issue it doesn't come cheap, but it's not just a magazine as much as a piece of inspiration.  Each issue is beautifully designed with a focus on typography and layout, and the overarching topic -- "The Human Side of Websites and Apps" -- is exactly what I love to read.</p>
 
