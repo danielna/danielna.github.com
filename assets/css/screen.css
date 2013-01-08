@@ -1,20 +1,20 @@
-/* line 9, ../sass/screen.scss */
+/* line 12, ../sass/screen.scss */
 html {
   height: 100%;
 }
 
-/* line 13, ../sass/screen.scss */
+/* line 16, ../sass/screen.scss */
 body {
   float: left;
   display: block;
   position: relative;
   height: 100%;
   background: url("/assets/img/bg_grid.png") repeat black;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #444;
 }
 
-/* line 23, ../sass/screen.scss */
+/* line 26, ../sass/screen.scss */
 div.wrapper {
   display: block;
   position: relative;
@@ -26,14 +26,14 @@ div.wrapper {
   padding: 0 40px;
 }
 
-/* line 34, ../sass/screen.scss */
+/* line 37, ../sass/screen.scss */
 header {
   display: block;
   position: relative;
   float: left;
   width: 880px;
 }
-/* line 39, ../sass/screen.scss */
+/* line 42, ../sass/screen.scss */
 header a.page-heading {
   float: left;
   display: block;
@@ -47,18 +47,18 @@ header a.page-heading {
   margin: 0 auto;
   padding: 20px 0;
 }
-/* line 53, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 header div.right {
   float: right;
   display: block;
   text-align: right;
   margin-top: 30px;
-  font-family: verdana;
+  font-family: "Open Sans";
   font-size: 12px;
   line-height: 18px;
 }
 
-/* line 64, ../sass/screen.scss */
+/* line 67, ../sass/screen.scss */
 div.container {
   position: relative;
   display: block;
@@ -66,7 +66,7 @@ div.container {
   width: 880px;
   padding-bottom: 20px;
 }
-/* line 70, ../sass/screen.scss */
+/* line 73, ../sass/screen.scss */
 div.container section.tag-nav {
   position: relative;
   display: block;
@@ -74,36 +74,37 @@ div.container section.tag-nav {
   margin-bottom: 15px;
   font-size: 12px;
 }
-/* line 76, ../sass/screen.scss */
+/* line 79, ../sass/screen.scss */
 div.container section.tag-nav a {
   color: #adadad;
+  display: inline-block;
 }
-/* line 78, ../sass/screen.scss */
+/* line 82, ../sass/screen.scss */
 div.container section.tag-nav a.active {
   font-weight: bold;
   color: #999;
 }
-/* line 85, ../sass/screen.scss */
+/* line 89, ../sass/screen.scss */
 div.container section#home {
   display: block;
   position: relative;
 }
-/* line 88, ../sass/screen.scss */
+/* line 92, ../sass/screen.scss */
 div.container section#home .post-list {
   display: block;
   padding: 0;
 }
-/* line 91, ../sass/screen.scss */
+/* line 95, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item {
   float: left;
   display: block;
   margin-bottom: 25px;
 }
-/* line 95, ../sass/screen.scss */
+/* line 99, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item.last {
   margin-bottom: 0px;
 }
-/* line 98, ../sass/screen.scss */
+/* line 102, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item .post-date {
   display: block;
   float: left;
@@ -115,7 +116,7 @@ div.container section#home .post-list .post-list-item .post-date {
   text-decoration: none;
   color: #ADADAD;
 }
-/* line 109, ../sass/screen.scss */
+/* line 113, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item .meta {
   display: block;
   float: left;
@@ -123,7 +124,7 @@ div.container section#home .post-list .post-list-item .meta {
   border-left: 5px solid #f2f2f2;
   padding-left: 10px;
 }
-/* line 115, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item .meta .post-title {
   float: left;
   display: block;
@@ -134,35 +135,38 @@ div.container section#home .post-list .post-list-item .meta .post-title {
   color: #222222;
   text-decoration: none;
 }
-/* line 126, ../sass/screen.scss */
+/* line 129, ../sass/screen.scss */
+div.container section#home .post-list .post-list-item .meta .post-title:hover {
+  background-color: transparent;
+}
+/* line 133, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item .meta span.tag {
   font-size: 12px;
   font-style: italic;
-  display: inline-block;
   margin-left: 5px;
   color: #adadad;
 }
-/* line 133, ../sass/screen.scss */
+/* line 139, ../sass/screen.scss */
 div.container section#home .post-list .post-list-item .meta .post-subtitle {
   display: block;
   float: left;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
   margin: 0px;
 }
-/* line 145, ../sass/screen.scss */
+/* line 151, ../sass/screen.scss */
 div.container div.post {
   display: block;
   position: relative;
   float: left;
 }
-/* line 149, ../sass/screen.scss */
+/* line 155, ../sass/screen.scss */
 div.container div.post h1 {
   margin-top: 0px;
 }
 
-/* line 155, ../sass/screen.scss */
+/* line 161, ../sass/screen.scss */
 footer {
   position: relative;
   display: block;
@@ -173,39 +177,107 @@ footer {
   margin: 20px 0 5px;
 }
 
-/* line 165, ../sass/screen.scss */
+/* line 177, ../sass/screen.scss */
 h1 {
   color: #222;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-/* line 167, ../sass/screen.scss */
+/* line 180, ../sass/screen.scss */
 h1.top {
   margin-top: 0px;
 }
 
-/* line 171, ../sass/screen.scss */
+/* line 184, ../sass/screen.scss */
 h2 {
+  position: relative;
+  float: left;
+  display: block;
   margin-bottom: 5px;
 }
 
-/* line 175, ../sass/screen.scss */
+/* line 191, ../sass/screen.scss */
 p {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
+  position: relative;
+  display: block;
+  float: left;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 26px;
   color: #444;
+  width: 100%;
+  margin: 10px 0;
 }
 
-/* line 182, ../sass/screen.scss */
+/* line 203, ../sass/screen.scss */
 a {
+  position: relative;
+  display: inline;
   text-decoration: none;
   color: #0088cc;
 }
-/* line 185, ../sass/screen.scss */
-a:hover {
-  text-decoration: underline;
+/* line 210, ../sass/screen.scss */
+div.container a:hover {
+  background-color: #E3F0F7;
+}
+/* line 213, ../sass/screen.scss */
+img a:hover {
+  background-color: transparent;
 }
 
-/* line 190, ../sass/screen.scss */
+/* line 219, ../sass/screen.scss */
+blockquote {
+  position: relative;
+  display: block;
+  float: left;
+  border-left: 10px solid #f2f2f2;
+  padding-left: 15px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+/* line 227, ../sass/screen.scss */
+blockquote p {
+  font-family: "Vollkorn", Georgia;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ed2525;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+/* line 234, ../sass/screen.scss */
+blockquote p:last-child {
+  margin-bottom: 0px;
+}
+/* line 238, ../sass/screen.scss */
+blockquote.top {
+  margin-top: 0px;
+}
+
+/* line 243, ../sass/screen.scss */
+p.quote-source {
+  position: relative;
+  display: block;
+  float: right;
+  text-align: right;
+  font-family: "Playfair Display";
+  margin-top: 0px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+/* line 255, ../sass/screen.scss */
+div.caption {
+  position: relative;
+  display: block;
+  float: right;
+  font-family: "Open Sans", Georgia;
+  text-align: right;
+  font-style: italic;
+  font-size: 14px;
+  color: #666;
+}
+
+/* line 271, ../sass/screen.scss */
 hr {
   border: 0;
   height: 0;
@@ -214,48 +286,48 @@ hr {
   margin: 40px 0;
 }
 
-/* line 199, ../sass/screen.scss */
+/* line 279, ../sass/screen.scss */
+div.photo-block {
+  position: relative;
+  display: block;
+  float: left;
+  margin-top: 15px;
+}
+/* line 284, ../sass/screen.scss */
+div.photo-block a:hover {
+  background-color: transparent;
+}
+/* line 287, ../sass/screen.scss */
+div.photo-block.top {
+  margin-top: 0px;
+}
+
+/* line 293, ../sass/screen.scss */
 img.pull-left {
   float: left;
   vertical-align: top;
   padding: 10px 25px 10px 0;
 }
-/* line 204, ../sass/screen.scss */
+/* line 298, ../sass/screen.scss */
 img#about-cheekswab {
   margin-top: 8px;
 }
-/* line 207, ../sass/screen.scss */
+/* line 301, ../sass/screen.scss */
 img.home-top {
   margin-bottom: 15px;
 }
 
-/* line 212, ../sass/screen.scss */
-blockquote {
-  border-left: 10px solid #f2f2f2;
-  padding-left: 15px;
-  margin-left: 20px;
-}
-/* line 216, ../sass/screen.scss */
-blockquote p {
-  font-family: Georgia;
-  font-size: 20px;
-  font-style: italic;
-  line-height: 32px;
-  color: #ed2525;
-}
-
-/* line 225, ../sass/screen.scss */
-p.quote-source {
-  text-align: right;
-}
-
-/* line 229, ../sass/screen.scss */
+/* line 306, ../sass/screen.scss */
 ol {
+  position: relative;
+  display: block;
+  float: left;
   counter-reset: li;
   margin-left: 30px;
   padding-left: 0;
+  width: 100%;
 }
-/* line 233, ../sass/screen.scss */
+/* line 314, ../sass/screen.scss */
 ol li {
   position: relative;
   margin: 0 0 10px 2em;
@@ -263,7 +335,7 @@ ol li {
   list-style: none;
   background: transparent;
 }
-/* line 239, ../sass/screen.scss */
+/* line 320, ../sass/screen.scss */
 ol li:before {
   content: counter(li);
   counter-increment: li;
@@ -283,21 +355,19 @@ ol li:before {
   text-align: center;
 }
 
-/* line 261, ../sass/screen.scss */
+/* line 341, ../sass/screen.scss */
+ul {
+  width: 100%;
+  position: relative;
+  display: block;
+  float: left;
+}
+/* line 346, ../sass/screen.scss */
 ul li {
   margin-bottom: 4px;
 }
 
-/* line 266, ../sass/screen.scss */
-div.caption {
-  font-family: Georgia;
-  text-align: right;
-  font-style: italic;
-  margin-top: -16px;
-  color: #666;
-}
-
-/* line 274, ../sass/screen.scss */
+/* line 355, ../sass/screen.scss */
 div.disqus-comments {
   position: relative;
   display: block;

@@ -4,9 +4,10 @@ title: The Cloisters, NYC
 tags: photos
 ---
 
-<img src="/assets/img/2012-07-30_Fly1.jpg" title="Fly"/>
-
-<img src="/assets/img/2012-07-30_Fly2.jpg" title="Close Up"/>
+<div class="photo-block top">
+    <img src="/assets/img/2012-07-30_Fly1.jpg" title="Fly"/>
+    <img src="/assets/img/2012-07-30_Fly2.jpg" title="Close Up"/>
+</div>
 
 <p class="quote-source">
     (In the vegetable garden at <a target="_blank" title="The Cloisters -- wikipedia.org" href="https://en.

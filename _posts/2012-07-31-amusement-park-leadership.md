@@ -5,7 +5,9 @@ subtitle: Michael Scott comes to life.
 tags: text
 ---
 
-<a href="https://secure.flickr.com/photos/powi/6021664686/sizes/l/in/photostream/" target="_blank" title="powi on Flickr"><img src="/assets/img/2012-07-31_amusementpark.jpg" title="Amusement Parks"/></a>
+<div class="photo-block top">
+    <a href="https://secure.flickr.com/photos/powi/6021664686/sizes/l/in/photostream/" target="_blank" title="powi on Flickr"><img src="/assets/img/2012-07-31_amusementpark.jpg" title="Amusement Parks"/></a>
+</div>
 
 > I'd say that there's a lot of Michael Scott in this job. I'd say there's a lot of Michael Scott in me, probably. I do silly things that everybody looks at me later and go, why did he do it? Why was it deemed necessary for Cole to dress up wearing a big beard and a raincoat, and tell everyone he lived downtown under the bridge and he was there to motivational speaker them today? "Hi everybody, I'm Phil Bridges." You know, and then, like, go out and talk to people. What went through his thought process?
 >
@@ -14,6 +16,8 @@ tags: text
 >
 >
 > And so if they're talking about, "Did you guys see what Cole did at the shift meeting?" Even if they say, "that was stupid," or "that was not funny," they're still going to be talking about it. And that's still going to get them happy about this job.
+
+<p class="quote-source">(Cole Lindbergh, Manager, World of Fun Amusement Park)</p>
 
 I like to listen to storytelling podcasts on long car rides, and this weekends trip to/from upstate New York with my girlfriend was no different. We listened to an episode of <a target="_blank" title="This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">This American Life</a> called <a target="_blank" title="Amusement Park | This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">Amusement Park</a> which was an unexpected lesson in leadership. The episode itself aired last August.
 

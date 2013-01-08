@@ -4,7 +4,9 @@ title: Offscreen Mag - "Defining Success"
 tags: excerpt
 ---
 
-<a href="https://secure.flickr.com/photos/brakai295/8022678255/in/pool-offscreenmag" target="_blank" title="offscreen on flickr"><img src="/assets/img/2013-01-06_offscreen.jpg" title="Offscreen Issue 3"/></a>
+<div class="photo-block top">
+    <a href="https://secure.flickr.com/photos/brakai295/8022678255/in/pool-offscreenmag" target="_blank" title="offscreen on flickr"><img src="/assets/img/2013-01-06_offscreen.jpg" title="Offscreen Issue 3"/></a>
+</div>
 
 > The author Gay Talese, in an interview with The Paris Review, said he had no regrets regarding the fact that his books and articles had never won any awards and prizes. He said, "The only reward I have is the feeling that I have done the best I can."  And I've long drawn inspiration from this quote by Walt Disney: "We don't make movies to make money, we make money to make more movies."
 >

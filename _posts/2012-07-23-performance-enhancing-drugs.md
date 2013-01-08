@@ -5,7 +5,9 @@ subtitle: When you think about it, it's kind of arbitrary.
 tags: text
 ---
 
-<a href="https://secure.flickr.com/photos/gmephotos/6728618629/sizes/l/in/photostream/" target="_blank" title="gmephotos on Flickr"><img src="/assets/img/2012-07-23_mcgwire.jpg" title="Mark McGwire"/></a>
+<div class="photo-block top">
+    <a href="https://secure.flickr.com/photos/gmephotos/6728618629/sizes/l/in/photostream/" target="_blank" title="gmephotos on Flickr"><img src="/assets/img/2012-07-23_mcgwire.jpg" title="Mark McGwire"/></a>
+</div>
 
 > Using steroids because we no longer get the same erections we once had, or because a middle-aged man has less energy than he did at twenty (or a woman has less libido than considered ideal), is increasingly considered normal, while the list of substances banned for people like Mark McGwire grows longer and longer, the invasive tests intended to expose any transgression more and more extensive. As a society, we suffer from a paradoxical pharamacological puritanism, expecting medical technology to change our lives and yet demanding that it not change our games.
 
