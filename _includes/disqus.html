@@ -3,6 +3,13 @@
 <div class="disqus-comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
+        var disqus_developer = null;
+
+        // set the developer variable if on localhost
+        if (window.location.href.indexOf("localhost") != -1) {
+            disqus_developer = 1;
+        }
+
         var disqus_shortname = 'danielna';
         var disqus_identifier = window.location.pathname;
 
