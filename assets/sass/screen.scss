@@ -260,6 +260,14 @@ div.caption {
     color: #666;
 }
 
+div.footnotes {
+    display: block;
+    position: relative;
+    float: left;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
 
 
 
@@ -345,6 +353,9 @@ ul {
     position: relative;
     display: block;
     float: left;
+    font-family: "Open Sans", $helvetica-neue;
+    font-size: 18px;
+    line-height: 26px;
     li {
         margin-bottom: 4px;
     }
@@ -440,6 +451,15 @@ div.disqus-comments {
         margin-left: 20px;
     }
 
+    ul {
+        margin-left: 0px;
+        padding-left: 20px;
+        li {
+            font-size: 16px; 
+            line-height: 24px;
+        }
+    }
+
     blockquote {
         margin-left: 5px;
     }
@@ -452,6 +472,10 @@ div.disqus-comments {
     }
     div.container section#home .post-list .post-list-item .meta .post-title {
         line-height: 22px;
+    }
+
+    h1 {
+        font-size: 24px;
     }
 
     p {
@@ -470,6 +494,10 @@ div.disqus-comments {
             font-size: 16px; 
             line-height: 24px;
         }
+    }
+
+    ul {
+        padding-left: 10px;
     }
     
     blockquote {
