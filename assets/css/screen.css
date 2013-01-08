@@ -468,86 +468,87 @@ div.disqus-comments {
   a#about-cheekswab-link img#about-cheekswab {
     padding: 10px 0;
     margin: 0 auto;
+    width: 100%;
   }
 
-  /* line 445, ../sass/screen.scss */
+  /* line 446, ../sass/screen.scss */
   p {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 450, ../sass/screen.scss */
+  /* line 451, ../sass/screen.scss */
   ol {
     margin-left: 20px;
   }
 
-  /* line 454, ../sass/screen.scss */
+  /* line 455, ../sass/screen.scss */
   ul {
     margin-left: 0px;
     padding-left: 20px;
   }
-  /* line 457, ../sass/screen.scss */
+  /* line 458, ../sass/screen.scss */
   ul li {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 463, ../sass/screen.scss */
+  /* line 464, ../sass/screen.scss */
   blockquote {
     margin-left: 5px;
   }
 }
 @media (max-width: 520px) {
-  /* line 470, ../sass/screen.scss */
+  /* line 471, ../sass/screen.scss */
   div.wrapper {
     width: 300px;
   }
 
-  /* line 473, ../sass/screen.scss */
+  /* line 474, ../sass/screen.scss */
   div.container section#home .post-list .post-list-item .meta .post-title {
     line-height: 22px;
   }
 
-  /* line 477, ../sass/screen.scss */
+  /* line 478, ../sass/screen.scss */
   h1 {
     font-size: 24px;
   }
 
-  /* line 481, ../sass/screen.scss */
+  /* line 482, ../sass/screen.scss */
   p {
     font-size: 14px;
     line-height: 22px;
   }
 
-  /* line 486, ../sass/screen.scss */
+  /* line 487, ../sass/screen.scss */
   img#about-cheekswab {
     width: 300px;
   }
 
-  /* line 490, ../sass/screen.scss */
+  /* line 491, ../sass/screen.scss */
   ol {
     margin-left: 10px;
   }
-  /* line 492, ../sass/screen.scss */
+  /* line 493, ../sass/screen.scss */
   ol li {
     padding: 3px 6px;
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 499, ../sass/screen.scss */
+  /* line 500, ../sass/screen.scss */
   ul {
     padding-left: 10px;
   }
 
-  /* line 503, ../sass/screen.scss */
+  /* line 504, ../sass/screen.scss */
   blockquote {
     margin-left: 0px;
     font-size: 18px;
     line-height: 28px;
   }
 
-  /* line 509, ../sass/screen.scss */
+  /* line 510, ../sass/screen.scss */
   img {
     width: 300px;
   }
