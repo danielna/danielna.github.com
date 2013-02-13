@@ -193,12 +193,15 @@ p {
     position: relative;
     display: block;
     float: left;
+    width: 100%;
+    margin: 10px 0;
+}
+
+p, li {
     font-family: "Open Sans", $helvetica-neue;
     font-size: 18px;
     line-height: 26px;
     color: #444;
-    width: 100%;
-    margin: 10px 0;
 }
 
 a {
@@ -269,11 +272,6 @@ div.footnotes {
     font-size: 12px;
 }
 
-
-
-
-
-
 div.separator {
     position: relative;
     display: block;
@@ -319,33 +317,15 @@ ol {
     display: block;
     float: left;
     counter-reset: li;
-    margin-left: 30px;
-    padding-left: 0;
-    width: 100%;
+    margin-left: 0px;
+    padding: 15px 10px 15px 20px;
+    width: 850px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
     li {
         position: relative;
         margin: 0 0 10px 2em;
         padding: 4px 8px;
-        list-style: none; 
-        background: transparent;
-        &:before {
-            content: counter(li);
-            counter-increment: li;
-            position: absolute;
-            top: 0px;
-            left: -2em;
-            -moz-box-sizing: border-box;
-            -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-            width: 2em;
-            margin-right: 8px;
-            padding: 4px;
-            color: #fff;
-            background: #666;
-            font-weight: bold;
-            font-family: "Helvetica Neue", Arial, sans-serif;
-            text-align: center;
-        }
     }
 }
 
@@ -391,8 +371,8 @@ div.disqus-comments {
             position: relative;
             float: left;
             display: block;
-            font-size: 14px;
-            line-height: 14px;
+            font-size: 13px;
+            line-height: 13px;
             margin-bottom: 0px;
             width: auto;
             vertical-align: bottom;
@@ -432,25 +412,26 @@ div.disqus-comments {
         float: left;
         position: relative;
         width: 100%;
-        clear: both;
         text-align: center;
         &:hover {
             background-color: transparent;
         }
         img#about-cheekswab {
-            padding: 10px 0;
-            margin: 0 auto;
-            width: 100%;
+            display: inline-block;
+            position: relative;
+            padding: 0;
+            margin: 0px auto 23px 40px;
+            width: auto;
         }
     }
 
-    p {
+    p, li {
         font-size: 16px;
         line-height: 24px;
     }
 
     ol {
-        margin-left: 20px;
+        width: 470px;
     }
 
     ul {
@@ -480,22 +461,21 @@ div.disqus-comments {
         font-size: 24px;
     }
 
-    p {
+    p, li {
         font-size: 14px;
         line-height: 22px;
     }
 
-    img#about-cheekswab {
-        width: 300px;
+    a#about-cheekswab-link {
+        img#about-cheekswab {
+            width: 200px;
+            margin: 0px 0px 20px 35px;
+        }
     }
 
     ol {
-        margin-left: 10px;
-        li {
-            padding: 3px 6px;
-            font-size: 16px; 
-            line-height: 24px;
-        }
+        width: 270px;
+        padding: 10px 10px 5px 10px;
     }
 
     ul {
@@ -510,5 +490,19 @@ div.disqus-comments {
 
     img {
         width: 300px;
+    }
+
+    a.post-title {
+        margin: 3px 0;
+        font-size: 16px !important;
+        line-height: 18px !important;
+    }
+    p.post-subtitle {
+        font-size: 14px !important;
+        line-height: 18px !important;
+    }
+
+    div.separator {
+        margin: 15px 0;
     }
 }
