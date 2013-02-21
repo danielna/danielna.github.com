@@ -10,7 +10,7 @@ tags: text
     <div class="caption">Remnants from the neighborhood grocery store.  We didn't actually use the garbanzo beans.</div>
 </div>
 
-I like to cook.
+<p class="first">I like to cook.</p>
 
 Almost everything I know about food is literally from watching hours of Food Network, with <a href="http://www.foodnetwork.com/good-eats/index.html" target="_blank" title="Good Eats">Alton Brown</a> as my preferred guide.  I'm not the best chef I know (that title is reserved for a <a href="http://www.sugarphillytruck.com/about/" title="About Sugar Philly Truck" target="_blank">friend of mine who runs a dessert food truck in Philadelphia</a>) but I like to consider myself somewhat competent in the kitchen.  I think it's lame when a person can't cook themselves a meal from real, fresh ingredients.  It's not a gender thing, it's an adult thing.
 
@@ -25,8 +25,7 @@ Being sick as a dog on New Years Eve is not my preferred way to kick in the new 
 
 <div class="photo-block">
     <img src="/assets/img/2012-12-31/3.jpg" title="Quinoa"/>
-    <div class="caption">1c quinoa to 2c liquid. In this case, 1c water, 1c coconut milk. Heat on high, once it boils switch it to low.  
-        <br/>The quinoa will reduce on its own over 15 minutes and fluff as it absorbs the liquid.
+    <div class="caption">1c quinoa to 2c liquid. In this case, 1c water, 1c coconut milk. Heat on high, once it boils switch it to low. The quinoa will reduce on its own over 15 minutes and fluff as it absorbs the liquid.
     </div>
 </div>
 
@@ -52,15 +51,13 @@ I prefer to bake things over pan frying them because it's less work/less smell/h
 
 <div class="photo-block">
     <img src="/assets/img/2012-12-31/7.jpg" title="Wrap at the top"/>
-    <div class="caption">Center the fish in the foil and bring up the two long ends.
-        <br/>Wrap the top of the packet.
+    <div class="caption">Center the fish in the foil and bring up the two long ends. Wrap the top of the packet.
     </div>
 </div>
 
 <div class="photo-block">
     <img src="/assets/img/2012-12-31/8.jpg" title="Wrap the ends"/>
-    <div class="caption">After wrapping the top, wrap the ends.  
-        <br/>Leave enough space within the foil for the fish to steam.
+    <div class="caption">After wrapping the top, wrap the ends.  Leave enough space within the foil for the fish to steam.
     </div>   
 </div>
 
@@ -72,7 +69,7 @@ I prefer to bake things over pan frying them because it's less work/less smell/h
 
 <div class="photo-block">
     <img src="/assets/img/2012-12-31/10.jpg" title="Repeat as necessary."/>
-    <div class="caption">Repeat as necessary.<br/>20 minutes at 400 degrees, until the fish flakes with a fork.
+    <div class="caption">Repeat as necessary. 20 minutes at 400 degrees, until the fish flakes with a fork.
     </div>
 </div>
 

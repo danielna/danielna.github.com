@@ -11,6 +11,6 @@ tags: excerpt
     <p>
         The difference between these two approaches is to realize that bullets are cheap. By the time the former group has perfected their wind detection instrument, you’ll have finished your simple weapon and already hit the target.    
     </p>
+<p class="quote-source">(from <a href="http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html" target="_blank" title="Ten Lessons from Github's First Year">Ten Lessons from Github's First Year</a>)</p>
 </blockquote>
 
-<p class="quote-source">(from <a href="http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html" target="_blank" title="Ten Lessons from Github's First Year">Ten Lessons from Github's First Year</a>)</p>

@@ -10,8 +10,7 @@ tags: text
 </div>
 
 > Using steroids because we no longer get the same erections we once had, or because a middle-aged man has less energy than he did at twenty (or a woman has less libido than considered ideal), is increasingly considered normal, while the list of substances banned for people like Mark McGwire grows longer and longer, the invasive tests intended to expose any transgression more and more extensive. As a society, we suffer from a paradoxical pharamacological puritanism, expecting medical technology to change our lives and yet demanding that it not change our games.
-
-<p class="quote-source">(From <a target="_blank" title="The Roid Paradox" href="http://andrewsullivan.thedailybeast.com/2012/07/the-roid-paradox.html">Andrew Sullivan</a> via <a target="_blank" title="Roid Age: steroids in sport and the paradox of pharmacological puritanism" href="http://blogs.plos.org/neuroanthropology/2012/07/09/roid-age-steroids-in-sport-and-the-paradox-of-pharmacological-puritanism/">Greg Downey</a>)</p>
+> <p class="quote-source">(From <a target="_blank" title="The Roid Paradox" href="http://andrewsullivan.thedailybeast.com/2012/07/the-roid-paradox.html">Andrew Sullivan</a> via <a target="_blank" title="Roid Age: steroids in sport and the paradox of pharmacological puritanism" href="http://blogs.plos.org/neuroanthropology/2012/07/09/roid-age-steroids-in-sport-and-the-paradox-of-pharmacological-puritanism/">Greg Downey</a>)</p>
 
 When you think about it, the outrage does seem arbitrary. I suppose one argument against steroids in sports (baseball) is the preservation of the <strong>tradition</strong> of the game, with specific reference to the home run chase re: Mark McGwire. When McGwire/Sosa/Bonds hit so many home runs, we were able to benchmark their achievements against the historical numbers of Ruth/Aaron.
 

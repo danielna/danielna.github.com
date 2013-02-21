@@ -11,7 +11,7 @@ tags: photos
     <img src="/assets/img/2013-01-24_MLK.jpg" title="Visiting the Doctor"/>
 </div>
 
-Spent the day before inauguration in DC to both walk around and celebrate my birthday.
+<p class="first">Spent the day before inauguration in DC to both walk around and celebrate my birthday.</p>
 
 One of my favorite books is <a href="http://www.amazon.com/gp/product/0446675547/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0446675547&linkCode=as2&tag=musings01b1-20">A Knock at Midnight,</a><img src="http://www.assoc-amazon.com/e/ir?t=musings01b1-20&l=as2&o=1&a=0446675547" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> which is a collection of sermons from MLK.  Reading Dr. King's writings adds a lot more depth to understanding just how insanely intelligent this man was; his ability to craft arguments, invoke emotion and tell a compelling story was really incredible.  I've seen video of his oratory delivery but that's really just the surface of his speaking power.  You think Steve Jobs gave a good keynote?  Those were nothing by comparison.
 

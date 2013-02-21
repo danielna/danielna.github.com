@@ -16,8 +16,7 @@ tags: text
 >
 >
 > And so if they're talking about, "Did you guys see what Cole did at the shift meeting?" Even if they say, "that was stupid," or "that was not funny," they're still going to be talking about it. And that's still going to get them happy about this job.
-
-<p class="quote-source">(Cole Lindbergh, Manager, World of Fun Amusement Park)</p>
+> <p class="quote-source">(Cole Lindbergh, Manager, World of Fun Amusement Park)</p>
 
 I like to listen to storytelling podcasts on long car rides, and this weekends trip to/from upstate New York with my girlfriend was no different. We listened to an episode of <a target="_blank" title="This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">This American Life</a> called <a target="_blank" title="Amusement Park | This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">Amusement Park</a> which was an unexpected lesson in leadership. The episode itself aired last August.
 

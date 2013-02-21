@@ -10,7 +10,7 @@ tags: text
     <div class="caption">The tree-tops of Antigua, Guatemala</div>
 </div>
 
-I recently returned from a destination wedding in Antigua, Guatemala, followed by a mini-vacation in Monteverde, Costa Rica with some friends from college.  It was my second time out of the country in the last 8 years.
+<p class="first">I recently returned from a destination wedding in Antigua, Guatemala, followed by a mini-vacation in Monteverde, Costa Rica with some friends from college.  It was my second time out of the country in the last 8 years.</p>
 
 I traveled a lot when I was in elementary school, as my parents made it a point to send the family on some sort of overnight, airplane-required trip every summer.  As a whole the trips were mostly to touristy locations.  Off the top of my head I can recall Orlando, Hawaii, Bermuda, a cruise to the Bahamas, St. Thomas/US Virgin Islands, and Korea/Japan. 
 

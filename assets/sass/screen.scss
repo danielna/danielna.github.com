@@ -1,9 +1,8 @@
-$page-padding: 0 40px;
 $font-black: #222222;
 $light-gray: #f2f2f2;
 $less-light-gray: #adadad;
 $color-blue: #0088CC;
-$helvetica-neue: "Helvetica Neue", Helvetica,Arial,sans-serif;
+$body-font: "Open Sans", "Helvetica Neue", Helvetica,Arial,sans-serif;
 $header-color: #ED2525;
 
 
@@ -19,20 +18,20 @@ body {
     position: relative;
     height: 100%;
     background: url("/assets/img/bg_grid.png") repeat #000;
-    font-family: "Open Sans", $helvetica-neue;
+    font-family: $body-font;
+    font-size: 14px;
     color: #444;
 }
 
-div.wrapper {
+.wrapper {
     display: block;
     position: relative;
     float: left;
-    // background: url("/assets/img/paper.png") repeat #fff;
     background-color: #fff;
     border-right: 2px solid #444;
     min-height: 100%;
     width: 880px;
-    padding: $page-padding;
+    padding: 0 40px;
 }
 
 header {
@@ -43,29 +42,26 @@ header {
     a.page-heading {
         float: left;
         display: block;
-        font-family: $helvetica-neue;
+        font-family: $body-font;
         font-size: 42px;
-        font-weight: bold;
         color: $header-color;
-        // text-transform: uppercase;
         text-shadow: 0px 0px 1px #ccc;
         filter: dropshadow(color=#ccc, offx=0, offy=0);
         text-decoration: none;
         margin: 0 auto;
         padding: 20px 0;
     }
-    div.right {
+    .right {
         float: right;
         display: block;
         text-align: right;
         margin-top: 30px;
-        font-family: "Open Sans";
         font-size: 12px;
         line-height: 18px;
     }
 }
 
-div.container {
+.container {
     position: relative;
     display: block;
     float: left;
@@ -106,7 +102,7 @@ div.container {
                 .post-date {
                     display: block;
                     float: left;
-                    width: 125px;
+                    width: 115px;
                     font-size: 13px;
                     line-height: 19px;
                     font-family: Verdana;
@@ -116,6 +112,7 @@ div.container {
                 }
                 span.tag {
                     font-size: 12px;
+                    line-height: 24px;
                     font-style: italic;
                     margin-left: 5px;
                     color: $less-light-gray;
@@ -125,7 +122,7 @@ div.container {
                     float: left;
                     width: 740px;
                     border-left: 5px solid $light-gray;
-                    padding-left: 10px;
+                    padding-left: 12px;
                     .post-title { 
                         float: left;
                         display: block;
@@ -134,14 +131,12 @@ div.container {
                         line-height: 26px;
                         font-weight: bold;
                         color: $font-black;
-                        // text-transform: uppercase;
                         text-decoration: none;
                     }
                     .post-subtitle {
                         display: block;
                         float: left;
-                        font-family: "Open Sans", $helvetica-neue;
-                        font-size: 16px;
+                        font-size: 14px;
                         line-height: 24px;
                         margin: 0px;
                     }
@@ -176,8 +171,9 @@ footer {
 
 // Text
 h1 {
-    color: #222;
-    font-family: $helvetica-neue;
+    color: $font-black;
+    font-family: $body-font;
+    margin-bottom: 18px;
     &.top {
         margin-top: 0px;
     }
@@ -193,13 +189,16 @@ p {
     position: relative;
     display: block;
     float: left;
-    width: 100%;
-    margin: 10px 0;
+    margin: 0 auto 18px;
+    &.first {
+        margin-top: 18px;
+    }
 }
 
 p, li {
-    font-family: "Open Sans", $helvetica-neue;
-    font-size: 18px;
+    font-family: "Open Sans", $body-font;
+    font-weight: 300;
+    font-size: 16px;
     line-height: 26px;
     color: #444;
 }
@@ -223,15 +222,15 @@ blockquote {
     float: left;
     border-left: 10px solid #f2f2f2;
     padding-left: 15px;
-    margin-left: 20px;
-    margin-bottom: 0px;
+    padding-right: 15px;
+    margin: 25px 0px 35px 20px;
     p {
-        font-family: Georgia;
         font-size: 20px;
         line-height: 30px;
+        font-weight: bold;
         color: $header-color;
-        margin-top: 0px;
-        margin-bottom: 20px;
+        margin: 0 0 20px 0;
+        width: 100%;
         &:last-child {
             margin-bottom: 0px;
         }
@@ -239,18 +238,18 @@ blockquote {
     &.top {
         margin-top: 0px;
     }
-}
+    .quote-source {
+        position: relative;
+        display: block;
+        float: right;
+        text-align: right;
+        margin: 0;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: normal;
+        color: $font-black;
 
-p.quote-source {
-    position: relative;
-    display: block;
-    float: right;
-    text-align: right;
-    font-family: "Playfair Display";
-    margin-top: 0px;
-    margin-bottom: 15px;
-    text-transform: uppercase;
-    font-size: 14px;
+    }
 }
 
 div.caption {
@@ -259,8 +258,8 @@ div.caption {
     float: right;
     font-family: "Open Sans", Georgia;
     text-align: right;
-    font-style: italic;
-    font-size: 14px;
+    // font-style: italic;
+    font-size: 12px;
     color: #666;
 }
 
@@ -288,11 +287,13 @@ div.photo-block {
     display: block;
     float: left;
     margin-top: 15px;
+    margin-bottom: 18px;
     a:hover {
         background-color: transparent;
     }
     &.top {
         margin-top: 0px;
+        margin-bottom: 0px;
     }
 }
 
@@ -317,7 +318,7 @@ ol {
     display: block;
     float: left;
     counter-reset: li;
-    margin-left: 0px;
+    margin: 0 0 18px;
     padding: 15px 10px 15px 20px;
     width: 850px;
     background-color: #f9f9f9;
@@ -334,7 +335,7 @@ ul {
     position: relative;
     display: block;
     float: left;
-    font-family: "Open Sans", $helvetica-neue;
+    font-family: "Open Sans", $body-font;
     font-size: 18px;
     line-height: 26px;
     li {
@@ -382,7 +383,7 @@ div.disqus-comments {
             float: left;
             display: block;
             font-size: 12px;
-            line-height: 18px;
+            line-height: 16px;
             margin-left: 10px;
             vertical-align: bottom;
         }
@@ -445,6 +446,14 @@ div.disqus-comments {
 
     blockquote {
         margin-left: 5px;
+        p {
+            font-size: 18px;
+            line-height: 24px;
+            margin-bottom: 18px;
+        }
+        .quote-source {
+            font-size: 12px;
+        }
     }
 }
 
@@ -484,8 +493,14 @@ div.disqus-comments {
     
     blockquote {
         margin-left: 0px;
-        font-size: 18px;
-        line-height: 28px;
+        p {
+            font-size: 14px;
+            line-height: 21px;
+            margin-bottom: 14px;
+        }
+        .quote-source {
+            font-size: 10px;
+        }
     }
 
     img {

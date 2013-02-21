@@ -12,7 +12,4 @@ tags: excerpt
 >
 >
 > The self-discipline he believes is required to do the job well comes at a high price. "You can’t wander around," he said. "It’s much harder to be surprised. You don’t have those moments of serendipity. You don’t bump into a friend in a restaurant you haven’t seen in years. The loss of anonymity and the loss of surprise is an unnatural state. You adapt to it, but you don’t get used to it—at least I don’t."
-
-<p class="quote-source">
-    (From <a target="_blank" title="Michael Lewis: Obama's Way | Vanity Fair" href="http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama">Michael Lewis: Obama's Way</a> in Vanity Fair)
-</p>
+> <p class="quote-source"> (From <a target="_blank" title="Michael Lewis: Obama's Way | Vanity Fair" href="http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama">Michael Lewis: Obama's Way</a> in Vanity Fair) </p>

@@ -16,8 +16,7 @@ tags: excerpt
 >
 >
 >You could give away some muffin samples.  Break a muffin into fifty little small pieces and let people have that, and maybe sell them one today.  That makes sense.  And that's how people would look at something like a bakery.  Why aren't people looking at software companies and tech companies the same way?
-
-<p class="quote-source">(Jason Fried, from <a href="http://5by5.tv/pipeline/3" target="_blank">The Pipeline, Episode 3</a>)</p>
+><p class="quote-source">(Jason Fried, from <a href="http://5by5.tv/pipeline/3" target="_blank">The Pipeline, Episode 3</a>)</p>
 
 <p>Awesome off-the-cuff comment that made me laugh on the drive down to a career fair at UVA today.</p>
 
