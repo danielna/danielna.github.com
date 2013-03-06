@@ -144,7 +144,7 @@ header {
             }
         } 
     }
-    div.post {
+    .post {
         display: block;
         position: relative;
         float: left;
@@ -209,8 +209,7 @@ a {
     text-decoration: none;
     color: $color-blue;
     &:hover {
-        // text-decoration: underline;
-        div.container &, header div.right &, footer & {
+        .container &, header .right &, footer & {
             background-color: #E3F0F7;
         }
     }
@@ -238,32 +237,31 @@ blockquote {
     &.top {
         margin-top: 0px;
     }
-    .quote-source {
-        position: relative;
-        display: block;
-        float: right;
-        text-align: right;
-        margin: 0;
-        text-transform: uppercase;
-        font-size: 14px;
-        font-weight: normal;
-        color: $font-black;
-
-    }
 }
 
-div.caption {
+.quote-source {
+    position: relative;
+    display: block;
+    float: right;
+    text-align: right;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: normal;
+    color: $font-black;
+}
+
+.caption {
     position: relative;
     display: block;
     float: right;
     font-family: "Open Sans", Georgia;
     text-align: right;
-    // font-style: italic;
     font-size: 12px;
     color: #666;
 }
 
-div.footnotes {
+.footnotes {
     display: block;
     position: relative;
     float: left;
@@ -271,18 +269,18 @@ div.footnotes {
     font-size: 12px;
 }
 
-div.separator {
+.separator {
     position: relative;
     display: block;
     float: left;
-    margin: 20px 0;
+    margin: 0 0 1em;
     text-align: center;
     width: 100%;
     font-size: 18px;
     color: #CCC;
 }
 
-div.photo-block {
+.photo-block {
     position: relative;
     display: block;
     float: left;
@@ -347,7 +345,7 @@ ul {
 //
 // Other
 
-div.disqus-comments {
+.disqus-comments {
     position: relative;
     display: block;
     float: left;
@@ -364,10 +362,11 @@ div.disqus-comments {
 
 /* 500px width for 7" */
 @media (max-width: 680px) {
-    div.wrapper {
+    .wrapper {
         width: 500px;
+        padding: 0 20px;
     }
-    div.container section#home .post-list .post-list-item {
+    .container section#home .post-list .post-list-item {
         .post-date {
             position: relative;
             float: left;
@@ -451,18 +450,19 @@ div.disqus-comments {
             line-height: 24px;
             margin-bottom: 18px;
         }
-        .quote-source {
+    }
+    .quote-source {
             font-size: 12px;
-        }
     }
 }
 
 // 300px for iPhones
 @media (max-width: 520px) {
-     div.wrapper {
+     .wrapper {
         width: 300px;
+        padding: 0 15px;
     }
-    div.container section#home .post-list .post-list-item .meta .post-title {
+    .container section#home .post-list .post-list-item .meta .post-title {
         line-height: 22px;
     }
 
@@ -498,9 +498,9 @@ div.disqus-comments {
             line-height: 21px;
             margin-bottom: 14px;
         }
-        .quote-source {
-            font-size: 10px;
-        }
+    }
+    .quote-source {
+        font-size: 10px;
     }
 
     img {
@@ -517,7 +517,7 @@ div.disqus-comments {
         line-height: 18px !important;
     }
 
-    div.separator {
-        margin: 15px 0;
+    .separator {
+        margin-bottom: 1em;
     }
 }
