@@ -1,7 +1,7 @@
 ---
 layout: hoop-dreams
 title: Hoop Dreams
-subtitle: Leave it all out on the court.
+subtitle: Leaving it all out on the court.
 tags: experimental
 ---
 
@@ -102,7 +102,7 @@ tags: experimental
         [4] The prevaling thought in my mind leaving the gym that day was "well, at least this will make a good story."
     </p>
     <p>
-        [5] This post is different from the others in that it's labeled as an "experiment."  It's not necessarily clean (mark-up wise) nor responsive.  I think that's okay.
+        [5] This post is different from the others in that it's labeled as an "experiment."  It's not necessarily clean markup nor responsive.  I'm okay with that.
     </p>
 
 </div>
