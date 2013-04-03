@@ -1,0 +1,158 @@
+/* line 5, ../sass/hoop-dreams.scss */
+body.hoop-dreams {
+  width: 100%;
+  background-color: #000;
+  background-image: none;
+}
+/* line 9, ../sass/hoop-dreams.scss */
+body.hoop-dreams img {
+  width: 100%;
+}
+
+/* line 13, ../sass/hoop-dreams.scss */
+.container {
+  padding: 0;
+}
+
+/* line 16, ../sass/hoop-dreams.scss */
+.center-me {
+  display: block;
+  position: relative;
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: #f2f2f2;
+}
+
+/* line 23, ../sass/hoop-dreams.scss */
+header, footer {
+  display: block;
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+  float: none;
+}
+
+/* line 30, ../sass/hoop-dreams.scss */
+footer {
+  margin-top: 40px;
+  padding-bottom: 20px;
+}
+
+/* line 34, ../sass/hoop-dreams.scss */
+#top {
+  display: block;
+  position: relative;
+  height: 570px;
+  border-bottom: 1px solid #666;
+  background: url("/assets/img/2013-04-02_top.jpg") 50% 0 repeat fixed;
+  -webkit-box-shadow: 0px 0px 60px #222222 inset;
+  -moz-box-shadow: 0px 0px 60px #222222 inset;
+  box-shadow: 0px 0px 60px #222222 inset;
+}
+/* line 41, ../sass/hoop-dreams.scss */
+#top h1 {
+  position: absolute;
+  bottom: 5%;
+  right: 3%;
+  display: inline-block;
+  color: #fff;
+  font-family: "Helvetica";
+  font-size: 90px;
+  text-shadow: 0px 5px 11px #222222;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 54, ../sass/hoop-dreams.scss */
+.content {
+  display: block;
+  position: relative;
+  max-width: 600px;
+  margin: 80px auto 40px;
+}
+
+/* line 61, ../sass/hoop-dreams.scss */
+p {
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 40px;
+  text-align: justify;
+}
+/* line 66, ../sass/hoop-dreams.scss */
+p strong {
+  font-weight: 900;
+  font-family: helvetica;
+}
+/* line 70, ../sass/hoop-dreams.scss */
+p.bigger {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+/* line 76, ../sass/hoop-dreams.scss */
+span.big-text {
+  display: block;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-align: justify;
+}
+
+/* line 86, ../sass/hoop-dreams.scss */
+.note {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  max-width: 800px;
+  padding-right: 40px;
+}
+/* line 92, ../sass/hoop-dreams.scss */
+.note p {
+  font-size: 12px;
+  line-height: 16px;
+  margin-bottom: 20px;
+}
+
+/* line 98, ../sass/hoop-dreams.scss */
+.quote-me {
+  display: block;
+  position: relative;
+  width: 900px;
+  margin: 40px auto 0;
+}
+/* line 103, ../sass/hoop-dreams.scss */
+.quote-me img.huddle {
+  width: auto;
+  float: left;
+  margin-right: 50px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* line 109, ../sass/hoop-dreams.scss */
+.quote-me blockquote {
+  display: block;
+  position: relative;
+  float: left;
+  width: 400px;
+  padding: 25px;
+  margin: 10px 0 0 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: red;
+  color: #fff;
+  font-size: 30px;
+  line-height: 32px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+/* line 124, ../sass/hoop-dreams.scss */
+.quote-me blockquote.bottom {
+  margin-top: 40px;
+  font-size: 34px;
+  line-height: 38px;
+}

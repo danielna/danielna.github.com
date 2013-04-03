@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    {% include head.html %}
+    <link href="/assets/css/hoop-dreams.css" media="screen, projection" rel="stylesheet" type="text/css" /> 
+</head>
+
+<body class="hoop-dreams">
+    <div class="center-me">
+        <header>
+        {% include header.html %}
+        </header>
+
+        <div class="container">
+              
+              {{ content }}
+              
+        </div>
+        <div class="clearfix"></div>
+
+        <footer>
+            {% include footer.html %}
+        </footer>
+    </div>
+    <script>
+    $(document).ready(function(){
+        var $top = $("#top > h1"),
+            start = 102,
+            end = 640,
+            $window = $(window);
+
+        $top.css({opacity:0});
+        
+        $window.scroll(function() {
+            var scroll_opacity = 0,
+                yPos = $window.scrollTop();
+
+            if (yPos > 0 && yPos <= start) {
+                scroll_opacity = yPos/102;
+                $top.css({ opacity: scroll_opacity });    
+            }           
+        });
+    }); 
+    </script>
+</body>
+</html>
