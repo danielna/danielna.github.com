@@ -99,7 +99,7 @@ tags: experimental
         [3] These photos aren't from the actual game.
     </p>
     <p>
-        [4] The prevaling thought in my mind leaving the gym that day was "well, at least this will make a good story."
+        [4] The prevailing thought in my mind leaving the gym that day was "well, at least this will make a good story."
     </p>
     <p>
         [5] This post is different from the others in that it's labeled as an "experiment."  It's not necessarily clean markup nor responsive.  I'm okay with that.
