@@ -25,7 +25,7 @@ tags: experimental
 
 <div class="content">
     <p>
-        In the fourth quarter we were down by 5 with two minutes left.  I remember turning to the other coach and saying <strong>“we are NOT losing this game.”</strong>  I wanted this win so badly.  The kids were playing the best defense they’ve played all season and really leaving it all out on the court.  We deserved to win this game.  We had the better squad, we were playing better basketball.
+        In the fourth quarter we were down by 5 with two minutes left.  I remember turning to the other coach and saying <strong>“we are NOT losing this game.”</strong>  I wanted this win so badly.  The kids were playing the best defense they’d played all season and really leaving it all out on the court.  We deserved to win this game.  We had the better squad, we were playing better basketball.
     </p>
     <p>
        With 30 seconds to go we had whittled the lead down to 1 and stole the ball.
