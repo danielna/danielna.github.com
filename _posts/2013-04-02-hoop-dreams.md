@@ -51,7 +51,7 @@ tags: experimental
 
 <div class="content">
     <p>
-        Our point guard brings the ball down with 30 seconds left and begins to move the ball around.  We swing it around the perimeter a bit, and our big man gets open in the corner.  He lets it go.  Bam.  Nails the jumper.  We’re up by 1, and I’m going crazy on the sideline, jumping up and down and yelling <strong>“DEFENSE DEFENSE DEFENSE!”</strong>  The parents are excited, both teams are amped, and we need a stop to seal the game.
+        Our point guard brings the ball down with 30 seconds left and begins to move the ball around.  We swing it around the perimeter a bit and our big man gets open in the corner.  He lets it go.  Bam.  Nails the jumper.  We’re up by 1, and I’m going crazy on the sideline, jumping up and down and yelling <strong>“DEFENSE DEFENSE DEFENSE!”</strong>  The parents are excited, both teams are amped, and we need a stop to seal the game.
     </p>
     <p>
        With 20 seconds left, the other team brings the ball down.  At the 15 second mark, our point guard steals the ball.  <strong>We won! We won!</strong> I’m thinking to myself.  The other team’s running after him to foul in an effort to extend the game.  The point guard runs backwards a bit in an effort to avoid the foulers and throws it to our forward under the opposite basket.  If we can run out the clock for 13 seconds, the game is ours.
