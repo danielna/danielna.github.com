@@ -25,7 +25,7 @@ tags: experimental
 
 <div class="content">
     <p>
-        In the fourth quarter we were down by 5 with two minutes left.  I remember turning to the other coach and saying <strong>“we are NOT losing this game.”</strong>  I wanted this win so badly.  The kids were playing the best defense they’ve played all season and really leaving it all out on the court.  We deserved to win this game.  We had the better squad, we were playing better basketball.
+        In the fourth quarter we were down by 5 with two minutes left.  I remember turning to the other coach and saying <strong>“we are NOT losing this game.”</strong>  I wanted this win so badly.  The kids were playing the best defense they’d played all season and really leaving it all out on the court.  We deserved to win this game.  We had the better squad, we were playing better basketball.
     </p>
     <p>
        With 30 seconds to go we had whittled the lead down to 1 and stole the ball.
@@ -51,7 +51,7 @@ tags: experimental
 
 <div class="content">
     <p>
-        Our point guard brings the ball down with 30 seconds left and begins to move the ball around.  We swing it around the perimeter a bit, and our big man gets open in the corner.  He lets it go.  Bam.  Nails the jumper.  We’re up by 1, and I’m going crazy on the sideline, jumping up and down and yelling <strong>“DEFENSE DEFENSE DEFENSE!”</strong>  The parents are excited, both teams are amped, and we need a stop to seal the game.
+        Our point guard brings the ball down with 30 seconds left and begins to move the ball around.  We swing it around the perimeter a bit and our big man gets open in the corner.  He lets it go.  Bam.  Nails the jumper.  We’re up by 1, and I’m going crazy on the sideline, jumping up and down and yelling <strong>“DEFENSE DEFENSE DEFENSE!”</strong>  The parents are excited, both teams are amped, and we need a stop to seal the game.
     </p>
     <p>
        With 20 seconds left, the other team brings the ball down.  At the 15 second mark, our point guard steals the ball.  <strong>We won! We won!</strong> I’m thinking to myself.  The other team’s running after him to foul in an effort to extend the game.  The point guard runs backwards a bit in an effort to avoid the foulers and throws it to our forward under the opposite basket.  If we can run out the clock for 13 seconds, the game is ours.
@@ -99,7 +99,7 @@ tags: experimental
         [3] These photos aren't from the actual game.
     </p>
     <p>
-        [4] The prevaling thought in my mind leaving the gym that day was "well, at least this will make a good story."
+        [4] The prevailing thought in my mind leaving the gym that day was "well, at least this will make a good story."
     </p>
     <p>
         [5] This post is different from the others in that it's labeled as an "experiment."  It's not necessarily clean markup nor responsive.  I'm okay with that.
