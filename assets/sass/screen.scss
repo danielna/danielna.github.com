@@ -188,6 +188,9 @@ p {
     &.first {
         margin-top: 18px;
     }
+    &.shift-down {
+        margin-bottom: 0px;
+    }
 }
 
 p, li {
@@ -262,6 +265,9 @@ blockquote {
     float: left;
     margin-top: 15px;
     font-size: 12px;
+    p {
+        font-size: 12px;
+    }
 }
 
 .separator {
