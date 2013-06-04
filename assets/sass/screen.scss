@@ -338,6 +338,7 @@ ul {
     font-family: "Open Sans", $body-font;
     font-size: 18px;
     line-height: 26px;
+    @include box-sizing(border-box);
     li {
         margin-bottom: 4px;
     }
