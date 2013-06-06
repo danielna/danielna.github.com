@@ -12,6 +12,24 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-06">Thurs 6/6 - First week complete</span>
+    <ul>
+        <li>
+            More head/desk sentiments brewing for the majority of the day, although progress was definitely made on the backbone.js front.  Paired with someone at the very end of the day that helped clear up some roadblocks which was a definite relief.  I have the foodmap rendering its initial state properly, and it's all still being driven by the contents of a static json file.  But the core of backbone is managing events, so that'll be a nice challenge for next week.  I'm slowly but surely getting there.
+        </li>
+        <li>
+            A massive roadblock I hit earlier had to do with the fact that I forgot to think about javascript asynchronously.  I've run into similar issues before with code that "should work," specifically concerning manipulating an AJAX response.  I think I let out an audible grown when I realized what the problem was.  Specifically: when you fetch() a collection in backbone and attempt to render() it, remember that the fetch() is asynchronous.  Listen for the "reset" event to call render() or else you might hit a race condition.
+        </li>
+        <li>
+            <a href="http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/" target="_blank">This article</a> made the rounds on HN and twitter today.  Lots of food for thought that I'm too mentally drained to expound on right now.
+        </li>
+        <li>
+            Todo: moar backbone. I think I'm relatively close to finishing the refactor.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-05">Weds 6/5 - Head, meet desk</span>
     <ul>
         <li>For all of the power and flexibility of a utility like nvm, installing/running node.js and avoiding obscure error messages is not as simple as it sounds.  I've learned a valuable lesson: when all else fails (1) delete the 'node_modules' folder, (2) 'npm cache clean', and (3) 'npm install' again.  Half the time that fixes things.  Also use 'node -v' to check the current node version and 'nvm use' the most current one you have installed.  For some reason the current version changes on a per-folder basis (?).  More info about setting a default node version <a href="http://codetheory.in/using-node-version-manager-nvm-to-manage-multiple-node-js-versions/" target="_blank">here</a>.</li>
