@@ -9,6 +9,27 @@ permalink: /hackerschool/index.html
     <div id="help-content">
         In June 2013 I started my three months at <a href="/2013/05/19/cracker-barrel-and-hackerschool.html" title="Cracker Barrel and hackerschool">hackerschool</a>.  This is where I'll keep a log of what I'm working on/thinking/experiencing/etc.  I'm envisioning something kind of like twitter, but less ephemeral.  It'll be similarly stream-of-conscience.  When I write longer-form posts that pertain to HS I'll link to it both here and on the homepage.
     </div>
+    
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
+    <span class="date" id="2013-06-11">Tues 6/11 - RequireJS</span>
+    <ul>
+        <li>
+            Started off the day pairing and learning how to work within the node javascript <a href="http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop" target="_blank">REPL</a>, which is essentially the Javascript console in the Chrome/Firefox dev tools.  People seem to really be into REPLs here.  I've worked in devtools before and I didn't really see the utlity of using a REPL for dev purposes, but the ability to include modules via npm has really changed my understanding of how they'd speed up development.  It's instant feedback with tab-completion.  It's random stuff like this that really hammers home how important it is to be part of a tech community.
+        </li>
+        <li>
+            I derailed my node/mongo plans temporarily to get a better understanding of (1) RequireJS and (2) event management in backbone, and also explore things like <a href="http://marionettejs.com/" target="_blank">Marionette.js</a>.  AMD/dependency management is something I definitely want to understand (and a problem we ran into on my project at my most recent job), and the event aggregator/mediator patterns are the keys to really solidifying my backbone understanding.  Well, outside of routing.  And data-binding.  I think I'll end up tabling Marionette until I appreciate what it provides, similar to the transition from vanilla js -> backbone.
+        </li>
+        <li>
+            <a href="https://github.com/danielna/foodmap-backbone" target="_blank">Finished wrapping the foodmap in RequireJS.</a> The good: I wrapped everything in require and it works. The bad: The foodmap at its current state is a horrible use case for something like this because I'm essentially loading all the dependencies on page load anyway.  Once the site becomes more fleshed out/interactive with different screens Require will have more utility, but for now it was practically pointless.  Which doesn't mean it wasn't a good learning exercise (it was). Hopefully it'll help facilitate future implementations of the library.
+        </li>
+        <li>
+            People are doing some really cool things here.  I'm super intrigued by <a href="http://socket.io">socket.io</a> and saw a simple prototype someone wrote that featured concurrent drawing between different users on a single js canvas. If I keep talking about different javascript libraries/technologies I might end up never moving onto python. Unsure right now if that's a horrible thing; three months of dedicated js could churn out some really interesting projects.
+        </li>
+        <li>
+            Todo: Catch up on lectures for the coursera Algorithms discussion group I'm in, start node/mongo for real.  A fellow hackerschooler showed me some minor node functionality today and I'll say it again: a server in one file of js blows my freaking mind.
+        </li>
+    </ul>
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
