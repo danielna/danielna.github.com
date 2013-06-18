@@ -12,6 +12,33 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-17">Mon 6/17 - Routing</span>
+    <ul>
+        <li>
+            Moment of enlightenment this morning: I needed to start using routers.  While I've known about single page apps for a while, I didn't connect the dots between storing markup in templates and the hashed URLs until now.  The sole html file in the since-refactored codebase is an index.html with a div.app-container.  As you navigate to different routes (i.e. '/', '/#/admin', '/#/admin/id') the contents of app-container changes via javascript, not via redirects to other .html pages.  I'm not sure why this wasn't clear to me earlier, but that was a good refactor.
+        </li>
+        <li>
+            Ran into a race condition today with attempting to load my google maps-related js (which loads asynchrously) and my map overlay library (<a href="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/docs/examples.html" target="_blank">infobox.js</a>) which depends on gmaps.  With some googling I was able to discover the <a href="https://github.com/millermedeiros/requirejs-plugins" target='_blank'>async plugin for requireJS</a>, which facilitates the loading of asynchronous scripts.  This would still <em>sometimes</em> break infobox (which is a good sign of a race condition) until I found a stackoverflow answer somewhere that talked about <a href="https://github.com/danielna/foodmap-node/blob/master/site/assets/js/foodmap.init.js#L19" target="_blank">specifying script dependencies in requireJS</a>.  That fixed things nicely.
+        </li>
+        <li>
+            Spent the next several hours getting nowhere with POST/PUT of the foodmap listings, although the application routing was finally set up properly.  Took a break for our tech talk at Ebay and to commute back uptown, and logging back in later in the evening for a few hours was productive enough to get the GET/POST/PUT operations working properly.  There are some weird bugs that are showing up related to some under-the-hood backbone stuff, but I've marked them as Todos for tomorrow.
+        </li>
+        <li>
+            I have a feeling that I'm not doing the form processing in the way that backbone was designed for it to be done.  It's very manual right now -- I'm manually extracting/injecting model values into the form with hard-coded selectors.  I think there's a better way to do things but I'm having trouble finding non-trivial examples of backbone/node REST code in the wild.  I don't need to look at another todo app with a single view.
+        </li>
+        <li>
+            As much as I'd like to participate in this algorithms class in parallel to everything else I'm working on (and my batchmates), I'm having trouble finding the time to devote to the weekly lectures/problem sets.  I may have to de-prioritize it for now for my own sanity.  That isn't to say it's still not a priority for me, but I'd rather focus on one significant thing at a time and do it well than multiple things that suffer in quality/devotion.
+        </li>
+        <li>
+            &lt;HEADDESK&gt; JAVASCRIPT IS ASYNCHRONOUS  &lt;/HEADDESK&gt;
+        </li>
+        <li>
+            Todos: Fix the backbone bugs, get DELETE working, begin setting up user accounts and authentication.  Longer term: make things pretty.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-15">Sat 6/15 - Thoughts on pacing</span>
     <ul>
         <li>
