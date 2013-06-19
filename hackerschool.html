@@ -12,6 +12,24 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-19">Weds 6/19 - REST done, Auth is not</span>
+    <ul>
+        <li>
+            Finished the full REST API today, in addition to refactoring the location of some code in various views to make the code more MVC-ish.  I have this weird variation of MVC going on where the Views (which have a lot of logic in them, but that's because controllers don't actually exist in Backbone) are not necessarily created equal.  Composite views (made up of several sub-views) handle more responsibility/functionality than their components.  I'm not sure if there's a canonical way of philosophically structuring code and functionality between Routers and Views in bb, but based on a lot of reading and discussions there doesn't seem to be one "right" way.  I'm starting to think that the most important thing is to do it consistently.
+        </li>
+        <li>
+            I'm getting a better understanding of how to use events between the router/views to handle application flow.
+        </li>
+        <li>
+            Started to look into user auth with Passport.js, but found <a href="http://passportjs.org/guide/" target="_blank">the guide</a> largely unhelpful.  There's a lot of text/code but not a lot of reasoning, which ultimately results in a lot of magic.  The tutorials I've seen on the web so far suffer from similar issues.
+        </li>
+        <li>
+            Todo: I'm starting to run low of my headdesk tolerance so I'm thinking of doing some general js enrichment and reading more about how Connect/Express work before I dive back into actually coding.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-18">Tues 6/18 - Memory Leak Purgatory</span>
     <ul>
         <li>
