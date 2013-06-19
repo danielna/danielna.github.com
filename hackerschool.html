@@ -12,6 +12,30 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-18">Tues 6/18 - Memory Leak Purgatory</span>
+    <ul>
+        <li>
+            A pretty frustrating day overall but full of necessary growing pains.  Once I wired everything into a single page app (SPA) I started to see some really strange behavior -- like trying to fire a PUT would simultaneously send off 2-3-4 POST calls, depending on the number of screens I clicked through in order to get there.  That was weird.  But after a lot (note: a LOT) more research/googling/blogposts/pair discussions, I realized it was <a href="http://stackoverflow.com/questions/7567404/backbone-js-repopulate-or-recreate-the-view/7607853#7607853" target="_blank">because my views/bindings weren't being removed from memory as I navigated through the app</a>.  So my "click #submit" was being bound to views that I had removed from the DOM (but not destroyed), which would in turn fire off multiple submissions when I submitted a form a lot farther down the line.
+        </li>
+        <li>
+            My solution was to keep track of the current view within the router.  I added a .close() function to the relevant views to unbind all of its own events and to remove the events/dom elements for its children (which I now store in an array on each view).  When I'm about to instantiate a new view within the router, I .close() the old view and instantiate the new one.
+        </li>
+        <li>
+            tl;dr: Before rendering a new view, I remove the old view from the DOM and unbind all of its events (and those of its sub-views).
+        </li>
+        <li>
+            I don't know if I'm crazy about the SPA idea in general.  It introduces a lot of weird variability -- SEO, managing state between routes, what to route and what not to route -- that I'm not sure are worth the benefits of a sexy user experience.  I like Backbone though, and I see the utility in having a bunch of mini-SPAs throughout one application, or using Backbone MVC concepts without the routing.  Regardless as an exercise I will continue to develop the foodmap as a full SPA.
+        </li>
+        <li>
+            PUT works now.  So GET, PUT and POST are functioning.  Progress -- slow, frustrating progress.
+        </li>
+        <li>
+            Todo: DELETE and begin authentication.  If I need a break (likely) I might start reading more about <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/" target='_blank'>JavaScript Design Patterns</a>.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-17">Mon 6/17 - Routing</span>
     <ul>
         <li>
