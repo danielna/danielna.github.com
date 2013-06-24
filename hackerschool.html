@@ -12,6 +12,47 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-24">Mon 6/24 - JS Design Patterns</span>
+    <ul>
+        <li>
+            Had a good talk with a friend/old coworker last night about a lot of things, including some concerns I had about what to focus on here.  While there is a social pressure here not to focus explicitly on job-related skills, I think that's a luxury that's only really affordable to those who don't worry about their imminent employability (or those who aren't entering the workforce).  That isn't to say I don't think I'll find a job (I do), but I think it's un/realistic/pragmatic to fill three months of unemployment with non-directed whimsy.  I've decided to optimize my time by solidifying my understanding of javascript as much as possible, because I'm already far enough along with js that I know I like it and can work with it professionally.  While I still want to explore python/backend work, I know it won't be a core competency after two-three months of experience.  Would I rather be hired as a junior python dev or a mid/senior js dev?  The answer is obvious.
+        </li>
+        <li>
+            <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank">Started reading</a>, finally.
+        </li>
+        <li> Notes:
+            <ul>
+                <li>
+                    I don't typically use object.prototype in JS because I think creating new instances of function declarations (with their embedded methods) is easier.  I figured prototype made sense when you had a lot of inheritance going on between objects but I've never actually encountered that use case.  Turns out that there's a general performance reason to go the object.prototype route -- when you create new instances of the same object, its functions all refer back to the prototype, rather than being created over again for no reason.  Mind blown.
+                </li>
+                <li>
+                    Module pattern makes sense, and I've been using the "Revealing Module Pattern" without knowing what it was called.
+                </li>
+                <li>
+                    The singleton pattern is interesting but I've never used it in practice and it appears to come with some controversy (too many singletons can be symptomatic of poor design).  Seems to suffer from similar design issues as having a program with a lot of globals.
+                </li>
+                <li>
+                    Observer/<a href="https://github.com/cowboy/jquery-tiny-pubsub" target="_blank">pubsub</a> pattern will be really helpful, especially for de-coupling ajax callbacks.  The mediator pattern seems to be redundant at first, but it's a lot easier to pub/sub against a single global medium than pub/sub objects individually. Remember: <a href="http://thejacklawson.com/Mediator.js/" target='_blank'>mediator.js</a>
+                </li>
+                <li>
+                    The factory pattern will be one of those things that I doubt I'll use but it's valuable to know of.
+                </li>
+                <li>
+                    After some minor discussions with other folks, I have a better understanding of binding `this` with .call() and .apply(), as it's used pretty frequently throughout the examples.
+                </li>
+                <li>
+                    Really began to lose steam <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript" target="_blank">here.</a> Moving onto something new for now. 
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </li>
+        <li>
+            Todo: Back to the node app.  I'm thinking I'll forego auth right now and worry about it at the end.  I'll develop everything in the meantime as a super-admin.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-20">Thurs 6/20 - meh.</span>
     <ul>
         <li>

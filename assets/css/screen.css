@@ -567,78 +567,81 @@ ul li {
 @media (max-width: 520px) {
   /* line 503, ../sass/screen.scss */
   .wrapper {
-    width: 300px;
+    width: 380px;
     padding: 0 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
   }
 
-  /* line 507, ../sass/screen.scss */
+  /* line 508, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .meta .post-title {
     line-height: 22px;
   }
 
-  /* line 511, ../sass/screen.scss */
+  /* line 512, ../sass/screen.scss */
   h1 {
     font-size: 24px;
   }
 
-  /* line 515, ../sass/screen.scss */
+  /* line 516, ../sass/screen.scss */
   p, li {
     font-size: 14px;
     line-height: 22px;
   }
 
-  /* line 521, ../sass/screen.scss */
+  /* line 522, ../sass/screen.scss */
   a#about-cheekswab-link img#about-cheekswab {
     width: 200px;
     margin: 0px 0px 20px 35px;
   }
 
-  /* line 527, ../sass/screen.scss */
+  /* line 528, ../sass/screen.scss */
   ol {
     width: 270px;
     padding: 10px 10px 5px 10px;
   }
 
-  /* line 532, ../sass/screen.scss */
+  /* line 533, ../sass/screen.scss */
   ul {
     padding-left: 10px;
   }
 
-  /* line 536, ../sass/screen.scss */
+  /* line 537, ../sass/screen.scss */
   blockquote {
     margin-left: 0px;
   }
-  /* line 538, ../sass/screen.scss */
+  /* line 539, ../sass/screen.scss */
   blockquote p {
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 14px;
   }
 
-  /* line 544, ../sass/screen.scss */
+  /* line 545, ../sass/screen.scss */
   .quote-source {
     font-size: 10px;
   }
 
-  /* line 548, ../sass/screen.scss */
+  /* line 549, ../sass/screen.scss */
   img {
     width: 300px;
   }
 
-  /* line 552, ../sass/screen.scss */
+  /* line 553, ../sass/screen.scss */
   a.post-title {
     margin: 3px 0;
     font-size: 16px !important;
     line-height: 18px !important;
   }
 
-  /* line 557, ../sass/screen.scss */
+  /* line 558, ../sass/screen.scss */
   p.post-subtitle {
     font-size: 14px !important;
     line-height: 18px !important;
   }
 
-  /* line 562, ../sass/screen.scss */
+  /* line 563, ../sass/screen.scss */
   .separator {
     margin-bottom: 1em;
   }
