@@ -6,7 +6,7 @@ tags: experimental
 ---
 
 <div id="top">
-    <h1>Hoop Dreams</h2>
+    <h1>Hoop Dreams</h1>
 </div>
 
 <div class="clearfix"></div>
