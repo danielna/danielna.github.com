@@ -176,7 +176,6 @@ h1 {
 }
 h2 {
     position: relative;
-    float: left;
     display: block;
     margin-bottom: 5px;
 }
@@ -200,6 +199,9 @@ p, li {
     font-size: 16px;
     line-height: 26px;
     color: #444;
+    strong {
+        font-family: Helvetica;
+    }
 }
 
 a {
