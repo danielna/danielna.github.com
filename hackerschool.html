@@ -12,6 +12,30 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-06-26">Thurs 6/27 - Breakthrough</span>
+    <ul>
+        <li>
+            LOCAL AUTH IS FUNCTIONAL.  I ended up using Passport after all, which still has some degree of "magic.""  Learned some new information about sessions in the process.  Did I mention how local auth is functional?
+        </li>
+        <li>
+            If you're using passport and running into user session issues, don't forget to check your passport.serializeUser() and passport.deserializeUser() methods.  I had an issue with "id" not being "_id" in mongodb that drove me crazy.
+        </li>
+        <li>
+            Also remember that sometimes backbone has a specific way it does "obvious" things.  Like, let's say you want to initialize a new View and feed it the id of a model you want to query.  You can't use new View(model_id), because views don't accept parameters in that way.  You're forced to pass in an object (mapped to view.options), i.e. new View({model_id: id}).
+        </li>
+        <li>
+            Real progress on the app is very refreshing.  The DB is in place, my API is (generally) working, and I can (generally) put my head down and see fruits to my labor.  It was a super frustrating going for a while there but I knew a breakthrough would happen eventually.  This project is fun again.
+        </li>
+        <li>
+            Every Thursday hackerschool hosts presentations where people can sign up for 3-5 minute slots to present whatever they feel like sharing.  It's often projects but sometimes it's a mini-lecture on a math/computing/meta concept that they find useful.  Every week the presentations just reaffirm the fact that hackerschool is an amazing learning environment.  It's rare to find a place where intellectual curiosity is explored and celebrated so fervently, and the diversity of technical interests here is really amazing.  No matter the opportunity costs of coming here it was absolutely the right decision.
+        </li>
+        <li>
+            Todo: PROGRESS.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-06-26">Weds 6/26 - Refactor, contd.</span>
     <ul>
         <li>
