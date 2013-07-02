@@ -167,7 +167,6 @@ footer {
 
 // Text
 h1 {
-    color: $font-black;
     font-family: $body-font;
     margin-bottom: 18px;
     &.top {
@@ -180,6 +179,17 @@ h2, h3 {
     width: 100%;
     display: block;
     margin-bottom: 5px;
+}
+h4 {
+    position: relative;
+    float: left;
+    width: 100%;
+    display: block;
+}
+
+h2, h3, h4 {
+    color: $font-black;
+    font-family: Helvetica;
 }
 
 p {
@@ -350,6 +360,9 @@ ul {
     @include box-sizing(border-box);
     li {
         margin-bottom: 4px;
+    }
+    &.narrow {
+        margin: 0;
     }
 }
 
