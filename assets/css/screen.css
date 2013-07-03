@@ -620,7 +620,7 @@ ul.narrow {
 
   /* line 545, ../sass/screen.scss */
   ol {
-    width: 270px;
+    width: 320px;
     padding: 10px 10px 5px 10px;
   }
 
@@ -628,42 +628,50 @@ ul.narrow {
   ul {
     padding-left: 10px;
   }
-
+  /* line 552, ../sass/screen.scss */
+  ul.narrow {
+    margin-left: 5px;
+  }
   /* line 554, ../sass/screen.scss */
+  ul.narrow li {
+    font-size: 14px;
+  }
+
+  /* line 560, ../sass/screen.scss */
   blockquote {
     margin-left: 0px;
   }
-  /* line 556, ../sass/screen.scss */
+  /* line 562, ../sass/screen.scss */
   blockquote p {
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 14px;
   }
 
-  /* line 562, ../sass/screen.scss */
+  /* line 568, ../sass/screen.scss */
   .quote-source {
     font-size: 10px;
   }
 
-  /* line 566, ../sass/screen.scss */
+  /* line 572, ../sass/screen.scss */
   img {
     width: 300px;
   }
 
-  /* line 570, ../sass/screen.scss */
+  /* line 576, ../sass/screen.scss */
   a.post-title {
     margin: 3px 0;
     font-size: 16px !important;
     line-height: 18px !important;
   }
 
-  /* line 575, ../sass/screen.scss */
+  /* line 581, ../sass/screen.scss */
   p.post-subtitle {
     font-size: 14px !important;
     line-height: 18px !important;
   }
 
-  /* line 580, ../sass/screen.scss */
+  /* line 586, ../sass/screen.scss */
   .separator {
     margin-bottom: 1em;
   }
