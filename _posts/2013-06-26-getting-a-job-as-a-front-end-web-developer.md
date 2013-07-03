@@ -6,9 +6,7 @@ tags: text
 permalink: /getting-a-job-as-a-front-end-web-developer.html
 ---
 
-I've had a number of people in the last several years approach me with questions on how to get into web development as a career.  While I am by no means the most qualified or talented web developer/programmer in the blogosphere, I do have enough relevant work experience (4+ years now) to create my own informed opinions on the industry.
-
-I've read a lot of these types of posts before (there are a <a href="https://www.google.com/search?q=how+to+become+a+web+developer" title="the googs" target="_blank">ton on the Internet</a>) and I can't guarantee that what I say is novel.  But it is original.  Besides, if you're reading this it's probably because I sent it to you.
+I've had a number of people in the last several years approach me with questions on how to get into web development as a career.
 
 This will be less a step-by-step guide and more a conceptual overview.  There are <a href="https://www.google.com/search?q=learn+to+code">a billion websites</a> out there now that teach you the detailed "how".  I'll try to elaborate on the "what." <a href="#footnotes">[0]</a>
 
@@ -277,7 +275,7 @@ Good luck.
 
 <h2>Personally Curated Resources</h2>
 <p>
-    Most of these links are taken directly from my <a href="https://pinboard.in/u:danielna/" target="_blank">pinboard</a>, meaning I've saved them for various reasons through the years.  So they're personally curated (in that I wanted to save them) but vary in simplicity.  They're not specifically topical but generally related to becoming a better front-end engineer.
+    Most of these links are taken directly from my <a href="https://pinboard.in/u:danielna/" target="_blank">pinboard</a>, meaning I've saved them for various reasons through the years.  So they're personally curated (in that I wanted to save them) but vary in complexity.  They're not specifically topical but generally related to becoming a better front-end developer.
 </p>
 
 <ul class="narrow">
@@ -322,7 +320,7 @@ Good luck.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 <h2>Acknowledgements</h2>
-Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> for her input on this post.
+Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://buchok.com/" target="_blank">Tom Buchok</a> for their input on this post.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
