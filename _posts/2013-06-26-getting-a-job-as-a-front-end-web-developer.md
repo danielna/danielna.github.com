@@ -134,7 +134,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     <li>How to structure the content of a website with divs (div-based markup)</li>
     <li>Semantic markup - when to use different headers (h1s, h2s, h3s) and tags (article, section, span, etc.)</li>
     <li>How to embed a .css file into a page</li>
-    <li>(Advanced) How to structure markup that supports accessibility compliance, like for users with devices like screen readers.</li>
+    <li>(Advanced) How to structure markup that supports accessibility compliance, like for users with screen readers.</li>
 </ul>
 <h4>Things to Know: CSS</h4>
 <ul class="narrow">
