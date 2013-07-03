@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting a job as a Front-End Web Developer
+title: Getting a Job as a Front-End Web Developer
 subtitle: A post to centralize the advice I keep telling various people.
 tags: text
 permalink: /getting-a-job-as-a-front-end-web-developer.html
@@ -8,11 +8,9 @@ permalink: /getting-a-job-as-a-front-end-web-developer.html
 
 I've had a number of people in the last several years approach me with questions on how to get into web development as a career.  While I am by no means the most qualified or talented web developer/programmer in the blogosphere, I do have enough relevant work experience (4+ years now) to create my own informed opinions on the industry.
 
-Here's the ultimate disclaimer for the remainder of this post: it's personal opinion and I'm neither a CEO nor an HR department.  I speak entirely from personal experience, both as an employee and coworker, and this post is simply what I believe to be true.
+I've read a lot of these types of posts before (there are a <a href="https://www.google.com/search?q=how+to+become+a+web+developer" title="the googs" target="_blank">ton on the Internet</a>) and I can't guarantee that what I say is novel.  But it is original.  Besides, if you're reading this it's probably because I sent it to you.
 
-And I've read a lot of these types of posts before (there are a <a href="https://www.google.com/search?q=how+to+become+a+web+developer" title="the googs" target="_blank">ton on the Internet</a>) so the entire contents of this page may or may not be redundant to any number of those posts.  I cannot guarantee that what I say is novel advice.  My only guarantee is that this post is from my own brain and honest.  Besides, if you're reading this it's probably because I sent it to you.
-
-This will be less a step-by-step guide and more a conceptual overview.  There are <a href="https://www.google.com/search?q=learn+to+code">a billion websites</a> out there now that teach you the detailed "how".  I'll try to elaborate on the "what."  You'll see what I mean.
+This will be less a step-by-step guide and more a conceptual overview.  There are <a href="https://www.google.com/search?q=learn+to+code">a billion websites</a> out there now that teach you the detailed "how".  I'll try to elaborate on the "what." <a href="#footnotes">[0]</a>
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
@@ -22,7 +20,7 @@ This will be less a step-by-step guide and more a conceptual overview.  There ar
         I can't think of an industry where the job market is as good without a steep educational cost of entry.  It's simple enough to see why.  Look at how many people are glued to their phones.  Look at how much commerce and media is delivered through the web.  I could provide market research/statistics here, but common sense is sufficient.
     </li>
     <li>
-        Depending on the cost of where you live, you can easily make six figures as a mid/senior-level web developer. <a href="#footnotes">[1]</a>
+        Depending on local cost of living you can easily make six figures as a mid/senior-level web developer. <a href="#footnotes">[1]</a>
     </li>
     <li>
         You (largely) control your own destiny.  But more on that later.
@@ -99,6 +97,8 @@ Any introductory programming book/tutorial/course will cover these ideas.  Don't
 
 Pick any language to learn these in.  There are good resources for this type of thing at <a href="http://www.codecademy.com/learn" title="Codeacademy" target="_blank">Codeacademy.</a>
 
+If I had to offer a suggestion I'd recommend learning the basic concepts in JavaScript, just because you'll want to learn JavaScript eventually anyway.
+
 <h4>Things to Know</h4>
 <ul class="narrow">
     <li>Data types: string, int, double, char, etc.</li>
@@ -128,26 +128,38 @@ If a webpage was a house, HTML would be the bricks.  CSS would be the paint.
 
 HTML and CSS are generally simple enough that any first-page google resource will help you in "creating your first webpage."  Go through 2-3 tutorials to get an understanding of different HTML tags.
 
-<h4>Things to Know</h4>
+<h4>Things to Know: HTML</h4>
 <ul class="narrow">
-    <li>HTML: General HTML structure of a webpage (html, head, body).</li>
-    <li>HTML: The Document Object Model (DOM) - What it is.</li>
-    <li>HTML: HTML tags - How to make links, lists, etc. It doesn't need to be memorized, but you should be able to use different tags when you need them from a reference.</li>
-    <li>HTML: How to structure the content of a website with divs (div-based markup)</li>
-    <li>HTML: Semantic markup - when to use different headers (h1s, h2s, h3s) and tags (article, section, span, etc.)</li>
-    <li>HTML: How to embed a .css file into a page</li>
-    <li>CSS: How to target different elements on a page, at different depths (i.e. a span within a div)</li>
-    <li>CSS: Displaying elements - block, inline-block and inline</li>
-    <li>CSS: Style attributes that can be set for colors, fonts, borders, etc.</li>
-    <li>CSS: Positioning (relative, absolute, fixed) and floating elements</li>
-    <li>CSS/HTML: The box model, margin/padding, and what box-sizing: border-box does (note: it will save your life)</li>
-    <li>CSS/HTML: ids (#id) vs classes (.class) and CSS specificity (aka when styles override other styles)</li>
+    <li>General HTML structure of a webpage (html, head, body).</li>
+    <li>The Document Object Model (DOM) - What it is.</li>
+    <li>Tags - How to make links, lists, etc. It doesn't need to be memorized, but you should be able to use different tags when you need them from a reference.</li>
+    <li>How to structure the content of a website with divs (div-based markup)</li>
+    <li>Semantic markup - when to use different headers (h1s, h2s, h3s) and tags (article, section, span, etc.)</li>
+    <li>How to embed a .css file into a page</li>
+    <li>(Advanced) How to structure markup that supports accessibility compliance, like for users with devices like screen readers.</li>
+</ul>
+<h4>Things to Know: CSS</h4>
+<ul class="narrow">
+    <li>How to target different elements on a page, at different depths (i.e. a span within a div).</li>
+    <li>Displaying elements - block, inline-block and inline</li>
+    <li>Style attributes that can be set for colors, fonts, borders, etc.</li>
+    <li>Positioning (relative, absolute, fixed) and floating elements</li>
+    <li>The box model, margin/padding, and what box-sizing: border-box does (note: it will save your life)</li>
+    <li>ids (#id) vs classes (.class) and CSS selectors. <a href="http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/" target="_blank">Good resource on CSS selectors from nettuts.</a></li>
+    <li>CSS specificity, or when styles override other styles.  <a href="http://lauren.github.io/CSS-specify-me/" title="CSS Specificity Calculator" target="_blank">See a related project by a fellow hackerschool here.</a></li>
+    <li>(Advanced) Responsive design -- What is it? What are media queries and how do you use them?</li>
+    <li>(Advanced) SASS, LESS -- CSS compilers.  This will make your life much easier, and any modern web shop will be using a compiler nowadays.  I will say to only start using SASS/LESS after you write CSS by hand, to both remove the "magic" and to internalize the lesson of how much writing CSS by hand sucks.</li>
+    <li>(Advanced) CSS3: border-radius, box-shadow, text-shadow, etc.  <a href="http://coding.smashingmagazine.com/2009/01/08/push-your-web-design-into-the-future-with-css3/" target="_blank">Good intro by SmashingMag here.</a></li>
+</ul>
+<h4>Things to Know: General</h4>
+<ul class="narrow">
     <li>Tools: How to inspect a webpage using Chrome developer tools or Firebug (Firefox)</li>
     <li>
-        Be able to create <a href="/assets/img/2013-07-01_fe1.jpg" target="_blank">this layout</a> in HTML/CSS, with both pixel specifications and percentages.  A company I interviewed at used this as a simple FE screener.  It's actually a very revealing test, as far as applying styles, checking markup and understanding floating/spacing/etc.
+        Be able to create <a href="/assets/img/2013-07-01_fe1.jpg" target="_blank">this layout</a> in HTML/CSS, with both pixel dimensions and percentages.  A company I interviewed at used this as a simple FE screener.  It's a straightforward and revealing test as far as applying styles, checking markup and understanding floating/spacing/etc.
     </li>
-    <li>(Advanced) Responsive design -- What is it? What are media queries and how do you use them?</li>
-    <li>(Advanced) SASS, LESS -- CSS compilers.  These make writing CSS infinitely easier.</li>
+    <li>
+        How would you create a site navigation bar using an unordered list as the base element?  This involves floating, 'inline-block'-ing, some list-style, etc.
+    </li>
 </ul>
 
 <h4>Project Idea</h4>
@@ -193,6 +205,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     <li>Chaining commands</li>
     <li>How to respond to and trigger events</li>
     <li>What does it mean for something to be asynchronous?</li>
+    <li>How do people debug jQuery bugs?  What is console.log() and the `debugger` command?  How can you set breakpoints in JavaScript files and step in/over them?</li>
     <li>(General) What JSON is, and what a JSON response looks like</li>
     <li>(Advanced) What is AJAX?</li>
     <li>(Advanced) How to receive data from an API via AJAX and parse the data into the DOM</li>
@@ -232,7 +245,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     <li>What do you mean "everything is an object?"</li>
     <li>What is a callback and why is it important?</li>
     <li>Global scope, function scopes, what is the global namespace and why can it be bad?</li>
-    <li>Namespacing</li>
+    <li>Namespacing your code and why</li>
     <li>(Advanced) Closures</li>
     <li>(Building on closures) Object-oriented JavaScript -- the biggest game changer for me personally.  I found the "Object Oriented JavaScript" chapter in John Resig's "<a href="http://www.amazon.com/gp/product/1590597273/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590597273&linkCode=as2&tag=musings01b1-20">Pro JavaScript Techniques</a>" to be very enlightening.</li>
     <li>(OO JS) Prototypal inheritance</li>
@@ -262,9 +275,9 @@ Good luck.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
-<h2>Randomly Curated Resources</h2>
+<h2>Personally Curated Resources</h2>
 <p>
-    Most of these links are taken directly from my <a href="https://pinboard.in/u:danielna/" target="_blank">pinboard</a>, meaning I've saved them for various reasons through the years.  So they're personally curated (in that I wanted to save them) but YMMV.  They're not specifically topical but generally related to JS development.
+    Most of these links are taken directly from my <a href="https://pinboard.in/u:danielna/" target="_blank">pinboard</a>, meaning I've saved them for various reasons through the years.  So they're personally curated (in that I wanted to save them) but vary in simplicity.  They're not specifically topical but generally related to becoming a better front-end engineer.
 </p>
 
 <ul class="narrow">
@@ -301,11 +314,21 @@ Good luck.
 <li>
     <a href="http://learn.shayhowe.com/advanced-html-css/" title="Learn Advanced HTML and CSS" target="_blank">Learn Advanced HTML and CSS</a> - A nicely comprehensive guide for more advanced FE techniques.
 </li>
+<li>
+    <a href="http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/" title="CSS Selector Intent" target="_blank">csswizardry.com: CSS Selector Intent</a> - Are your CSS selectors well formed?
+</li>
 </ul>
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+<h2>Acknowledgements</h2>
+Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> for her input on this post.
+
+<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
 <h2><a name="footnotes"></a>Footnotes</h2>
+
+[0] I'm more interested in the pragmatics of obtaining an entry-level position than higher-level theory: what will you actually need to know and apply <em>on the job?</em> So no, your first step is not to go teach yourself C, regardless of what your Computer Science PhD friend says.
 
 [1] Cost of living is positively correlated to salary.  So if you live and work in the Ozarks you may not make six figures, no matter how good your JavaScript is.
 
