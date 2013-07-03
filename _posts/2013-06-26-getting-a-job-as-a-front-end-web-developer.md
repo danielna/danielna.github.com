@@ -81,7 +81,7 @@ The best way to learn a new concept is to create your own small project using th
 
 <h2>Front-End Development Basics</h2>
 
-In this section I'll cover the most basic tenants of what I think every junior level FE dev should know.  I won't link to resources unless I can vouch for their quality personally.  But Google/SO will have a ton of resources on each of these topics.
+In this section I'll cover the most basic tenets of what I think every junior level FE dev should know.  I won't link to resources unless I can vouch for their quality personally.  But Google/SO will have a ton of resources on each of these topics.
 
 <strong>Note:</strong> These lists are not exhaustive.  They're the basics of what I think you'd need to really understand to pass a junior-level FE technical screening. This is the very tip of the iceberg, and there are many more advanced concepts in each of these categories that will help round out FE understanding.  Think of these as cursory guides for beginners as opposed to FE-canon.
 
@@ -320,7 +320,7 @@ Good luck.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 <h2>Acknowledgements</h2>
-Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://buchok.com/" target="_blank">Tom</a> for their input on this post.
+Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a>, <a href="http://buchok.com/" target="_blank">Tom</a> and <a href="http://www.ericqweinstein.com/" target="_blank">Eric</a> for their input on this post.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
