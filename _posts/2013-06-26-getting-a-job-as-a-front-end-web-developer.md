@@ -320,7 +320,7 @@ Good luck.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 <h2>Acknowledgements</h2>
-Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://buchok.com/" target="_blank">Tom Buchok</a> for their input on this post.
+Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://buchok.com/" target="_blank">Tom</a> for their input on this post.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
