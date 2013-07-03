@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting a job as a front-end web developer
+title: Getting a job as a Front-End Web Developer
 subtitle: A post to centralize the advice I keep telling various people.
 tags: text
 permalink: /getting-a-job-as-a-front-end-web-developer.html
@@ -53,7 +53,7 @@ You are X years old and studied Y in college.
 
 I say X years old because it doesn't matter how old you are.  And I say Y in college because it doesn't even matter if you went to college.  It's not too late to start and nobody cares that you studied English/History/Art/beer pong.
 
-Tech is a meritocracy. <a href="#footnotes">[2]</a>  Prove you can make something people will pay to have made and someone will employ you so they can get paid once you make that thing for them. <a href="#footnotes">[3]</a>
+Tech is a meritocracy. <a href="#footnotes">[2]</a>  Prove you can make something people will pay to have made and someone will employ you so they can get paid once you make that thing for them. <a href="#footnotes">[3]</a> Or, even better, cut out the middleman and do it yourself.
 
 Tech is not an industry that cares much for formal credentials.  Formal credentials are typically encapsulated by letters that follow a LinkedIn name (e.g. "MBA", "PhD") and the $150,000+ piece of paper that you may have hanging on the wall of your bedroom.
 
@@ -191,7 +191,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     <li>How to use the various effects (fade, slide, hide, show, etc.)</li>
     <li>Traversing the DOM tree (children(), parents(), find(), etc.)</li>
     <li>Chaining commands</li>
-    <li>How to listen for or trigger events</li>
+    <li>How to respond to and trigger events</li>
     <li>What does it mean for something to be asynchronous?</li>
     <li>(General) What JSON is, and what a JSON response looks like</li>
     <li>(Advanced) What is AJAX?</li>
