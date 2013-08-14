@@ -12,6 +12,30 @@ permalink: /hackerschool/index.html
 
     <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
+    <span class="date" id="2013-08-13">Tues 8/13 - JSONP</span>
+    <ul>
+        <li>
+            More interview prep.
+        </li>
+        <li>
+            Dug into some of the "what's actually happening" behind JSONP today.  It creates a new script tag directed at the endpoint, which is then executed like any other script tag (e.g. linking to jQuery on Google's CDN).  So you can either have a function in the global scope to mirror the name of the executing script (thereby processing the json) or you can have jQuery bind it to the success callback for you via specifying the jsonpCallback parameter of $.ajax.
+        </li>
+        <li>
+            In conclusion, JSONP is such a freaking hack!  I mean, I always knew it was a hack, but I didn't know it was <em>this</em> hacky.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
+    <span class="date" id="2013-08-12">Mon 8/12 - Interview prep</span>
+    <ul>
+        <li>
+            Interview prep.  It has begun.
+        </li>
+    </ul>
+
+    <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+
     <span class="date" id="2013-08-09">Fri 8/09 - Static Boilerplate</span>
     <ul>
         <li>
@@ -21,7 +45,7 @@ permalink: /hackerschool/index.html
             As I worked through this I began to think that a grunt-driven jekyll would be much more awesome, mostly because of jekyll's ability to include html snippets.  Or maybe a HAML-driven static site generator.  Jekyll supports markdown on purpose; its focus is writing.  But why can't great writing be combined with great markup/interactivity/aesthetics?  Huh.  That's an idea.
         </li>
         <li>
-            All I know is that one frustration I've had with this blog (which is in Jekyll) is that I'm forced to write a bunch of HTML in most of my posts anyway to get the aesthetic I want.
+            All I know is that one frustration I've had with this blog (which is in Jekyll) is that I'm forced to write a bunch of HTML in most of my posts to get the aesthetic I want.
         </li>
     </ul>
 
