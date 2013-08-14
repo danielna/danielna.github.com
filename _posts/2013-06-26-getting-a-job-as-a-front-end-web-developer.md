@@ -64,7 +64,7 @@ The second most important characteristic is don't be an asshole.  Every industry
 <h2>How to Learn New Things</h2>
 
 <h3>Mentality</h3>
-Learning new things is not linear.  Very rarely is it "I will first sit down to read 100 pages and I will next know everything there is to know about the subject.""  It's a back-and-forth, I-want-to-throw-my-laptop-against-the-wall one minute versus "I AM A FREAKING GENIUS" the next minute process.
+Learning new things is not linear.  Very rarely is it "I will first sit down to read 100 pages and I will next know everything there is to know about the subject."  It's a back-and-forth, I-want-to-throw-my-laptop-against-the-wall one minute versus "I AM A FREAKING GENIUS" the next minute process.
 
 Once you internalize/accept the reality that learning <em>anything</em> is an uphill battle, the pain and frustration of momentarily failing to understand something becomes less harsh. It just comes with the territory.
 
