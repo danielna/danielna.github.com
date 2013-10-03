@@ -41,3 +41,5 @@ Never graduate.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 <a name="footnotes">[1]</a> Besides, does being a better programmer/thinker translate to better long-term financial returns over the course of a career?  Absolutely.
+
+[2] <a href="/hackerschool">A link to my hackerschool log.</a>
