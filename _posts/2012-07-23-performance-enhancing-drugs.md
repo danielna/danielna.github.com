@@ -3,11 +3,9 @@ layout: post
 title: Performance Enhancing Drugs
 subtitle: When you think about it, it's kind of arbitrary.
 tags: text
+promo_url: /assets/img/2012-07-23_mcgwire.jpg
+promo_alt: Mark McGwire
 ---
-
-<div class="photo-block top">
-    <a href="https://secure.flickr.com/photos/gmephotos/6728618629/sizes/l/in/photostream/" target="_blank" title="gmephotos on Flickr"><img src="/assets/img/2012-07-23_mcgwire.jpg" title="Mark McGwire"/></a>
-</div>
 
 > Using steroids because we no longer get the same erections we once had, or because a middle-aged man has less energy than he did at twenty (or a woman has less libido than considered ideal), is increasingly considered normal, while the list of substances banned for people like Mark McGwire grows longer and longer, the invasive tests intended to expose any transgression more and more extensive. As a society, we suffer from a paradoxical pharamacological puritanism, expecting medical technology to change our lives and yet demanding that it not change our games.
 > <p class="quote-source">(From <a target="_blank" title="The Roid Paradox" href="http://andrewsullivan.thedailybeast.com/2012/07/the-roid-paradox.html">Andrew Sullivan</a> via <a target="_blank" title="Roid Age: steroids in sport and the paradox of pharmacological puritanism" href="http://blogs.plos.org/neuroanthropology/2012/07/09/roid-age-steroids-in-sport-and-the-paradox-of-pharmacological-puritanism/">Greg Downey</a>)</p>

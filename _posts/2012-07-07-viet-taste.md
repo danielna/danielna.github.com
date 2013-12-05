@@ -2,11 +2,9 @@
 layout: post
 title: Viet Taste
 tags: excerpt
+promo_url: /assets/img/2012-07-07_VietTaste.jpg
+promo_alt: Viet Taste -- Falls Church, VA
 ---
-
-<div class="photo-block top">
-    <img src="/assets/img/2012-07-07_VietTaste.jpg" title="Viet Taste -- Falls Church, VA"/>
-</div>
 
 > When the head cook of Viet Taste in Falls Church gets an order for a plate of Bun Cha Hanoi, he knows   exactly what to do.
 >

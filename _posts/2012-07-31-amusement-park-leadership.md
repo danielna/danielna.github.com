@@ -3,11 +3,9 @@ layout: post
 title: Amusement Park Leadership
 subtitle: Michael Scott comes to life.
 tags: text
+promo_url: /assets/img/2012-07-31_amusementpark.jpg
+promo_alt: Amusement Park Leadership
 ---
-
-<div class="photo-block top">
-    <a href="https://secure.flickr.com/photos/powi/6021664686/sizes/l/in/photostream/" target="_blank" title="powi on Flickr"><img src="/assets/img/2012-07-31_amusementpark.jpg" title="Amusement Parks"/></a>
-</div>
 
 > I'd say that there's a lot of Michael Scott in this job. I'd say there's a lot of Michael Scott in me, probably. I do silly things that everybody looks at me later and go, why did he do it? Why was it deemed necessary for Cole to dress up wearing a big beard and a raincoat, and tell everyone he lived downtown under the bridge and he was there to motivational speaker them today? "Hi everybody, I'm Phil Bridges." You know, and then, like, go out and talk to people. What went through his thought process?
 >

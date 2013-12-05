@@ -30,15 +30,16 @@ header, footer {
   max-width: 800px;
   margin: 0 auto;
   float: none;
+  background-color: #f2f2f2;
 }
 
-/* line 30, ../sass/hoop-dreams.scss */
+/* line 31, ../sass/hoop-dreams.scss */
 footer {
   margin-top: 40px;
   padding-bottom: 20px;
 }
 
-/* line 34, ../sass/hoop-dreams.scss */
+/* line 35, ../sass/hoop-dreams.scss */
 #top {
   display: block;
   position: relative;
@@ -49,7 +50,7 @@ footer {
   -moz-box-shadow: 0px 0px 60px #222222 inset;
   box-shadow: 0px 0px 60px #222222 inset;
 }
-/* line 41, ../sass/hoop-dreams.scss */
+/* line 42, ../sass/hoop-dreams.scss */
 #top h1 {
   position: absolute;
   bottom: 5%;
@@ -63,7 +64,7 @@ footer {
   margin: 0;
 }
 
-/* line 54, ../sass/hoop-dreams.scss */
+/* line 55, ../sass/hoop-dreams.scss */
 .content {
   display: block;
   position: relative;
@@ -71,37 +72,37 @@ footer {
   margin: 80px auto 40px;
 }
 
-/* line 61, ../sass/hoop-dreams.scss */
+/* line 62, ../sass/hoop-dreams.scss */
 p {
   font-size: 18px;
   line-height: 27px;
   margin-bottom: 40px;
   text-align: justify;
 }
-/* line 66, ../sass/hoop-dreams.scss */
+/* line 67, ../sass/hoop-dreams.scss */
 p strong {
   font-weight: 900;
   font-family: helvetica;
 }
-/* line 70, ../sass/hoop-dreams.scss */
+/* line 71, ../sass/hoop-dreams.scss */
 p.bigger {
   font-size: 30px;
   line-height: 36px;
 }
 
-/* line 76, ../sass/hoop-dreams.scss */
+/* line 77, ../sass/hoop-dreams.scss */
 span.big-text {
   display: block;
   width: 100%;
   font-family: Helvetica;
-  font-size: 60px;
+  font-size: 52px;
   line-height: 60px;
   font-weight: 900;
   text-transform: uppercase;
   text-align: justify;
 }
 
-/* line 86, ../sass/hoop-dreams.scss */
+/* line 87, ../sass/hoop-dreams.scss */
 .note {
   display: block;
   position: relative;
@@ -109,21 +110,21 @@ span.big-text {
   max-width: 800px;
   padding-right: 40px;
 }
-/* line 92, ../sass/hoop-dreams.scss */
+/* line 93, ../sass/hoop-dreams.scss */
 .note p {
   font-size: 12px;
   line-height: 16px;
   margin-bottom: 20px;
 }
 
-/* line 98, ../sass/hoop-dreams.scss */
+/* line 99, ../sass/hoop-dreams.scss */
 .quote-me {
   display: block;
   position: relative;
   width: 900px;
   margin: 40px auto 0;
 }
-/* line 103, ../sass/hoop-dreams.scss */
+/* line 104, ../sass/hoop-dreams.scss */
 .quote-me img.huddle {
   width: auto;
   float: left;
@@ -132,7 +133,7 @@ span.big-text {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-/* line 109, ../sass/hoop-dreams.scss */
+/* line 110, ../sass/hoop-dreams.scss */
 .quote-me blockquote {
   display: block;
   position: relative;
@@ -150,14 +151,14 @@ span.big-text {
   font-family: helvetica;
   font-weight: bold;
 }
-/* line 124, ../sass/hoop-dreams.scss */
+/* line 125, ../sass/hoop-dreams.scss */
 .quote-me blockquote.bottom {
   margin-top: 40px;
   font-size: 34px;
   line-height: 38px;
 }
 
-/* line 131, ../sass/hoop-dreams.scss */
+/* line 132, ../sass/hoop-dreams.scss */
 .disqus-wrapper {
   display: block;
   position: relative;

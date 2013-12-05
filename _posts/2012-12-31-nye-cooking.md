@@ -3,14 +3,11 @@ layout: post
 title: A Menu for New Years Eve
 subtitle: If you can put together Ikea furniture, you can cook a proper meal.
 tags: text
+promo_url: /assets/img/2012-12-31/1.jpg
+promo_alt: Remnants from the neighborhood grocery store.  We didn't actually use the garbanzo beans.
 ---
 
-<div class="photo-block top">
-    <img src="/assets/img/2012-12-31/1.jpg" title="Ingredients"/>
-    <div class="caption">Remnants from the neighborhood grocery store.  We didn't actually use the garbanzo beans.</div>
-</div>
-
-<p class="first">I like to cook.</p>
+I like to cook.
 
 Almost everything I know about food is literally from watching hours of Food Network, with <a href="http://www.foodnetwork.com/good-eats/index.html" target="_blank" title="Good Eats">Alton Brown</a> as my preferred guide.  I'm not the best chef I know (that title is reserved for a <a href="http://www.sugarphillytruck.com/about/" title="About Sugar Philly Truck" target="_blank">friend of mine who runs a dessert food truck in Philadelphia</a>) but I like to consider myself somewhat competent in the kitchen.  I think it's lame when a person can't cook themselves a meal from real, fresh ingredients.  It's not a gender thing, it's an adult thing.
 

@@ -4,12 +4,15 @@
 
 //
 // Blocks
+* {
+    @include box-sizing(border-box);
+}
+
 html {
     height: 100%;
 }
 
 body {
-    float: left;
     display: block;
     position: relative;
     height: 100%;
@@ -22,12 +25,23 @@ body {
 .wrapper {
     display: block;
     position: relative;
-    float: left;
     background-color: #fff;
+    border-left: 2px solid #444;
     border-right: 2px solid #444;
     min-height: 100%;
-    width: 880px;
+    width: 995px;
+    margin: 0 auto;
+}
+
+.content { 
     padding: 0 40px;
+}
+
+.promo {
+    float: left;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
 }
 
 header {
@@ -62,7 +76,6 @@ header {
     display: block;
     float: left;
     width: 100%;
-    padding-bottom: 20px;
     section.tag-nav {
         position: relative;
         display: block;
@@ -124,7 +137,7 @@ header {
                         display: block;
                         font-family: Helvetica;
                         font-size: 18px;
-                        line-height: 26px;
+                        line-height: 20px;
                         font-weight: bold;
                         color: $font-black;
                         text-decoration: none;
@@ -143,7 +156,6 @@ header {
     .post {
         display: block;
         position: relative;
-        float: left;
         h1 {
             margin-top: 0px;
         }
@@ -151,14 +163,18 @@ header {
 }
 
 footer {
-    position: relative;
     display: block;
+    position: relative;
     float: left;
     text-align: right;
     width: 100%;
     font-size: 12px;
-    margin: 20px 0 5px;
+    background-color: #fff;
+    &.content {
+        padding: 10px 40px;
+    }
 }
+
 
 
 
@@ -207,7 +223,7 @@ p {
 }
 
 p, li {
-    font-family: "Open Sans", $body-font;
+    font-family: $body-font;
     font-weight: 300;
     font-size: 16px;
     line-height: 26px;
@@ -340,7 +356,7 @@ ol {
     counter-reset: li;
     margin: 0 0 18px;
     padding: 15px 10px 15px 20px;
-    width: 850px;
+    width: 100%;
     background-color: #f9f9f9;
     border: 1px solid #ccc;
     li {
@@ -355,7 +371,7 @@ ul {
     position: relative;
     display: block;
     float: left;
-    font-family: "Open Sans", $body-font;
+    font-family: $body-font;
     font-size: 18px;
     line-height: 26px;
     @include box-sizing(border-box);
@@ -375,7 +391,7 @@ ul {
     display: block;
     float: left;
     width: 100%;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .hide-desktop {
@@ -412,9 +428,8 @@ ul {
     @include box-shadow(0px 0px 5px darken(#F4F4F4, 20%) inset);
 }
 
-.fantastic {
-    font-family: Arial;
-    font-weight: bold;
+h1 + blockquote {
+    margin-top: 0px;
 }
 
 //
@@ -423,8 +438,11 @@ ul {
 /* 500px width for 7" */
 @media (max-width: 680px) {
     .wrapper {
-        width: 500px;
-        padding: 0 20px;
+        width: 600px;
+    }
+    .content {
+        padding: 0 30px;
+        position: relative;
     }
     .container section#home .post-list .post-list-item {
         .post-date {
@@ -463,10 +481,6 @@ ul {
         display: inline-block;
     }
 
-    img {
-        width: 500px;
-    }
-
     a#about-cheekswab-link {
         display: block;
         float: left;
@@ -488,10 +502,6 @@ ul {
     p, li {
         font-size: 16px;
         line-height: 24px;
-    }
-
-    ol {
-        width: 470px;
     }
 
     ul {
@@ -520,7 +530,6 @@ ul {
 @media (max-width: 520px) {
      .wrapper {
         width: 380px;
-        padding: 0 15px;
         @include box-sizing(border-box);
     }
     .container section#home .post-list .post-list-item .meta .post-title {
@@ -533,7 +542,7 @@ ul {
 
     p, li {
         font-size: 14px;
-        line-height: 22px;
+        line-height: 24px;
     }
 
     a#about-cheekswab-link {
@@ -544,7 +553,6 @@ ul {
     }
 
     ol {
-        width: 320px;
         padding: 10px 10px 5px 10px;
     }
 
@@ -568,10 +576,6 @@ ul {
     }
     .quote-source {
         font-size: 10px;
-    }
-
-    img {
-        width: 300px;
     }
 
     a.post-title {

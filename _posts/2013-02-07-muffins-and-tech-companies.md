@@ -3,11 +3,9 @@ layout: post
 title: Muffins and Tech Companies
 subtitle: Jason Fried on software companies and bakeries.
 tags: excerpt
+promo_url: /assets/img/2013-02-07_muffins.jpg
+promo_alt: Muffins
 ---
-
-<div class="photo-block top">
-    <a href="https://secure.flickr.com/photos/queenroly/415107007/sizes/l/in/photostream/" target="_blank" title="queenroly on flickr"><img src="/assets/img/2013-02-07_muffins.jpg" title="Muffins"/></a>
-</div>
 
 > People seem to be afraid of money.  People seem to be afraid of making it, or taking it, or asking for it.  I don't understand that.
 >

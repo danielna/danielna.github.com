@@ -3,15 +3,12 @@ layout: post
 title: Where to Eat in Northern VA
 subtitle: A side project, from my stomach to yours.
 tags: text
+promo_url: /assets/img/2013-03-12_foodmap.jpg
+promo_alt: Notable NOVA Eateries
 ---
 
-<div class="photo-block top">
-    <a target="_blank" title="NOVA Food Map" href="http://www.novafoodmap.com">
-        <img src="/assets/img/2013-03-12_foodmap.jpg" title="Notable NOVA Eateries"/>
-    </a>
-</div>
+<a href="http://www.novafoodmap.com" title="Notable Nova Eateries" target="_blank">Understatement: I like to eat.</a>
 
-<p class="first">Understatement: I like to eat.</p>
 <div class="clearfix"></div>
 
 Having been a VA/DC/MD resident for the majority of my life, I can't begin to count the number of local restaurants I've eaten at over the years.  One of my favorite things to do is introduce people to really good food that they've never tried before, especially when a restaurant has a good bang/buck.  

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Cracker Barrel and hackerschool
+title: Cracker Barrel and Hacker School
 subtitle: Lessons from a small wooden labyrinth of pain and suffering.
 tags: text
+promo_url: /assets/img/2013-05-19_hs.jpg
+promo_alt: Hacker School
 ---
 
-<div class="photo-block top">
-    <img src="/assets/img/2013-05-19_hs.jpg" title="Hackerschool"/>
-</div>
-
-<p class="first">Last Friday I quit my job.  A week from now I'll be moving to New York City to participate in the sixth batch of <a href="http://www.hackerschool.com" target="_blank">hackerschool</a>.</p>
+Last Friday I quit my job.  A week from now I'll be moving to New York City to participate in the sixth batch of <a href="http://www.hackerschool.com" target="_blank">hackerschool</a>.
 
 My decision to attend hackerschool was not an indictment of my job because I actually liked my job.  I mean, it wasn't perfect but no job is.  But I was able to meet, work with and learn from people that I really enjoyed, both as colleagues and as friends.  And I particularly liked working with the people on my project team.
 

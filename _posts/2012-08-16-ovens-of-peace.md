@@ -2,11 +2,9 @@
 layout: post
 title: Ovens of Peace
 tags: excerpt
+promo_url: /assets/img/2012-08-16_Oven.jpg
+promo_alt: Ovens of Peace
 ---
-
-<div class="photo-block top">
-    <a href="https://secure.flickr.com/photos/finlap/3909719371/sizes/l/in/photostream/" target="_blank" title="finlap on Flickr"><img src="/assets/img/2012-08-16_Oven.jpg" title="Ovens of Peace"/></a>
-</div>
 
 > Relationships are fragile in Beirut. Instability at the top filters down into your intimate life. Neighbours, brothers, sisters, lovers – they can all turn on you overnight. Governments collapse. Friends emigrate. Houses that survived the Ottoman Empire disappear in a week, killed off by sky-high real estate values. Trust is essential; trust is impossible. That's one legacy of the long, lingering civil war, which officially ran from 1975 to 1990 but never really ended.
 >
