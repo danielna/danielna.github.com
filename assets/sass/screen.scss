@@ -254,15 +254,19 @@ blockquote {
     padding-right: 15px;
     margin: 25px 0px 35px 20px;
     p {
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 18px;
+        line-height: 28px;
         font-weight: bold;
-        color: $header-color;
+        color: #777;
         margin: 0 0 20px 0;
         width: 100%;
         &:last-child {
             margin-bottom: 0px;
         }
+    }
+    h2 { 
+        color: #333;
+        margin-top: 0;
     }
     &.top {
         margin-top: 0px;

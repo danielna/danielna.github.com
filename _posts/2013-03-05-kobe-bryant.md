@@ -7,7 +7,7 @@ promo_url: /assets/img/2013-03-05_kobe.jpg
 promo_alt: Kobe
 ---
 
-So when I include excerpts from other sources, I typically put it into a big red text, but there's too much text to do this here.
+So when I include excerpts from other sources, I typically put it into called-out text, but there's too much content to do this here.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 

@@ -284,10 +284,10 @@ blockquote {
 }
 /* line 256, ../sass/screen.scss */
 blockquote p {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 18px;
+  line-height: 28px;
   font-weight: bold;
-  color: #ed2525;
+  color: #777;
   margin: 0 0 20px 0;
   width: 100%;
 }
@@ -296,11 +296,16 @@ blockquote p:last-child {
   margin-bottom: 0px;
 }
 /* line 267, ../sass/screen.scss */
+blockquote h2 {
+  color: #333;
+  margin-top: 0;
+}
+/* line 271, ../sass/screen.scss */
 blockquote.top {
   margin-top: 0px;
 }
 
-/* line 272, ../sass/screen.scss */
+/* line 276, ../sass/screen.scss */
 .quote-source {
   position: relative;
   display: block;
@@ -313,7 +318,7 @@ blockquote.top {
   color: #222222;
 }
 
-/* line 284, ../sass/screen.scss */
+/* line 288, ../sass/screen.scss */
 .caption {
   position: relative;
   display: block;
@@ -324,7 +329,7 @@ blockquote.top {
   color: #666;
 }
 
-/* line 294, ../sass/screen.scss */
+/* line 298, ../sass/screen.scss */
 .footnotes {
   display: block;
   position: relative;
@@ -332,12 +337,12 @@ blockquote.top {
   margin-top: 15px;
   font-size: 12px;
 }
-/* line 300, ../sass/screen.scss */
+/* line 304, ../sass/screen.scss */
 .footnotes p {
   font-size: 12px;
 }
 
-/* line 305, ../sass/screen.scss */
+/* line 309, ../sass/screen.scss */
 .separator {
   position: relative;
   display: block;
@@ -349,7 +354,7 @@ blockquote.top {
   color: #CCC;
 }
 
-/* line 316, ../sass/screen.scss */
+/* line 320, ../sass/screen.scss */
 .photo-block {
   position: relative;
   display: block;
@@ -357,36 +362,36 @@ blockquote.top {
   margin-top: 15px;
   margin-bottom: 18px;
 }
-/* line 322, ../sass/screen.scss */
+/* line 326, ../sass/screen.scss */
 .photo-block a:hover {
   background-color: transparent;
 }
-/* line 325, ../sass/screen.scss */
+/* line 329, ../sass/screen.scss */
 .photo-block.top {
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
-/* line 331, ../sass/screen.scss */
+/* line 335, ../sass/screen.scss */
 img {
   width: 100%;
 }
-/* line 333, ../sass/screen.scss */
+/* line 337, ../sass/screen.scss */
 img.pull-left {
   float: left;
   vertical-align: top;
   padding: 10px 25px 10px 0;
 }
-/* line 338, ../sass/screen.scss */
+/* line 342, ../sass/screen.scss */
 img#about-cheekswab {
   margin-top: 8px;
   width: auto;
 }
-/* line 342, ../sass/screen.scss */
+/* line 346, ../sass/screen.scss */
 img.home-top {
   margin-bottom: 15px;
 }
-/* line 345, ../sass/screen.scss */
+/* line 349, ../sass/screen.scss */
 img.bordered {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -395,7 +400,7 @@ img.bordered {
   border: 1px solid #f2f2f2;
 }
 
-/* line 352, ../sass/screen.scss */
+/* line 356, ../sass/screen.scss */
 ol {
   position: relative;
   display: block;
@@ -407,14 +412,14 @@ ol {
   background-color: #f9f9f9;
   border: 1px solid #ccc;
 }
-/* line 362, ../sass/screen.scss */
+/* line 366, ../sass/screen.scss */
 ol li {
   position: relative;
   margin: 0 0 10px 2em;
   padding: 4px 8px;
 }
 
-/* line 369, ../sass/screen.scss */
+/* line 373, ../sass/screen.scss */
 ul {
   width: 100%;
   position: relative;
@@ -427,16 +432,16 @@ ul {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-/* line 378, ../sass/screen.scss */
+/* line 382, ../sass/screen.scss */
 ul li {
   margin-bottom: 4px;
 }
-/* line 381, ../sass/screen.scss */
+/* line 385, ../sass/screen.scss */
 ul.narrow {
   margin: 0;
 }
 
-/* line 389, ../sass/screen.scss */
+/* line 393, ../sass/screen.scss */
 .disqus-comments {
   position: relative;
   display: block;
@@ -445,22 +450,22 @@ ul.narrow {
   margin-top: 20px;
 }
 
-/* line 397, ../sass/screen.scss */
+/* line 401, ../sass/screen.scss */
 .hide-desktop {
   display: none;
 }
 
-/* line 402, ../sass/screen.scss */
+/* line 406, ../sass/screen.scss */
 .page-log ul {
   margin-top: 5px;
 }
-/* line 405, ../sass/screen.scss */
+/* line 409, ../sass/screen.scss */
 .page-log li {
   font-size: 14px;
   line-height: 21px;
 }
 
-/* line 411, ../sass/screen.scss */
+/* line 415, ../sass/screen.scss */
 .date {
   display: block;
   position: relative;
@@ -469,7 +474,7 @@ ul.narrow {
   float: left;
 }
 
-/* line 419, ../sass/screen.scss */
+/* line 423, ../sass/screen.scss */
 #help-content {
   display: none;
   position: relative;
@@ -488,25 +493,25 @@ ul.narrow {
   box-shadow: 0px 0px 5px #c1c1c1 inset;
 }
 
-/* line 431, ../sass/screen.scss */
+/* line 435, ../sass/screen.scss */
 h1 + blockquote {
   margin-top: 0px;
 }
 
 /* 500px width for 7" */
 @media (max-width: 680px) {
-  /* line 440, ../sass/screen.scss */
+  /* line 444, ../sass/screen.scss */
   .wrapper {
     width: 600px;
   }
 
-  /* line 443, ../sass/screen.scss */
+  /* line 447, ../sass/screen.scss */
   .content {
     padding: 0 30px;
     position: relative;
   }
 
-  /* line 448, ../sass/screen.scss */
+  /* line 452, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .post-date {
     position: relative;
     float: left;
@@ -517,7 +522,7 @@ h1 + blockquote {
     width: auto;
     vertical-align: bottom;
   }
-  /* line 458, ../sass/screen.scss */
+  /* line 462, ../sass/screen.scss */
   .container section#home .post-list .post-list-item span.tag {
     position: relative;
     float: left;
@@ -527,28 +532,28 @@ h1 + blockquote {
     margin-left: 10px;
     vertical-align: bottom;
   }
-  /* line 467, ../sass/screen.scss */
+  /* line 471, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .meta {
     margin-top: 0px;
     border-left: 0px;
     padding-left: 0px;
     width: 100%;
   }
-  /* line 472, ../sass/screen.scss */
+  /* line 476, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .meta span.tag {
     display: none;
   }
-  /* line 475, ../sass/screen.scss */
+  /* line 479, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .meta .post-subtitle {
     line-height: 16px;
   }
 
-  /* line 480, ../sass/screen.scss */
+  /* line 484, ../sass/screen.scss */
   .hide-desktop {
     display: inline-block;
   }
 
-  /* line 484, ../sass/screen.scss */
+  /* line 488, ../sass/screen.scss */
   a#about-cheekswab-link {
     display: block;
     float: left;
@@ -556,11 +561,11 @@ h1 + blockquote {
     width: 100%;
     text-align: center;
   }
-  /* line 490, ../sass/screen.scss */
+  /* line 494, ../sass/screen.scss */
   a#about-cheekswab-link:hover {
     background-color: transparent;
   }
-  /* line 493, ../sass/screen.scss */
+  /* line 497, ../sass/screen.scss */
   a#about-cheekswab-link img#about-cheekswab {
     display: inline-block;
     position: relative;
@@ -569,41 +574,41 @@ h1 + blockquote {
     width: auto;
   }
 
-  /* line 502, ../sass/screen.scss */
+  /* line 506, ../sass/screen.scss */
   p, li {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 507, ../sass/screen.scss */
+  /* line 511, ../sass/screen.scss */
   ul {
     margin-left: 0px;
     padding-left: 20px;
   }
-  /* line 510, ../sass/screen.scss */
+  /* line 514, ../sass/screen.scss */
   ul li {
     font-size: 16px;
     line-height: 24px;
   }
 
-  /* line 516, ../sass/screen.scss */
+  /* line 520, ../sass/screen.scss */
   blockquote {
     margin-left: 5px;
   }
-  /* line 518, ../sass/screen.scss */
+  /* line 522, ../sass/screen.scss */
   blockquote p {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 18px;
   }
 
-  /* line 524, ../sass/screen.scss */
+  /* line 528, ../sass/screen.scss */
   .quote-source {
     font-size: 12px;
   }
 }
 @media (max-width: 520px) {
-  /* line 531, ../sass/screen.scss */
+  /* line 535, ../sass/screen.scss */
   .wrapper {
     width: 380px;
     -webkit-box-sizing: border-box;
@@ -611,76 +616,76 @@ h1 + blockquote {
     box-sizing: border-box;
   }
 
-  /* line 535, ../sass/screen.scss */
+  /* line 539, ../sass/screen.scss */
   .container section#home .post-list .post-list-item .meta .post-title {
     line-height: 22px;
   }
 
-  /* line 539, ../sass/screen.scss */
+  /* line 543, ../sass/screen.scss */
   h1 {
     font-size: 24px;
   }
 
-  /* line 543, ../sass/screen.scss */
+  /* line 547, ../sass/screen.scss */
   p, li {
     font-size: 14px;
     line-height: 24px;
   }
 
-  /* line 549, ../sass/screen.scss */
+  /* line 553, ../sass/screen.scss */
   a#about-cheekswab-link img#about-cheekswab {
     width: 200px;
     margin: 0px 0px 20px 35px;
   }
 
-  /* line 555, ../sass/screen.scss */
+  /* line 559, ../sass/screen.scss */
   ol {
     padding: 10px 10px 5px 10px;
   }
 
-  /* line 559, ../sass/screen.scss */
+  /* line 563, ../sass/screen.scss */
   ul {
     padding-left: 10px;
   }
-  /* line 561, ../sass/screen.scss */
+  /* line 565, ../sass/screen.scss */
   ul.narrow {
     margin-left: 5px;
   }
-  /* line 563, ../sass/screen.scss */
+  /* line 567, ../sass/screen.scss */
   ul.narrow li {
     font-size: 14px;
   }
 
-  /* line 569, ../sass/screen.scss */
+  /* line 573, ../sass/screen.scss */
   blockquote {
     margin-left: 0px;
   }
-  /* line 571, ../sass/screen.scss */
+  /* line 575, ../sass/screen.scss */
   blockquote p {
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 14px;
   }
 
-  /* line 577, ../sass/screen.scss */
+  /* line 581, ../sass/screen.scss */
   .quote-source {
     font-size: 10px;
   }
 
-  /* line 581, ../sass/screen.scss */
+  /* line 585, ../sass/screen.scss */
   a.post-title {
     margin: 3px 0;
     font-size: 16px !important;
     line-height: 18px !important;
   }
 
-  /* line 586, ../sass/screen.scss */
+  /* line 590, ../sass/screen.scss */
   p.post-subtitle {
     font-size: 14px !important;
     line-height: 18px !important;
   }
 
-  /* line 591, ../sass/screen.scss */
+  /* line 595, ../sass/screen.scss */
   .separator {
     margin-bottom: 1em;
   }
