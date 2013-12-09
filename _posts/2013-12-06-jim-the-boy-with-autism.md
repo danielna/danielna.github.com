@@ -85,7 +85,7 @@ At least during the scope of that trip, friends who attended told me that Jim wa
 
 People tell me that they don't think what happened to Jim resulted in a "permanent" change.  Soon enough after returning home he was back to normal. Eventually he moved to a church campus that opened closer to his home.
 
-Pastor Bob was dismissed from his leadership position shortly thereafter. Not specifically related to the occurences on the trip to Korea but more as a result of a pastoral period marked by egotism and incompetence.
+Pastor Bob was dismissed from his leadership position shortly thereafter. Not specifically related to the occurrences on the trip to Korea but more as a result of a pastoral period marked by egotism and incompetence.
 
 Good riddance.
 
