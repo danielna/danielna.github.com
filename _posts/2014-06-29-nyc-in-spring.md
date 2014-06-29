@@ -23,6 +23,6 @@ From the top:
 1. The Japanese-style dumplings at XO Kitchen in Chinatown, at the corner of <a href="https://www.google.com/maps/@40.717468,-73.996092,3a,72.7y,211.92h,81.21t/data=!3m5!1e1!3m3!1sXnW8e_SRgndiwyP2q0lhlw!2e0!5s2011-06!6m1!1e1" target="_blank">Hester and Elizabeth</a>.  6 dumplings for $3.50.  While I acknowledge the utter insanity of my next statement, this is my single favorite item on any menu in New York City.  Here's a <a href="http://www.yelp.com/biz/xo-kitchen-new-york" target='_blank'>yelp link</a>.  I don't find any of the food on the massive menu very good other than the dumplings. 
 2. The bacon and egg mazemen at <a href="http://www.yelp.com/biz/yuji-ramen-new-york-2" target='_blank'>Yuji Ramen in the Bowery Whole Foods</a>.  Arguably my favorite ramen in NYC and it's brothless!  Mind blown.  The noodles are the game changer here.  Still can't believe food of this quality is in a grocery store food court.
 3. A girl enjoying the bubble lady in Washington Square Park.
-4. A panorama of the Jersey skyline from the west side of Mahnattan.  Click through for a bigger version.  I'm a sucker for a good panorama.
+4. A panorama of the Jersey skyline from the west side of Manhattan.  Click through for a bigger version.  I'm a sucker for a good panorama.
 
 
