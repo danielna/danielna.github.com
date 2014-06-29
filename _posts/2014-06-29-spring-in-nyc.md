@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYC in Spring
+title: Spring in NYC 
 subtitle: And the greatest dumplings known to man.
 tags: photos
 ---
