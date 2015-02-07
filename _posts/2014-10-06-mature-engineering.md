@@ -39,7 +39,7 @@ It's not difficult to enumerate the explicit technical skills I've acquired this
 
 Less obvious to identify is knowledge gained relative to systems-level thinking, simply because it's much less definitive.  Here's an interesting potential interview question: how does Google Analytics work?  What are the moving parts?  A year ago I couldn't have answered this question with any level of confidence.  But now I have an idea of how client-side events can be beaconed to a server, whose logs can be parsed, placed into a data store and then cleaned/extracted/visualized to an end user.  And at each step of that process I have a legitimate mental model of how that might work. 
 
-The former builds on the latter.  You have to know how to write JavaScript to write a client-side beacon.  But it's the latter stuff that is the most exciting and ripe with possibility.
+The latter builds on the former.  You have to know how to write JavaScript to write a client-side beacon.  But it's the latter stuff that is the most exciting and ripe with possibility.
 
 But by far the hardest and most valuable problems I've learned from this year have even less to do with a specific technology.  Here's a killer question: how do you delete code with confidence from a web application that serves over a billion page views per month and has 200+ active developers pushing code to its repository 50+ times a day?
 
