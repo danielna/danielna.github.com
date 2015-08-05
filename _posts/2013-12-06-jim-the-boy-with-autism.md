@@ -44,15 +44,15 @@ Pastor Bob, with his dominating, aggressive, unyielding personality, turned out 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 > ##What’s the reason you jump?##
-
+>
 > What do you think I’m feeling when I’m jumping up and down clapping my hands? I bet you think I’m not really feeling anything much beyond the manic glee all over my face.
-
+>
 > But when I’m jumping, it’s as if my feelings are going upward to the sky. Really, my urge to be swallowed up by the sky is enough to make my heart quiver. When I’m jumping, I can feel my body parts really well, too—my bounding legs and my clapping hands—and that makes me feel so, so good.
-
+>
 > So that’s one reason why I jump, and recently I’ve noticed another reason. People with autism react physically to feelings of happiness and sadness. So when something happens that affects me emotionally, my body seizes up as if struck by lightning.
-
+>
 > "Seizing up" doesn’t mean that my muscles literally get stiff and immobile—rather, it means that I’m not free to move the way I want. So by jumping up and down, it’s as if I’m shaking loose the ropes that are tying up my body. When I jump, I feel lighter, and I think the reason my body is drawn skyward is that the motion makes me want to change into a bird and fly off to some faraway place.
-
+>
 > But constrained both by ourselves and by the people around us, all we can do is tweet-tweet, flap our wings and hop around in a cage. Ah, if only I could just flap my wings and soar away, into the big blue yonder, over the hills and far away!
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
@@ -72,11 +72,11 @@ And Jim was quiet.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 > ##What causes panic attacks and meltdowns?##
-
+>
 > I don’t know if you can understand this one. Panic attacks can be triggered by many things, but even if you set up an ideal environment that gets rid of all the usual causes for a given person, we would still suffer panic attacks now and then.
-
+>
 > One of the biggest misunderstandings you have about us is your belief that our feelings aren’t as subtle and complex as yours. Because how we behave can appear so childish in your eyes, you tend to assume that we’re childish on the inside, too. But of course, we experience the same emotions that you do. And because people with autism aren’t skillful talkers, we may in fact be even more sensitive than you are. Stuck here inside these unresponsive bodies of ours, with feelings we can’t properly express, it’s always a struggle just to survive. And it’s this feeling of helplessness that sometimes drives us half crazy, and brings on a panic attack or a meltdown.
-
+>
 > When this is happening to us, please just let us cry, or yell, and get it all out. Stay close by and keep a gentle eye on us, and while we’re swept up in our torment, please stop us from hurting ourselves or others.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>

@@ -543,9 +543,15 @@ h1 + blockquote {
     h1 {
         font-size: 24px;
     }
+    h2, h3 {
+        margin-top: 0;
+    }
+    .photo-block {
+        margin: 0 0 8px 0;
+    }
 
     p, li {
-        font-size: 14px;
+        font-size: 16px;
         line-height: 24px;
     }
 
@@ -573,8 +579,8 @@ h1 + blockquote {
     blockquote {
         margin-left: 0px;
         p {
-            font-size: 14px;
-            line-height: 21px;
+            font-size: 16px;
+            line-height: 26px;
             margin-bottom: 14px;
         }
     }
