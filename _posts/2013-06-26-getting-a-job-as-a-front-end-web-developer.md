@@ -320,7 +320,7 @@ Good luck.
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 <h2>Acknowledgements</h2>
-Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a>, <a href="http://buchok.com/" target="_blank">Tom</a> and <a href="http://www.ericqweinstein.com/" target="_blank">Eric</a> for their input on this post.
+Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://www.ericqweinstein.com/" target="_blank">Eric</a> for their input on this post.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
@@ -330,7 +330,9 @@ Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a>
 
 [1] Cost of living is positively correlated to salary.  So if you live and work in the Ozarks you may not make six figures, no matter how good your JavaScript is.
 
-[2] There's some controversy about tech being "ageist."  Maybe that's true, I don't know.  But personally as a coworker I don't care if you're 12 or 95 as long as you're getting things done on time and not making my job harder.  No matter how old you are if you're not willing to learn new technologies to stay in line with market realities it will be difficult to find (and keep) a job.
+[2] _**Update 11/2015:** When I wrote this comment a couple years ago I wasn't intending to gloss over the tech industry's problems, especially diversity. The "meritocracy" comment was intended to be an encouragement to those feeling like they were too late or too old to start a new career path. I now have a better understanding of how potentially harmful and short-sighted the idea of a "meritocracy" can be. I'm going to leave my original footnote below._
+
+There's some controversy about tech being "ageist."  Maybe that's true, I don't know.  But personally as a coworker I don't care if you're 12 or 95 as long as you're getting things done on time and not making my job harder.  No matter how old you are if you're not willing to learn new technologies to stay in line with market realities it will be difficult to find (and keep) a job.
 
 [3] I briefly considered re-writing this sentence but it's just too good.
 

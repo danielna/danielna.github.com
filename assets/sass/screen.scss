@@ -1,4 +1,3 @@
-
 @import "_vars.scss";
 @import "compass/css3";
 
@@ -14,7 +13,6 @@ html {
 
 body {
     display: block;
-    position: relative;
     height: 100%;
     background: url("/assets/img/bg_grid.png") repeat #000;
     font-family: $body-font;
@@ -24,7 +22,6 @@ body {
 
 .wrapper {
     display: block;
-    position: relative;
     background-color: #fff;
     border-left: 2px solid #444;
     border-right: 2px solid #444;
@@ -38,20 +35,16 @@ body {
 }
 
 .promo {
-    float: left;
     display: block;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
 }
 
 header {
     display: block;
-    position: relative;
-    float: left;
     width: 100%;
     a.page-heading {
-        float: left;
-        display: block;
+        display: inline-block;
         font-family: $body-font;
         font-size: 42px;
         color: $header-color;
@@ -63,7 +56,7 @@ header {
     }
     .right {
         float: right;
-        display: block;
+        display: inline;
         text-align: right;
         margin-top: 30px;
         font-size: 12px;
@@ -72,12 +65,9 @@ header {
 }
 
 .container {
-    position: relative;
     display: block;
-    float: left;
     width: 100%;
     section.tag-nav {
-        position: relative;
         display: block;
         float: right;
         margin-bottom: 15px;
@@ -93,13 +83,10 @@ header {
 
     }
     section#home {
-        display: block;
-        position: relative;
         .post-list {
             display: block;
             padding: 0;
             .post-list-item {
-                float: left;
                 display: block;
                 margin-bottom: 25px;
                 &.last {
@@ -109,8 +96,7 @@ header {
                     background-color: transparent;
                 }
                 .post-date {
-                    display: block;
-                    float: left;
+                    display: inline-block;
                     width: 115px;
                     font-size: 13px;
                     line-height: 19px;
@@ -118,6 +104,7 @@ header {
                     text-transform: uppercase;
                     text-decoration: none;
                     color: #ADADAD;
+                    vertical-align: top;
                 }
                 span.tag {
                     font-size: 12px;
@@ -127,14 +114,11 @@ header {
                     color: $less-light-gray;
                 }
                 .meta {
-                    display: block;
-                    float: left;
+                    display: inline-block;
                     width: 740px;
                     border-left: 5px solid $light-gray;
                     padding-left: 12px;
                     .post-title { 
-                        float: left;
-                        display: block;
                         font-family: Helvetica;
                         font-size: 18px;
                         line-height: 20px;
@@ -144,7 +128,6 @@ header {
                     }
                     .post-subtitle {
                         display: block;
-                        float: left;
                         font-size: 14px;
                         line-height: 24px;
                         margin: 0px;
@@ -154,7 +137,6 @@ header {
         } 
     }
     .post {
-        display: block;
         position: relative;
         h1 {
             margin-top: 0px;
@@ -163,9 +145,6 @@ header {
 }
 
 footer {
-    display: block;
-    position: relative;
-    float: left;
     text-align: right;
     width: 100%;
     font-size: 12px;
@@ -182,44 +161,16 @@ footer {
 // Generic DOM Elements
 
 // Text
+h1, h2, h3, h4 {
+    float: left;
+    width: 100%;
+    font-family: Helvetica;
+    color: $font-black;
+}
 h1 {
     font-family: $body-font;
     margin-bottom: 18px;
-    &.top {
-        margin-top: 0px;
-    }
-}
-h2, h3 {
-    position: relative;
-    float: left;
-    width: 100%;
-    display: block;
-    margin-bottom: 5px;
-}
-h4 {
-    position: relative;
-    float: left;
-    width: 100%;
-    display: block;
-}
-
-h2, h3, h4 {
-    color: $font-black;
-    font-family: Helvetica;
-}
-
-p {
-    position: relative;
-    display: block;
-    float: left;
-    margin: 0 auto 18px;
-    width: 100%;
-    &.first {
-        margin-top: 18px;
-    }
-    &.shift-down {
-        margin-bottom: 0px;
-    }
+    &.top { margin-top: 0; }
 }
 
 p, li {
@@ -233,11 +184,16 @@ p, li {
     }
 }
 
+p {
+    margin: 0 auto 18px;
+    &.first {
+        margin-top: 18px;
+    }
+}
+
 a {
-    position: relative;
-    display: inline;
-    text-decoration: none;
     color: $color-blue;
+    text-decoration: none;
     &:hover {
         .container &, header .right &, footer & {
             background-color: #E3F0F7;
@@ -246,7 +202,6 @@ a {
 }
 
 blockquote {
-    position: relative;
     display: block;
     float: left;
     border-left: 10px solid #f2f2f2;
@@ -254,6 +209,7 @@ blockquote {
     padding-right: 15px;
     margin: 25px 0px 35px 20px;
     p {
+        width: 100%;
         font-size: 18px;
         line-height: 28px;
         font-weight: bold;
@@ -274,7 +230,6 @@ blockquote {
 }
 
 .quote-source {
-    position: relative;
     display: block;
     float: right;
     text-align: right;
@@ -286,9 +241,7 @@ blockquote {
 }
 
 .caption {
-    position: relative;
     display: block;
-    float: right;
     font-family: "Open Sans", Georgia;
     text-align: right;
     font-size: 12px;
@@ -296,9 +249,6 @@ blockquote {
 }
 
 .footnotes {
-    display: block;
-    position: relative;
-    float: left;
     margin-top: 15px;
     font-size: 12px;
     p {
@@ -307,20 +257,18 @@ blockquote {
 }
 
 .separator {
-    position: relative;
     display: block;
-    float: left;
     margin: 0 0 1em;
     text-align: center;
     width: 100%;
     font-size: 18px;
     color: #CCC;
+    clear: both;
 }
 
 .photo-block {
-    position: relative;
     display: block;
-    float: left;
+    clear: both;
     margin-top: 15px;
     margin-bottom: 18px;
     a:hover {
@@ -338,10 +286,6 @@ img {
         float: left;
         vertical-align: top;
         padding: 10px 25px 10px 0;
-    }
-    &#about-cheekswab {
-        margin-top: 8px; 
-        width: auto;
     }
     &.home-top {
         margin-bottom: 15px;
@@ -367,6 +311,7 @@ ol {
         position: relative;
         margin: 0 0 10px 2em;
         padding: 4px 8px;
+        clear: both;
     }
 }
 
@@ -380,20 +325,33 @@ ul {
     line-height: 26px;
     @include box-sizing(border-box);
     li {
+        clear: both;
         margin-bottom: 4px;
     }
     &.narrow {
         margin: 0;
     }
 }
+p + ul,
+h2 + ul,
+ul + h2 {
+    margin-top: 0;
+}
+li > ol {
+    margin-top: 18px;
+}
 
 //
 // Other
 
+.cut-top {
+    margin-top: 0;
+}
+.cut-bottom { 
+    margin-bottom: 0;
+}
+
 .disqus-comments {
-    position: relative;
-    display: block;
-    float: left;
     width: 100%;
     margin-top: 20px;
 }
@@ -485,24 +443,6 @@ h1 + blockquote {
         display: inline-block;
     }
 
-    a#about-cheekswab-link {
-        display: block;
-        float: left;
-        position: relative;
-        width: 100%;
-        text-align: center;
-        &:hover {
-            background-color: transparent;
-        }
-        img#about-cheekswab {
-            display: inline-block;
-            position: relative;
-            padding: 0;
-            margin: 0px auto 23px 40px;
-            width: auto;
-        }
-    }
-
     p, li {
         font-size: 16px;
         line-height: 24px;
@@ -553,13 +493,6 @@ h1 + blockquote {
     p, li {
         font-size: 16px;
         line-height: 24px;
-    }
-
-    a#about-cheekswab-link {
-        img#about-cheekswab {
-            width: 200px;
-            margin: 0px 0px 20px 35px;
-        }
     }
 
     ol {

@@ -34,8 +34,7 @@ Here Frankl answers: "Is it true that people are solely a product of their envir
 > therefore, any man can, even under such circumstances, decide what shall become of him -- mentally and spiritually. He may retain his human dignity even in a concentration camp. Dostoevski said once, "There is only one thing that I dread: not to be worthy of my
 > sufferings." These words frequently came to my mind after I became acquainted with those martyrs whose behavior in camp, whose suffering and death, bore witness to the fact that the last inner freedom cannot be lost. It can be said that they were worthy of their
 > sufferings; the way they bore their suffering was a genuine inner achievement. It was this spiritual freedom -- which cannot be taken away -- that makes life meaningful and purposeful.
-
-<p class="quote-source">Man's Search for Meaning, pp 85-87</p>
+> <p class="quote-source">Man's Search for Meaning, pp 85-87</p>
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 

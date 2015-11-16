@@ -27,7 +27,7 @@ For the unacquainted, <a href="http://www.crackerbarrel.com" target="_blank">Cra
 
 The peg game.
 
-<p class="shift-down">The peg game is placed on every table throughout the restaurant to keep diners occupied as they wait for their food.  It's not super complicated -- start with an empty spot, jump pegs to remove them, and end up with the least (ideally one) amount of pegs on the board when there are no remaining moves.  There's even a friendly taunt written on the wooden block that categorizes players based on their performance <a href="#footnotes">[1]</a>:</p>
+The peg game is placed on every table throughout the restaurant to keep diners occupied as they wait for their food.  It's not super complicated -- start with an empty spot, jump pegs to remove them, and end up with the least (ideally one) amount of pegs on the board when there are no remaining moves.  There's even a friendly taunt written on the wooden block that categorizes players based on their performance <a href="#footnotes">[1]</a>:
 
 - Leave only one, you're genius
 - Leave two and you're purty smart
