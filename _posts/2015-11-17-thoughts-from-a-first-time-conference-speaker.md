@@ -21,7 +21,7 @@ those topics have been written about extensively.</a>
 To see my annotated slides, see my <a href="http://talks.danielna.com/sassconf-2015/" target="_blank">talk details page</a>.
 
 The notes below aren't chronological and I'm only separating them into categories
-for the purposes of this blog post.  Writing them down, in the moment, was completely stream of consciousness.
+for the purposes of this blog post.  Writing them down was completely stream of consciousness.
 
 <div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
