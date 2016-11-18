@@ -4,81 +4,22 @@ title: blog.danielna.com
 promo_url: /assets/img/home_top.jpg
 promo_alt: Muir Woods, San Francisco, CA
 ---
-<script>
-    $(document).ready(function() {
 
-        // append tags via js because I can't find a simpler means of doing this
-        var siteTags = [];
-        {% for post in site.posts %}
-            {% for tag in post.tags %}
-                if (siteTags.indexOf("{{tag}}") < 0) {
-                    siteTags.push("{{tag}}");
-                }
-            {% endfor %}
-        {% endfor %}
-
-        $.each(siteTags, function(index, value) {
-            var end = " // ";
-            if ((siteTags.length-1) === index) {
-                end = "";
-            }
-            var link = "<a id='" + value + "-filter' href='javascript:;' title='" + value + "'>" + value + "</a>" + end;
-            $("section.tag-nav").append(link);
-        });
-
-        // Click events for filters
-        $("section.tag-nav").on("click", "a", function() {
-            $("section.tag-nav a").removeClass("active");
-            $(this).addClass("active");
-            var filter = $(this).attr("title");
-            if (filter === "all") {
-                $(".post-list .post-list-item").slideDown();
-                history.pushState(null, null, "?filter=all");
-            } else {
-                $(".post-list .post-list-item." + filter).slideDown();
-                $(".post-list .post-list-item").not("." + filter).slideUp();
-                history.pushState(null, null, "?filter=" + filter);
-            }
-        });
-
-        // Adjust posts via JS to accomodate pushState
-        var query = location.search;
-        var linkFilter = "";
-        var filterPos = query.indexOf("?filter=");
-        if (filterPos > -1) {
-            linkFilter = query.substring(8, query.length);
-        }
-        $("section.tag-nav a#" + linkFilter + "-filter").click();
-
-
-
-    });
-</script>
-
-<section class="tag-nav">
-    <a id="all-filter" href="javascript:;" title="all" class="active">all</a> //
-</section>
 <div class="clearfix"></div>
 
 <section id="home">
     <div class="post-list">
     {% for post in site.posts %}
         {% if forloop.last %}
-        <div class="post-list-item last {{ post.tags }}">
+        <div class="post-list-item last">
         {% else %}
-        <div class="post-list-item {{ post.tags }}">
+        <div class="post-list-item">
         {% endif %}
-            <a class="post-date" href="{{ post.url }}" title="{{ post.title }}">
+            <span class="post-date">
                 {{ post.date | date: "%b %d, %Y" }}
-            </a>
-            {% if post.tags %}
-                <span class="hide-desktop tag">{{ post.tags }}</span>
-            {% endif %}
+            </span>
             <div class="meta">
-                <a class="post-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                {% if post.tags %}
-                    <span class="tag">{{ post.tags }}</span>
-                {% endif %}
+                <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
                 {% if post.subtitle %}
                     <div class="clearfix"></div>
                     <p class="post-subtitle">{{ post.subtitle }}</p>
