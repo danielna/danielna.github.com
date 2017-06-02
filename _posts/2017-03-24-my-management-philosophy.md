@@ -2,6 +2,8 @@
 layout: post
 title: My Management Philosophy
 subtitle: Trust your smells
+permalink: /management-philosophy/
+redirect_from: "/2017/03/24/my-management-philosophy.html"
 tags: text
 ---
 
