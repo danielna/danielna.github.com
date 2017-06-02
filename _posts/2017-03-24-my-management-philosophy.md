@@ -2,12 +2,8 @@
 layout: post
 title: My Management Philosophy
 subtitle: Trust your smells
-permalink: /management-philosophy/
-redirect_from: "/2017/03/24/my-management-philosophy.html"
 tags: text
 ---
-
-**Last updated:** March 2017
 
 I moved into management in January 2017. Etsy (like other large tech companies) has
 two career paths: IC (individual contributor) or management. Currently I'm the
