@@ -92,7 +92,7 @@ a:focus {
 
 a:active,
 a:hover {
-    outline: 0;
+    outline: thin dotted;
 }
 
 /* ==========================================================================
@@ -435,7 +435,7 @@ p {
 }
 
 a {
-    color: #0088CC;
+    color: #007AB8;
 }
 
 .sr-only {
@@ -597,12 +597,38 @@ main, article {
         padding-left: 0;
     }
 
+    .toc li {
+       margin-bottom: 0;
+    }
+    .toc li ul {
+        margin-top: 0;
+    }
+
+    code {
+        font-family: monospace;
+        font-size: 0.75em;
+        padding: .1em .25em;
+        color: rgba(0,0,0,0.6);
+        background-color: rgba(253,246,227,.7);
+        border: 1px solid rgba(250,231,179,.7);
+        border-radius: 3px;
+    }
+
 
 
 
     /** should optimize these images **/
     img {
         max-width: 100%;
+    }
+    img.bordered {
+        border: 1px solid #222;
+    }
+    div.center {
+        text-align: center;
+    }
+    div.margin-B {
+        margin-bottom: 1em;
     }
 
 }
@@ -660,6 +686,12 @@ main, article {
         margin-top: 18px;
         font-size: 18px;
     }
+
+    h2 { font-size: 28px; }
+
+    h3 { font-size: 24px; }
+
+    h4 { font-size: 20px; }
 
 }
 
