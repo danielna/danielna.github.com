@@ -171,6 +171,8 @@ Organizations like National Federation of the Blind can sue companies as a very 
 
 For companies with a web presence in Europe, there is also an [increasing number of web accessibility regulations being set by European countries](http://webaim.org/articles/laws/world/europe). If you plan to internationalize your product, prepare to take a serious look at accessibility before you do so.
 
+That being said, the risk of legal liability wrt accessibility is very difficult to quantify. Karl Groves [has a great blog post exploring this uncertainty](http://www.karlgroves.com/2011/12/08/reduction-of-legal-risk-as-accessibility-business-case/) that's worth a read.
+
 #### SEO
 Remember when I said this?
 
