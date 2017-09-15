@@ -5,7 +5,7 @@ subtitle: Accessibility is not a feature, it's a requirement.
 tags: text
 ---
 
-I was a founding engineer and then the engineering manager of Etsy's first accessibility team for about a year, from mid-June 2016 to mid-June 2017. [Cameron](https://twitter.com/ckundo), [Kristyn](https://twitter.com/krreith) and I were a small team but our impact far exceeded our team size, and I will be forever proud of how much we accomplished.
+I was a founding engineer and then the engineering manager of Etsy's first accessibility team for about a year, from mid-June 2016 to mid-June 2017. We were a small team of three, but [Cameron Cundiff](https://twitter.com/ckundo)'s deep subject matter expertise/strategic vision and [Kristyn Reith](https://twitter.com/krreith)'s work ethic and quick study of a completely new technical domain resulted in an organizational impact that far exceeded our team size. I will be forever proud of how much we accomplished.
 
 I very intimately understand how making your product accessible can seem like an intractable problem, especially at large companies with large codebase(s) and lots of teams. I still remember the meeting in 2015 that kicked it all off. Our manager at the time asked, "what should we work on this year?" Someone asked, "what's the deal with accessibility?" We all looked at each other and shrugged. Beyond best practices like associating form labels with inputs and being moderately confident that alt attributes on images were important for some reason none of us had a real understanding of how accessibility worked.
 
@@ -240,7 +240,9 @@ The first time our team attended the [CSUN Assistive Technology Conference](http
 The later in the product development lifecycle accessibility concerns are surfaced the harder fixing them becomes. It's definitely more expensive and sometimes impossible. The worst case scenario for any team is to spend months designing, coding and validating a product design only to find that it's a fundamentally broken experience for AT users. If you can equip your designers to know what considerations to keep in mind before coding even begins -- keyboard accessibility, color contrast, hover and focus states, etc. -- it will go a long way towards stopping accessibility problems before they start.
 
 ## Quick wins / where to start
-As I said before, approaching accessibility can seem like an insurmountable, intractable problem. I know how it feels to not know where to start.
+As I said before, approaching accessibility can seem like an insurmountable, intractable problem. Before we hired Cameron (the SME), Kristyn and I weren't sure which paths to pursue. The problem space felt very unbounded, so I know how it feels to not know where to start. 
+
+*Side note: if you can hire a senior-level IC with deep accessibility domain expertise I strongly encourage you to do so. It's great to have strategic direction validated by experience.*
 
 Instead of jumping straight into automated solutions or even manual accessibility review, I suggest first familiarizing yourself with WCAG 2.0, getting plugged into a local #a11y community, and implementing a few quick wins on your product to (1) surface accessibility to the rest of your organization and (2) have immediate impact on visitors to your website who use AT.
 
