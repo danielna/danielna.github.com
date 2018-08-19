@@ -23,7 +23,7 @@ into a more reliable system we dubbed the "Unified Translation Workflow."
 All in all creating the frontend translation build system was a really fun and
 rewarding project, full of the types of challenges and lessons that make me love
 engineering. I wrote a [blog post](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations)
-for the Squarespace engineering blog sharing some our lessons learned about both
+for the Squarespace engineering blog sharing some of our lessons learned about both
 internationalization and systems design.
 
 Enjoy!
