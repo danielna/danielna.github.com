@@ -1,4 +1,9 @@
-# Understanding project management will improve your developer job
+---
+layout: post
+title: Understanding Project Management Will Improve Your Developer Job
+subtitle: Get to ship day
+tags: text
+---
 
 Last year when I was between jobs I asked a friend of mine how he liked his new gig:
 
