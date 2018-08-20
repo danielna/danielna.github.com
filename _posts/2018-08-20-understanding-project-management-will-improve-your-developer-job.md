@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Project Management Will Improve Your Developer Job
-subtitle: Get to ship day
+subtitle: Getting to ship day is about intention.
 tags: text
 ---
 
