@@ -8,9 +8,9 @@ tags: text
 Last year when I was between jobs I asked a friend of mine how he liked his new gig:
 
 > Him: "It's great!," he said. "We basically have no managers and don't have to deal with stuff like Jira."
-> 
+>
 > Me: So how do you know what to work on? Who tracks the company priorities?
-> 
+>
 > Him: "Hmm, I'm not sure. Engineers basically decide what to work on themselves."
 
 His company is small enough that this might work, and several years ago this would've sounded like a utopian ideal. Early in my career I developed an "I hate meetings", "Scrum is a waste of time", bureaucracy-allergic coding agenda. [[0]](#footnotes-0) Any interruption to my day was an interruption in Getting Things Done! I went so far as to write it on my LinkedIn profile.
@@ -64,9 +64,9 @@ When people think of Single Points of Failure (SPOF) they often think of a singl
 
 Fortunately, system-wide SPOFs are generally (hopefully!) rare. Team-based SPOFs are much more common and likely to affect the output of your team on a weekly basis. Say you break up a large project into granular tickets, some of which have a dependency on others. Person A is working on a subsystem that's a prerequisite to Person B's work. Then Person A is sick or goes on vacation for two weeks. Meanwhile Person B is blocked on their work and has no idea what Person A has done.
 
-This happens ALL THE TIME. It's super frustrating for everyone except Person A who's spending two weeks sitting on a beach sipping a drink with a tiny umbrella in it.
+This happens ALL THE TIME. It's super frustrating for everyone except Person A who's spending two weeks sitting on a beach sipping a drink with a tiny umbrella.
 
-The fix for SPOFs is adopting practices that promote context-sharing. 
+The fix for SPOFs is adopting practices that promote context-sharing.
 
 On a daily basis I suggest adopting a practice of commenting extensively -- and I mean _extensively_ -- on any in-progress tickets. The ticket should accurately reflect the context you've gained over that task at any given time. Did you try a different approach in code that failed? Explain the approach and leave a gist as a comment. Did you have a slack conversation with a person on another team that clarified an implementation detail? Copy/paste that conversation into a comment. Was an email exchanged? Copy/paste that email.
 
@@ -130,7 +130,7 @@ Remember: meaningful work is not about luck, it's about intention. Be intentiona
 
 <a name="footnotes-1">[1]</a> For the record, the goal of this post isn't to poo-poo on Jira. I actually really like Jira. People have justifiable problems with it because it's infinitely configurable and not necessarily beginner friendly but I personally love the feeling of setting up a new clean Jira board. It feels like a fresh start to do good work.
 
-<a name="footnotes-2">[2]</a> I don't have strong opinions on project management tools in terms of Jira vs. Pivotal Tracker vs. Trello or whatever. I mention JIra over and over again because it's what I'm used to. The choice of tool doesn't really matter. The important thing is that you have a means of creating and updating a history of work. 
+<a name="footnotes-2">[2]</a> I don't have strong opinions on project management tools in terms of Jira vs. Pivotal Tracker vs. Trello or whatever. I mention Jira over and over again because it's what I'm used to. The choice of tool doesn't really matter. The important thing is that you have a means of creating and updating a history of work. 
 
 <a name="footnotes-3">[3]</a> I've never seen a useful burn down chart. It's possible with a super tight, end-to-end project management workflow where all the tickets are broken down and estimated perfectly every sprint, but that's a unicorn I haven't seen IRL yet. 
 
