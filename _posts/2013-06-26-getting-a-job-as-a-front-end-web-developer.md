@@ -10,7 +10,7 @@ I've had a number of people in the last several years approach me with questions
 
 This will be less a step-by-step guide and more a conceptual overview.  There are <a href="https://www.google.com/search?q=learn+to+code">a billion websites</a> out there now that teach you the detailed "how".  I'll try to elaborate on the "what." <a href="#footnotes">[0]</a>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Practically: Why Tech?</h2>
 <ol>
@@ -25,7 +25,7 @@ This will be less a step-by-step guide and more a conceptual overview.  There ar
     </li>
 </ol>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Why Front-End Development?  What About Back-End?</h2>
 
@@ -41,7 +41,7 @@ This will be less a step-by-step guide and more a conceptual overview.  There ar
     <strong>Note:</strong> This isn't to say that FE work is <em>easier</em>.  Working on the FE and BE of an application can both be <em>very</em> complicated at a production level, and good developers are good developers, regardless of a FE or BE designation.  In fact, many of the best developers can do both.
 </p>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Who You Are</h2>
 
@@ -59,7 +59,7 @@ The most important characteristic you will need is to want to be good.  It's the
 
 The second most important characteristic is don't be an asshole.  Every industry has horrible people to work with and tech is no exception.  Being kind to others will take you a long way (both in tech and in life).  A positive or negative reputation will follow you wherever you go.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>How to Learn New Things</h2>
 
@@ -77,7 +77,7 @@ Tutorials are great.  The web is full of them.  But don't rely solely on tutoria
 
 The best way to learn a new concept is to create your own small project using that concept and finish it.  I'll offer examples of what I mean for each of the points below.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Front-End Development Basics</h2>
 
@@ -85,7 +85,7 @@ In this section I'll cover the most basic tenets of what I think every junior le
 
 <strong>Note:</strong> These lists are not exhaustive.  They're the basics of what I think you'd need to really understand to pass a junior-level FE technical screening. This is the very tip of the iceberg, and there are many more advanced concepts in each of these categories that will help round out FE understanding.  Think of these as cursory guides for beginners as opposed to FE-canon.
 
-<div class="separator">&raquo;&laquo;</div>
+---
 
 <h3>1. Understand the basic concepts of programming</h3>
 
@@ -116,7 +116,7 @@ If I had to offer a suggestion I'd recommend learning the basic concepts in Java
     <li>Create a list of full names.  Break them out into three lists: first, middle, and last names.  Count the frequency of the names in each list.</li>
 </ul>
 
-<div class="separator">&raquo;&laquo;</div>
+---
 
 <h3>2. Learn basic HTML and CSS</h3>
 
@@ -176,7 +176,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     </li>
 </ul>
 
-<div class="separator">&raquo;&laquo;</div>
+---
 
 <h3>3. Learn jQuery</h3>
 
@@ -216,7 +216,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     </li>
 </ul>
 
-<div class="separator">&raquo;&laquo;</div>
+---
 
 <h3>4. Learn vanilla JavaScript</h3>
 <p>
@@ -259,7 +259,7 @@ HTML and CSS are generally simple enough that any first-page google resource wil
     </li>
 </ul>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Moving Forward</h2>
 
@@ -271,7 +271,7 @@ The JS community is vibrant and full of wonderfully intelligent people who are w
 
 Good luck.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Personally Curated Resources</h2>
 <p>
@@ -317,12 +317,12 @@ Good luck.
 </li>
 </ul>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2>Acknowledgements</h2>
 Special thanks to <a href="https://github.com/lauren" target="_blank">Lauren</a> and <a href="http://www.ericqweinstein.com/" target="_blank">Eric</a> for their input on this post.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <h2><a name="footnotes"></a>Footnotes</h2>
 

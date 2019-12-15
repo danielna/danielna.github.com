@@ -1,18 +1,16 @@
 ---
 layout: post
 title: A Trip to Europe
-subtitle: Two weeks in Paris, Amsterdam and Copenhagen
+subtitle: Two weeks in Paris, Amsterdam and Copenhagen.
 tags: text
 ---
 
-<div class="photo-block top">
+<div class="photo-block">
     <img class="big" src="/assets/img/2015-07-19/paris-swings.jpg" title="The swings at the Jardin des Tuileries"/>
     <div class="caption">The swings of the summer carnival at the Jardin des Tuileries. Paris, France</div>
 </div>
 
-<p class="first">
 My wife and I recently got back from two weeks in Europe: six days in Paris (I was there for a tech conference) and three days each in Amsterdam and Copenhagen.  My wife is something of a Europe veteran, having studied abroad in Copenhagen during college and another trip with her family afterwards. I had never been there before.
-</p>
 
 Now that I'm older I travel much more frequently than I used to, although the bulk of that travel has been domestic. A side effect of living in New York City means I look at every new city I visit through an NYC lens -- is the city diverse, is it safe, how's the public transportation, what's the food culture, etc. And to be honest every major city I've visited in the states, while great in their own way, has reaffirmed NYC's status as the best city in the world.
 

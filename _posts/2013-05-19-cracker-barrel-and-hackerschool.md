@@ -3,8 +3,6 @@ layout: post
 title: Cracker Barrel and Hacker School
 subtitle: Lessons from a small wooden labyrinth of pain and suffering.
 tags: text
-promo_url: /assets/img/2013-05-19_hs.jpg
-promo_alt: Hacker School
 ---
 
 Last Friday I quit my job.  A week from now I'll be moving to New York City to participate in the sixth batch of <a href="http://www.hackerschool.com" target="_blank">hackerschool</a>.
@@ -50,7 +48,7 @@ I'm unbelievably excited to see what the summer has in store.  I'm excited to me
 
 Props to Cracker Barrel. <a href="#footnotes">[4]</a>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <div class="footnotes" id="footnotes">
     <p>[1] I learned that afternoon that my intelligence level consistently falls somewhere between "just plain dumb" and "eg-no-ra-moose."</p>

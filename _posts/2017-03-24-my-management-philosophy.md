@@ -21,7 +21,7 @@ over time.
 What follows is the slightly modified intro to my original blog post and my
 <a href="#on-management-generally">management philosophy</a>.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 I moved into management in January 2017. Etsy (like other large tech companies) has
 two career paths: IC (individual contributor) or management. The obvious question: why?
@@ -46,9 +46,10 @@ My motivation for writing a document like this is transparency and accountabilit
 If you're on my team you deserve to know, explicitly, what I expect from you
 and what you can expect from me. I think there's value in that clarity.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 ## On management generally
+
 * A team is only as good/productive as its ICs. Effective management is about putting
 those ICs in a place to be their best selves — adding (or removing) processes,
 identifying opportunities for growth and exposure, and creating, communicating,
@@ -70,6 +71,7 @@ There’s often the correct path and the easy path. Take the correct path, even
 if it’s hard, because it ultimately leads to better outcomes.
 
 ## On being your manager
+
 * My goal is to empower you to be your best self, keep the team strategically on
 track, help you reach career-related goals and handle higher level logistical details
 (meetings, JIRA, etc) that keep you productive and fulfilled.
@@ -79,6 +81,7 @@ to delivering tasks without granular and overbearing oversight. I find micromana
 as exhausting as you do.
 
 ## On our work as a team
+
 * Shipping regularly is the most important indicator of a healthy team. Toxic
 teams rarely ship, nor do teams with insufficient process or maturity. At the
 end of the day we all work in this industry to ship impactful products to millions
@@ -103,6 +106,7 @@ Being accountable means that it's our responsibility to respond with empathy and
 * Let's be [in the arena.](http://www.theodore-roosevelt.com/trsorbonnespeech.html)
 
 ## On working with others
+
 * Let's be marked by maturity in our work and interactions. My thoughts on this
 are well encapsulated by John Allspaw's blog post:
 [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
@@ -137,6 +141,7 @@ could be as large as a complex new feature to as small as a well-written commit
 message or email. A celebratory culture is built one interaction at a time.
 
 ## On self-awareness
+
 * I believe in [Daniel Pink's ideas](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)
 on our intrinsic motivators: autonomy, mastery, and purpose. I encourage you to
 continually revisit how those three motivators intersect in your role and be
@@ -149,8 +154,8 @@ Take care of yourself and please tell me when you're feeling overwhelmed or unha
 I'd rather have you leave early/take a break/switch tasks than burn out. You are
 valued more than your job title. Our success as a team is a long game and burnout
 undermines that success.
-    * Caveat: Sometimes we'll need to really churn on work to meet stricter dates,
-    but know that's the exception rather than the norm. We're not a culture of workaholics.
+  * Caveat: Sometimes we'll need to really churn on work to meet stricter dates,
+  but know that's the exception rather than the norm. We're not a culture of workaholics.
 * Sometimes work is boring or unglamorous, but a sign of maturity is fighting through
 the slog when you need to. Sometimes it's busy work. Getting the little things
 out of the way will enable you to work on the big things.

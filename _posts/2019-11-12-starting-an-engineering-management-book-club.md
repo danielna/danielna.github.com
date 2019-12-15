@@ -23,7 +23,7 @@ It also opened the door to the immense personal value of reading management/lead
 
 An engineering management book club is the best of both worlds. It allows members to build their first team while leveling up their management practice. I can't recommend it enough.
 
-———
+---
 
 I've now organized a few iterations of book clubs so here are some pragmatic tips for doing it yourself:
 
@@ -42,19 +42,19 @@ Here's a modified copy of an email invitation I've sent previously:
 >
 > A few TLs/EMs and I are interested in starting an engineering management book club. This email is to gauge your interest in joining us!
 >
-> Group parameters
+> **Group parameters**
 > * 8-10 members, composed of TLs+/EMs+.
 > * We will use our first session to get to know each other and crowdsource books to read, which we'll then collectively vote on during the week. The second session will be discussing the first chapter of the book we select.
 > * There is a primary facilitator (it's me) whose responsibilities include managing calendar invites, adding descriptions to those calendar invites, and kicking off discussion and keeping it going (often as simple as "so what stood out?"). This facilitator role can change over time.
 >
-> The commitment
+> **The commitment**
 > * Starting [START DATE], we will meet weekly from 930am-1030am on Wednesday mornings in a room on 10, 11 or 12 in the NYC office. We will likely take breaks for several weeks during the holidays. We will end promptly at 1030am.
 > * This will be a closed laptop meeting (be present!).
 > * You commit to reading the assigned reading beforehand. We'd prefer to spend time in discussion, not recap.
 > * We'll commit to having [Vegas rules](https://www.lucidmeetings.com/glossary/vegas-rules). Participants should be able to safely express their opinions on the topics we discuss without fear of reprisal, with the caveat that the discussion follows typical and expected levels of decorum appropriate for group office discussions (aka don't talk shit about specific people).
 > * You are responsible for buying/expensing your own book.
 >
-> The ask
+> **The ask**
 > * Can you commit to joining and attending the book club? If you are interested, please reply to me directly. You will eventually be added to a recurring calendar invite beginning [START DATE].
 >
 > This invitation will close in two Fridays from now.
@@ -63,7 +63,7 @@ Here's a modified copy of an email invitation I've sent previously:
 >
 > P.S. We'd like to keep this round of invites closed to those on this list to keep the book club below a certain size, so please do not forward this invitation to others.
 
-———
+---
 
 A couple of other thoughts that may be helpful:
 * We're not draconian about attendance or showing up on time because life happens and the NYC subway is far from deterministic. Out of respect for everyone's time we make it a point to start and end in a timely fashion, regardless of if everyone is there or not. If you miss a week you're accountable to keeping pace with the rest of the group for the following week.

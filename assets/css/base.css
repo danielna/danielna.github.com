@@ -376,11 +376,7 @@ p, li, blockquote, span, div {
   font-family: "Georgia";
   font-weight: 400;
   color: rgba(0,0,0,0.9);
-  line-height: 1.6;
-}
-
-p {
-  margin: 0 0 1em 0;
+  line-height: 1.6rem;
 }
 
 a {
@@ -396,44 +392,57 @@ a {
   overflow:hidden;
 }
 
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  width: 50%;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
 /**************************************
  * Smartphones (portrait)
  **************************************/
 @media only screen and (min-device-width : 320px) {
-  p, li, blockquote, span, div {
+  html {
     font-size: 18px;
-    line-height: 1.6;
   }
 
-  p, .site-header, .caption, .disqus-comments, .footer, .post-list-item,
-  h1,h2,h3,h4,h5,h6,
-  ul, ol {
-    padding-left: 12px;
-    padding-right: 12px;
+  body {
+    padding: 1rem 0 0.5rem;
   }
 
-  .caption {
-      font-size: 14px;
-      line-height: 1.2;
-      margin-bottom: 18px;
+  .container, .site-header, .footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
-  .post__title {
-    margin-top: 0.3em;
-    font-size: 32px;
+  .container {
+    margin: 0 0 1.5rem 0;
   }
 
-  h1,h2,h3,h4,h5,h6 {
-    line-height: 1.1;
-    margin: 0.4em auto;
+
+  h2,h3,h4,h5,h6 {
+    margin-bottom: 1rem;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 1.6rem;
   }
 
-  ul, ol {
-    padding-left: 32px;
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  .post ul,
+  .post ol {
+    padding-left: 1.5rem;
+  }
+  .post ul li,
+  .post ol li {
+    margin-bottom: 0.8rem;
   }
 
   ul ul {
@@ -446,28 +455,10 @@ a {
     padding-left: 24px;
   }
 
-  li {
-    line-height: 1.5;
-    margin-bottom: 0.6em;
-  }
 
   li p {
     padding-left: 0;
     padding-right: 0;
-  }
-
-  blockquote {
-    margin-left: 14px;
-    margin-right: 14px;
-    border-left: 10px solid rgba(0,0,0,0.2);
-  }
-
-  blockquote p {
-    padding-right: 0;
-  }
-
-  .quote-source {
-    line-height: 1.2;
   }
 
   .separator {
@@ -477,72 +468,115 @@ a {
     line-height: 1em;
   }
 
-  .banner__main-link {
-    color: #ED2525;
+  /* chrome */
+  .site-header {
+    margin-bottom: 1.5rem;
+  }
+  .site-header__logo {
+    display: block;
+    color: #222;
+    font-size: 17px;
     font-family: "Helvetica Neue";
-    font-weight: 200;
-    /*text-shadow: 0px 0px 1px #ccc;*/
-    font-size: 38px;
+    font-weight: bold;
     text-decoration: none;
-    letter-spacing: 0.06em;
   }
-
-  .banner__right {
+  .site-header__nav {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+  }
+  .site-header__nav__item {
     display: inline-block;
-    float: right;
-    text-align: right;
-    font-size: 14px;
-    margin-top: 10px;
+    margin-bottom: 0;
   }
-
-  .banner__right a {
+  .site-header__nav__link {
     text-decoration: none;
-  }
-
-  .promo {
-    margin-top: 0.3em;
-  }
-
-  .photo-block.top {
-    margin-top: 18px;
+    margin-right: 6px;
+    font-size: 15px;
   }
 
   .footer {
-    font-size: 14px;
-    text-align: right;
-    margin-bottom: 18px;
+    font-size: 0.8rem;
   }
-
-  .footer a {
-    text-decoration: none;
-  }
-
-  .post-list-item {
-    margin-bottom: 1em;
-  }
-
-  .post-list-item .post-date {
-    font-family: "Helvetica";
-    font-size: 0.8em;
+  .copyright {
     color: rgba(0,0,0,0.6);
+    margin: 0;
+  }
+
+
+  /* index */
+  .blog-post {
+    margin-bottom: 1.2em;
+  }
+  .blog-post.last,
+  .blog-post.last .blog-post__date {
+    margin-bottom: 0;
+  }
+  .blog-post__title {
+    display: block;
+    font-size: 1.4rem;
+    margin-bottom: 0.3rem;
+  }
+  .blog-post__subtitle {
+    margin: 0 0 0.3rem 0;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    padding: 0;
+  }
+  .blog-post__date {
+    color: rgba(0,0,0,0.6);
+    font-family: "Helvetica";
+    font-size: 0.8rem;
+    line-height: 1rem;
+    padding: 0;
+    margin: 0;
     text-transform: uppercase;
   }
 
-  .post-list-item .meta {
-    line-height: 1.2;
+
+  /* blog post content */
+  .promo {
+    margin-bottom: 0rem;
   }
 
-  .post-list-item .post-subtitle {
-    margin: 3px 0 0 0;
-    line-height: 1.3;
-    padding-left: 0;
+  .post__header {
+    margin-bottom: 1.5rem;
   }
-
-  .toc li {
+  .post__title {
+    font-size: 2rem;
     margin-bottom: 0;
   }
-  .toc li ul {
+  .post p {
+    margin-bottom: 1.2rem;
+  }
+
+  blockquote {
+    margin: 0;
+    border-left: 3px solid rgba(0,0,0,0.2);
+    padding-left: 1rem;
+  }
+  blockquote p {
+    padding-right: 0;
+  }
+  blockquote cite {
+    font-size: 0.9rem;
+  }
+
+  /* for the a11y blog post, which is long enough
+   * to require a TOC */
+  .post .toc li {
+    margin-bottom: 0;
+  }
+  .post .toc li ul {
     margin-top: 0;
+  }
+
+  .post .photo-block {
+    margin-bottom: 1.2rem;
+  }
+  .post .caption {
+    font-size: 0.8rem;
+    line-height: 1.2;
   }
 
   code {
@@ -592,7 +626,7 @@ a {
         font-size: 21px;
     }
 
-    p, .site-header, .caption, .disqus-comments, .footer, .post-list-item,
+    p, .site-header, .caption, .disqus-comments, .footer, .blog-post,
     h1,h2,h3,h4,h5,h6,
     ul, ol {
         padding-left: 32px;
@@ -653,7 +687,7 @@ a {
         background-color: #fff;
     }
 
-    p, .site-header, .caption, .disqus-comments, .footer, .post-list-item,
+    p, .site-header, .caption, .disqus-comments, .footer, .blog-post,
     h1,h2,h3,h4,h5,h6,
     ul, ol {
         padding-left: 42px;

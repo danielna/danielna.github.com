@@ -4,17 +4,16 @@ title: Amusement Park Leadership
 subtitle: Michael Scott comes to life.
 tags: text
 promo_url: /assets/img/2012-07-31_amusementpark.jpg
-promo_alt: Amusement Park Leadership
+promo_alt: A revolving swing with riders from a carnival
 ---
 
 > I'd say that there's a lot of Michael Scott in this job. I'd say there's a lot of Michael Scott in me, probably. I do silly things that everybody looks at me later and go, why did he do it? Why was it deemed necessary for Cole to dress up wearing a big beard and a raincoat, and tell everyone he lived downtown under the bridge and he was there to motivational speaker them today? "Hi everybody, I'm Phil Bridges." You know, and then, like, go out and talk to people. What went through his thought process?
 >
->
 > And I've run out with a squirt gun all the time. I've got my big super soaker, and on busy days, I'll take the super soaker and I'll fill it up with ice water, and I'll sneak around the corner. And they're all standing there, and I'll just go, "Line them up!" and just like spray across the whole group. You know? That's what makes it fun! They're going to remember Phil Bridges more than, you know, like, anything else throughout the day.
 >
->
 > And so if they're talking about, "Did you guys see what Cole did at the shift meeting?" Even if they say, "that was stupid," or "that was not funny," they're still going to be talking about it. And that's still going to get them happy about this job.
-> <p class="quote-source">(Cole Lindbergh, Manager, World of Fun Amusement Park)</p>
+>
+> <footer><cite>Cole Lindbergh, Manager, World of Fun Amusement Park</cite></footer>
 
 I like to listen to storytelling podcasts on long car rides, and this weekends trip to/from upstate New York with my girlfriend was no different. We listened to an episode of <a target="_blank" title="This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">This American Life</a> called <a target="_blank" title="Amusement Park | This American Life" href="http://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">Amusement Park</a> which was an unexpected lesson in leadership. The episode itself aired last August.
 

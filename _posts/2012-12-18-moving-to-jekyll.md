@@ -21,6 +21,4 @@ Unfortunately for prospective Jekyll users, the default docs are kind of horrend
 
 <a href="http://github.com/danielna/danielna.github.com" title="Blog source @ github" target="_blank">Hosting things on github</a> is also really, really awesome.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
 Any posts predating this post are cherrypicked from old blogs.

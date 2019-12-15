@@ -5,11 +5,9 @@ subtitle: Observations on the road to five months at Etsy.
 tags: text
 ---
 
-I started my new job as a software engineer at <a href="http://www.etsy.com" title="Etsy" target='_blank'>Etsy</a> on October 1, so as of the writing of this post it's been about five months.  I haven't written about career-related things since Hacker School, so for posterity's sake let's recap the road to here.
+I started my new job as a software engineer at <a href="http://www.etsy.com">Etsy</a> on October 1, so as of the writing of this post it's been about five months.  I haven't written about career-related things since Hacker School, so for posterity's sake let's recap the road to here.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
-## Interviewing ##
+## Interviewing
 
 Being unemployed for 5-6 months while financially independent was generally fine with the proper foresight and planning, but towards the latter part of Hacker School I was _really_ thinking about jobs.  Paying for COBRA was also getting very old, very fast.  Consequently I took a lot of interviews in a very short time period.
 
@@ -32,9 +30,7 @@ Things to evaluate:
 
 I had a few really positive interviewing experiences and they left a mark on how I'll evaluate/conduct interviewing moving forward.  Etsy absolutely nailed all of these points.  Only upon becoming an employee did I learn that it's because they take hiring very, very seriously and devote the time/resources to it in kind.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
-## Work ##
+## Work
 
 Etsy is a [well-oiled, tech-centric machine](http://codeascraft.com/).  I have never worked anywhere with such sophisticated engineering processes, perhaps the most mind-blowing of which remains [continuous deployment](http://www.slideshare.net/beamrider9/continuous-deployment-at-etsy-a-tale-of-two-approaches). <a href="#footnotes">[2]</a> I've also never worked on an engineering team even remotely this large (~150 and growing?!) with everyone working at a high level.
 
@@ -51,9 +47,7 @@ But the most important thing about Etsy is that everyone actively cares and cele
 
 It's not _just a job_; it's code as craft.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
-<h2><a name="footnotes"></a>Footnotes</h2>
+<h3><a name="footnotes"></a>Footnotes</h3>
 
 [1] I had actually studied the contents of this exact link and still brain-farted on some of them.
 

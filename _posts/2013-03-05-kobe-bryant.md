@@ -4,12 +4,13 @@ title: Kobe Bryant
 subtitle: A work ethic story.
 tags: excerpt
 promo_url: /assets/img/2013-03-05_kobe.jpg
-promo_alt: Kobe
+promo_alt: Kobe Bryant going for a dunk
 ---
 
-So when I include excerpts from other sources, I typically put it into called-out text, but there's too much content to do this here.
+Typically when I include excerpts from other sources I put it into a quote, but there's too much content to do this here.
+The text that follows is the entire excerpt.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 I've been a professional athletic trainer for about 16 years and have been able to work with a range of athletes from the high school to professional level. Right now I run in a clinic in Cincinnati and have most recently been training with some players on the Bengals.
 
@@ -38,13 +39,13 @@ I was expected to be at the floor again at about 11 AM. I woke up feeling sleepy
 This next part I remember very vividly. All the Team USA players were there, feeling good for the first scrimmage. LeBron was talking to Carmelo if I remember correctly and Coach Krzyzewski was trying to explain something to Kevin Durant. On the right side of the practice facility was Kobe by himself shooting jumpers. 
 
 > And this is how our next conversation went -- I went over to him, patted him on the back and said, "Good work this morning."
-> 
+>
 > "Huh?"
 >
 > "Like, the conditioning. Good work."
 >
 > "Oh. Yeah, thanks Rob. I really appreciate it."
-> 
+>
 > "So when did you finish?"
 >
 > "Finish what?"
@@ -55,6 +56,4 @@ This next part I remember very vividly. All the Team USA players were there, fee
 
 My jaw dropped. Mother of holy God. It was then that I realized that there's no surprise to why he's been as effective as he was last season. Every story about his dedication, every quote that he's said about hard work all came together and hit me like a train. It's no surprise to me now that he's dunking on players ten years younger than him and it wasn't a surprise to me earlier this year when he led the league in scoring. 
 
-<p class="quote-source">(reddit user RobertAlert, from <a href="http://www.reddit.com/r/nba/comments/19o38z/hi_rnba_my_name_is_robert_and_im_an_athletic/" target="_blank">the NBA subreddit</a>)</p>
-
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+_via the <a href="http://www.reddit.com/r/nba/comments/19o38z/hi_rnba_my_name_is_robert_and_im_an_athletic/" target="_blank">the NBA subreddit</a>_

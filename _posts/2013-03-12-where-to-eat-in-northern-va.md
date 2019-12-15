@@ -7,9 +7,7 @@ promo_url: /assets/img/2013-03-12_foodmap.jpg
 promo_alt: Notable NOVA Eateries
 ---
 
-<a href="http://www.novafoodmap.com" title="Notable Nova Eateries" target="_blank">Understatement: I like to eat.</a>
-
-<div class="clearfix"></div>
+[Understatement: I like to eat.](http://www.novafoodmap.com)
 
 Having been a VA/DC/MD resident for the majority of my life, I can't begin to count the number of local restaurants I've eaten at over the years.  One of my favorite things to do is introduce people to really good food that they've never tried before, especially when a restaurant has a good bang/buck.  
 
@@ -38,10 +36,8 @@ A couple weeks ago I realized that I think I finally knew enough JavaScript to t
 
 One last note: while I did talk in some detail about the merits of ethnic food, my food map isn't limited to ethnic food by any means.  I'm a sucker for a good burger or slice of NY-style pizza.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <div class="footnotes">
     <p>[1] Hands down the greatest resource for finding ethnic eateries in Northern VA is <a target="_blank" href="http://tylercowensethnicdiningguide.com/" title="TCEDG">Tyler Cowen's Ethnic Dining Guide</a>.  It's one of my favorite things on the Internet.</p>
-
-    <p>To see where these iPhone photos are coming from, see <a href="http://labs.danielna.com/daniseating/" title="dan is eating" target="_blank">dan is eating</a>.</p>
 </div>
