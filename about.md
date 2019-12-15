@@ -3,8 +3,12 @@ layout: base
 title: About Dan | blog.danielna.com
 ---
 
-I'm a DC-area transplant living in New York City. 
-The longer I live here the more I'm convinced it's the best city in the world.
+## About me
+
+---
+
+I'm a DC-area transplant living in New York City. The longer I live here the more
+I'm convinced it's the best city in the world.
 
 I'm currently a Staff Engineer and the Engineering Team Lead of the Internationalization
 Platform team at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.
@@ -30,3 +34,7 @@ more about bone marrow donation and joining the BeTheMatch Bone Marrow Registry.
 It truly is the lottery to save a life.
 
 I'm probably listening to <a href="https://www.youtube.com/watch?v=qA2_-eQ26tY&t=18s" target="_blank">90s hip hop</a>.
+
+## Contact
+* Email: dan@domain
+* Twitter: [@dxna](https://www.twitter.com/dxna)
