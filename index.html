@@ -1,35 +1,27 @@
 ---
 layout: base
 title: blog.danielna.com
-promo_url: /assets/img/home_top.jpg
-promo_alt: Muir Woods, San Francisco, CA
 ---
 
-<div class="clearfix"></div>
-
-<section id="home">
-    <div class="post-list">
-    {% for post in site.posts %}
-        {% if forloop.last %}
-        <div class="post-list-item last">
-        {% else %}
-        <div class="post-list-item">
-        {% endif %}
-            <span class="post-date">
-                {{ post.date | date: "%b %d, %Y" }}
-            </span>
-            <div class="meta">
-                <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
-                {% if post.subtitle %}
-                    <div class="clearfix"></div>
-                    <p class="post-subtitle">{{ post.subtitle }}</p>
-                {% endif %}
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    {% endfor %}
-
-    </div>
+<section>
+<h1 class="sr-only">My blog posts</h1>
+{% for post in site.posts %}
+    {% if forloop.last %}
+    <article class="blog-post last">
+    {% else %}
+    <article class="blog-post">
+    {% endif %}
+      <header>
+        <a class="blog-post__title" href="{{ post.url }}">{{ post.title }}</a>
+      </header>
+      {% if post.subtitle %}
+        <p class="blog-post__subtitle">{{ post.subtitle }}</p>
+      {% endif %}
+      <footer>
+        <p class="blog-post__date">
+          {{ post.date | date: "%b %d, %Y" }}
+        </p>
+      </footer>
+    </article>
+{% endfor %}
 </section>
-
-<div class="clearfix"></div>
