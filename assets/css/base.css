@@ -395,7 +395,7 @@ a {
 hr {
   border: 0;
   height: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   width: 50%;
   margin-top: 1.5rem;
@@ -409,63 +409,24 @@ hr {
   html {
     font-size: 18px;
   }
-
   body {
     padding: 1rem 0 0.5rem;
   }
-
   .container, .site-header, .footer {
     padding-left: 1rem;
     padding-right: 1rem;
   }
-
   .container {
     margin: 0 0 1.5rem 0;
   }
-
-
   h2,h3,h4,h5,h6 {
     margin-bottom: 1rem;
   }
-
   h2 {
     font-size: 1.6rem;
   }
-
   h3 {
     font-size: 1.2rem;
-  }
-
-  .post ul,
-  .post ol {
-    padding-left: 1.5rem;
-  }
-  .post ul li,
-  .post ol li {
-    margin-bottom: 0.8rem;
-  }
-
-  ul ul {
-    margin-top: 0.6em;
-    padding-left: 20px;
-  }
-
-  ul ol {
-    margin-top: 0.6em;
-    padding-left: 24px;
-  }
-
-
-  li p {
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  .separator {
-    text-align: center;
-    color: #CCC;
-    margin-bottom: 1.4em;
-    line-height: 1em;
   }
 
   /* chrome */
@@ -475,14 +436,13 @@ hr {
   .site-header__logo {
     display: block;
     color: #222;
-    font-size: 17px;
-    font-family: "Helvetica Neue";
+    font-family: "Helvetica Neue", Helvetica;
     font-weight: bold;
     text-decoration: none;
   }
   .site-header__nav {
     list-style-type: none;
-    margin: 0;
+    margin: 0.2rem 0 0 0;
     padding-left: 0;
   }
   .site-header__nav__item {
@@ -491,10 +451,10 @@ hr {
   }
   .site-header__nav__link {
     text-decoration: none;
-    margin-right: 6px;
-    font-size: 15px;
+    font-size: 0.9rem;
+    font-family: "Helvetica Neue", Helvetica;
+    margin-right: 0.33rem;
   }
-
   .footer {
     font-size: 0.8rem;
   }
@@ -533,12 +493,11 @@ hr {
     text-transform: uppercase;
   }
 
-
   /* blog post content */
   .promo {
+    text-align: center;
     margin-bottom: 0rem;
   }
-
   .post__header {
     margin-bottom: 1.5rem;
   }
@@ -549,7 +508,6 @@ hr {
   .post p {
     margin-bottom: 1.2rem;
   }
-
   blockquote {
     margin: 0;
     border-left: 3px solid rgba(0,0,0,0.2);
@@ -560,6 +518,14 @@ hr {
   }
   blockquote cite {
     font-size: 0.9rem;
+  }
+  .post ul,
+  .post ol {
+    padding-left: 1.5rem;
+  }
+  .post ul li,
+  .post ol li {
+    margin-bottom: 0.8rem;
   }
 
   /* for the a11y blog post, which is long enough
@@ -589,9 +555,6 @@ hr {
     border-radius: 3px;
   }
 
-
-
-
   /** should optimize these images **/
   img {
     max-width: 100%;
@@ -606,64 +569,29 @@ hr {
 }
 
 
-
-/**************************************
- * Smartphones (landscape)
- **************************************/
-@media only screen and (min-device-width : 320px) and (orientation: landscape) {
-}
-
-
-
 /**************************************
  * iPads (portrait)
  **************************************/
 @media only screen and (min-device-width : 768px) {
+  html {
+    font-size: 20px;
+  }
+  body {
+    padding: 1rem 0 0.5rem;
+  }
+  .container, .site-header, .footer,
+  .promo {
+    padding: 0;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .site-header {
+    margin-bottom: 1.5rem;
+  }
+  .container {
+    margin-bottom: 1.5rem;
+  }
 
-    p, li, blockquote, span, div {
-        font-size: 21px;
-    }
-
-    p, .site-header, .caption, .disqus-comments, .footer, .blog-post,
-    h1,h2,h3,h4,h5,h6,
-    ul, ol {
-        padding-left: 32px;
-        padding-right: 32px;
-    }
-
-    ul, ol {
-        padding-left: 52px;
-    }
-
-    .banner__main-link {
-        font-size: 56px;
-    }
-
-    .banner__right {
-        font-size: 18px;
-        margin-top: 20px;
-    }
-
-    blockquote {
-        margin-left: 42px;
-        margin-right: 42px;
-        border-left: 10px solid rgba(0,0,0,0.2);
-    }
-
-    blockquote p {
-        padding-left: 28px;
-    }
-
-    .footer {
-        margin-top: 18px;
-        font-size: 18px;
-    }
-
-    h2 { font-size: 28px; }
-
-    h3 { font-size: 24px; }
-
-    h4 { font-size: 20px; }
 
 }
 
@@ -672,54 +600,13 @@ hr {
  * iPads (landscape)
  **************************************/
 @media only screen and (min-device-width : 768px) and (orientation: landscape) {
+  html {
+    font-size: 20px;
+  }
 
-    body {
-        height: 100%;
-        background: url("/assets/img/bg_grid.png") repeat #000;
-    }
-
-    .wrapper {
-        max-width: 880px;
-        margin: 0 auto;
-        box-shadow: 0 0 4px 1px #333;
-        background-color: #fff;
-    }
-
-    p, .site-header, .caption, .disqus-comments, .footer, .blog-post,
-    h1,h2,h3,h4,h5,h6,
-    ul, ol {
-        padding-left: 42px;
-        padding-right: 42px;
-    }
-
-    ul, ol {
-        padding-left: 62px;
-    }
-
-    .footer {
-        margin-bottom: 0;
-        padding-bottom: 24px;
-
-    }
+  .container, .site-header, .footer,
+  .promo {
+    max-width: 880px;
+  }
 
 }
-
-
-/**************************************
- * Desktops and Laptops
- **************************************/
-@media only screen and (min-width : 1224px) {
-}
-
-
-
-/**************************************
- * Large screens
- **************************************/
-@media only screen and (min-width : 1824px) {
-}
-
-
-
-
-
