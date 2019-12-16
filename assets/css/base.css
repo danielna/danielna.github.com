@@ -599,11 +599,9 @@ hr {
   img.bordered {
     border: 1px solid #222;
   }
-  div.center {
+  .img-container {
     text-align: center;
-  }
-  div.margin-B {
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
   }
 }
 
