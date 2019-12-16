@@ -3,6 +3,7 @@ layout: post
 title: Upgrading a Macbook Pro SSD with SuperDuper!
 subtitle: The single biggest performance upgrade to any laptop.
 tags: text
+redirect_from: "/2012/12/09/upgrade-macbook-pro-with-superduper.html"
 ---
 
 I figure this might help someone, if the google desires it so.

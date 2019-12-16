@@ -13,7 +13,7 @@ I wrote my original management philosophy in 2017 when I first started managing
 an engineering team at Etsy. I've had much more management and IC experience
 since then and wanted to update that original philosophy with additional perspective.
 
-The link to my old post should redirect here. You can also get to
+The link to my old post should redirect here. You can link directly to
 this post via [http://management.danielna.com](http://management.danielna.com).
 I'm hoping to update this post in the future as my management philosophy evolves
 over time.

@@ -5,6 +5,7 @@ subtitle: A side project, from my stomach to yours.
 tags: text
 promo_url: /assets/img/2013-03-12_foodmap.jpg
 promo_alt: Notable NOVA Eateries
+redirect_from: "/2013/03/12/where-to-eat-in-northern-va.html"
 ---
 
 [Understatement: I like to eat.](http://www.novafoodmap.com)

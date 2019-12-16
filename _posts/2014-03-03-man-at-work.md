@@ -3,6 +3,7 @@ layout: post
 title: Man at Work
 subtitle: Observations on the road to five months at Etsy.
 tags: text
+redirect_from: "/2014/03/03/man-at-work.html"
 ---
 
 I started my new job as a software engineer at <a href="http://www.etsy.com">Etsy</a> on October 1, so as of the writing of this post it's been about five months.  I haven't written about career-related things since Hacker School, so for posterity's sake let's recap the road to here.

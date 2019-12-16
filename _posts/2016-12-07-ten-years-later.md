@@ -3,6 +3,7 @@ layout: post
 title: Ten Years Later
 subtitle: Reflections on life, ten years post-cancer.
 tags: text
+redirect_from: "/2016/12/07/ten-years-later.html"
 ---
 
 On December 7, 2006, as a 20 year old junior at the University of Pennsylvania,

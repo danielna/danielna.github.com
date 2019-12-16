@@ -3,6 +3,7 @@ layout: post
 title: A Retrospective for Hacker School
 subtitle: A rising tide lifts all boats.
 tags: text
+redirect_from: "/2013/08/22/retrospective-for-hacker-school.html"
 ---
 
 [Hacker School](http://www.hackerschool.com) is over today.

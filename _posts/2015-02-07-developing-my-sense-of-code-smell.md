@@ -3,6 +3,7 @@ layout: post
 title: Developing My Sense of (Code) Smell
 subtitle: And thoughts on taste by Ira Glass
 tags: text
+redirect_from: "/2015/02/07/developing-my-sense-of-code-smell.html"
 ---
 
 > Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap.

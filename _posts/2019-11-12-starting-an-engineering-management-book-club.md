@@ -3,6 +3,7 @@ layout: post
 title: Starting an Engineering Management Book Club
 subtitle: Build your first team.
 tags: text
+redirect_from: "/2019/11/12/starting-an-engineering-management-book-club.html"
 ---
 
 For the last several months some coworkers and I have been running an engineering management book club at work. It's awesome. Not only do we get to read and discuss great books on management and leadership (the secondary goal), but it's also become a valuable support system that many of us didn't realize we needed (the primary goal). While some of us are new to leadership roles and some are veterans, I think it's safe to say there's one thing we all agree on: leadership is often lonely. Traveling upwards on a power hierarchy is unavoidably isolating.

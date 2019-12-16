@@ -3,7 +3,8 @@ layout: post
 title: "Teach Me How To Be President"
 tags: excerpt
 promo_url: /assets/img/2012-09-16_obama_chase.jpg
-promo_alt: The Presidential Run
+promo_alt: Small child chases President Obama around a desk.
+redirect_from: "/2012/09/16/teach-me-how-to-be-president.html"
 ---
 
 > "You have to exercise," he said, for instance. "Or at some point you’ll just break down." You also need to remove from your life the day-to-day problems that absorb most people for meaningful parts of their day. "You’ll see I wear only gray or blue suits," he said. "I’m trying to pare down decisions. I don’t want to make decisions about what I’m eating or wearing. Because I have too many other decisions to make." He mentioned research that shows the simple act of making decisions degrades one’s ability to make further decisions. It’s why shopping is so exhausting. "You need to focus your decision-making energy. You need to routinize yourself. You can’t be going through the day distracted by trivia."

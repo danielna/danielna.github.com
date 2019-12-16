@@ -3,6 +3,7 @@ layout: post
 title: A Trip to Europe
 subtitle: Two weeks in Paris, Amsterdam and Copenhagen.
 tags: text
+redirect_from: "/2015/08/05/a-trip-to-europe.html"
 ---
 
 <div class="photo-block">

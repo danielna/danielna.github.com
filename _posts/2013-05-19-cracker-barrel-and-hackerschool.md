@@ -3,6 +3,7 @@ layout: post
 title: Cracker Barrel and Hacker School
 subtitle: Lessons from a small wooden labyrinth of pain and suffering.
 tags: text
+redirect_from: "/2013/05/19/cracker-barrel-and-hackerschool.html"
 ---
 
 Last Friday I quit my job.  A week from now I'll be moving to New York City to participate in the sixth batch of <a href="http://www.hackerschool.com" target="_blank">hackerschool</a>.

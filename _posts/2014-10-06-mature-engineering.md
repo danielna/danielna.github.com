@@ -3,6 +3,7 @@ layout: post
 title: Mature Engineering
 subtitle: Reflecting back on a year on the job.
 tags: text
+redirect_from: "/2014/10/06/mature-engineering.html"
 ---
 
 Previously <a href="/2014/03/03/man-at-work.html" title="Man at Work">I wrote some observations I had about working at Etsy when I hit the five month mark</a>. Since October 1 was my one year mark, I wanted to add to those thoughts.

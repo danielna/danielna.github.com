@@ -3,6 +3,7 @@ layout: post
 title: Moving to Jekyll
 subtitle: A static-site revamp because rich text editors suck.
 tags: text
+redirect_from: "/2012/12/18/moving-to-jekyll.html"
 ---
 
 I've moved from Tumblr to <a href="https://github.com/mojombo/jekyll" title="mojombo/jekyll" target="_blank">Jekyll</a>.

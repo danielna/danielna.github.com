@@ -3,7 +3,10 @@ layout: post
 title: Creating an Accessibility Engineering Practice
 subtitle: Accessibility is not a feature, it's a requirement.
 tags: text
+redirect_from: "/2017/09/14/creating-an-accessibility-engineering-practice.html"
 ---
+
+**Note:** You can link directly to this blog post via [http://a11y.danielna.com](http://a11y.danielna.com).
 
 I was a founding engineer and then the engineering manager of Etsy's first accessibility team for about a year, from mid-June 2016 to mid-June 2017. We were a small team of three, but [Cameron Cundiff](https://twitter.com/ckundo)'s deep subject matter expertise/strategic vision and [Kristyn Reith](https://twitter.com/krreith)'s work ethic and quick study of a completely new technical domain resulted in an organizational impact that far exceeded our team size. I will be forever proud of how much we accomplished.
 

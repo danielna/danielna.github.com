@@ -4,6 +4,7 @@ title: Ovens of Peace
 tags: excerpt
 promo_url: /assets/img/2012-08-16_Oven.jpg
 promo_alt: Illuminated stone oven 
+redirect_from: "/2012/08/16/ovens-of-peace.html"
 ---
 
 > Relationships are fragile in Beirut. Instability at the top filters down into your intimate life. Neighbours, brothers, sisters, lovers – they can all turn on you overnight. Governments collapse. Friends emigrate. Houses that survived the Ottoman Empire disappear in a week, killed off by sky-high real estate values. Trust is essential; trust is impossible. That's one legacy of the long, lingering civil war, which officially ran from 1975 to 1990 but never really ended.

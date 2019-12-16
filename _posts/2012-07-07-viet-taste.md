@@ -4,9 +4,10 @@ title: Viet Taste
 tags: excerpt
 promo_url: /assets/img/2012-07-07_VietTaste.jpg
 promo_alt: A chef puts rice noodles into a bowl in a kitchen
+redirect_from: "/2012/07/07/viet-taste.html"
 ---
 
-> When the head cook of Viet Taste in Falls Church gets an order for a plate of Bun Cha Hanoi, he knows   exactly what to do.
+> When the head cook of Viet Taste in Falls Church gets an order for a plate of Bun Cha Hanoi, he knows exactly what to do.
 >
 > He has cooked the pork dish — with vermicelli noodles, greens and pickled vegetables — countless times and knows exactly how much fish sauce and fresh herbs to add.
 >

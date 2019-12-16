@@ -5,6 +5,7 @@ subtitle: Michael Scott comes to life.
 tags: text
 promo_url: /assets/img/2012-07-31_amusementpark.jpg
 promo_alt: A revolving swing with riders from a carnival
+redirect_from: "/2012/07/31/amusement-park-leadership.html"
 ---
 
 > I'd say that there's a lot of Michael Scott in this job. I'd say there's a lot of Michael Scott in me, probably. I do silly things that everybody looks at me later and go, why did he do it? Why was it deemed necessary for Cole to dress up wearing a big beard and a raincoat, and tell everyone he lived downtown under the bridge and he was there to motivational speaker them today? "Hi everybody, I'm Phil Bridges." You know, and then, like, go out and talk to people. What went through his thought process?

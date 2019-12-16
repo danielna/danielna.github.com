@@ -5,6 +5,7 @@ subtitle: The reasons he jumped.
 tags: text
 promo_url: /assets/img/2013-12-06_naoki.jpg
 promo_alt: Naoki Higashida, author of The Reason I Jump
+redirect_from: "/2013/12/06/jim-the-boy-with-autism.html"
 ---
 
 I recently finished the book ["The Reason I Jump"](http://www.amazon.com/gp/product/0812994868/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0812994868&linkCode=as2&tag=musings01b1-20) by Naoki Higashida.  It's a translated-to-English memoir written by a 13-year-old Japanese boy with autism.

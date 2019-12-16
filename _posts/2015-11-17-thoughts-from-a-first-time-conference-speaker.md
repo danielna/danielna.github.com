@@ -3,6 +3,7 @@ layout: post
 title: Thoughts from a First Time Conference Speaker
 subtitle: On the road to post-talk euphoria.
 tags: text
+redirect_from: "/2015/11/17/thoughts-from-a-first-time-conference-speaker.html"
 ---
 
 I gave my first conference talk this past week at <a href="http://sassconf.com/" target="_blank">SassConf 2015</a> in Austin, Texas.  It

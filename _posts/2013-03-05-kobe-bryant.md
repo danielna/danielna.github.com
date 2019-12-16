@@ -5,6 +5,7 @@ subtitle: A work ethic story.
 tags: excerpt
 promo_url: /assets/img/2013-03-05_kobe.jpg
 promo_alt: Kobe Bryant going for a dunk
+redirect_from: "/2013/03/05/kobe-bryant.html"
 ---
 
 Typically when I include excerpts from other sources I put it into a quote, but there's too much content to do this here.

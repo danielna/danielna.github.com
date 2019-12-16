@@ -3,6 +3,7 @@ layout: post
 title: Building a System for Front-end Translations
 subtitle: Posted to the Squarespace engineering blog.
 tags: text
+redirect_from: "/2018/08/16/building-a-system-for-frontend-translations.html"
 ---
 
 [Building a System for Front-End Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations)

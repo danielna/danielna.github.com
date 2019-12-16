@@ -2,6 +2,7 @@
 layout: post
 title: Inauguration and MLK Weekend
 tags: photos
+redirect_from: "/2013/01/24/inauguration-weekend.html"
 ---
 <div class="photo-block top">
     <img src="/assets/img/2013-01-24_LoganCircle.jpg" title="Logan Circle"/>

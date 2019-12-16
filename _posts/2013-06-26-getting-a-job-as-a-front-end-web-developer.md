@@ -3,7 +3,7 @@ layout: post
 title: Getting a Job as a Front-End Web Developer
 subtitle: A post to centralize the advice I keep telling various people.
 tags: text
-permalink: /getting-a-job-as-a-front-end-web-developer.html
+redirect_from: "/getting-a-job-as-a-front-end-web-developer.html"
 ---
 
 I've had a number of people in the last several years approach me with questions on how to get into web development as a career.
