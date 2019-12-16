@@ -37,4 +37,5 @@ I'm probably listening to <a href="https://www.youtube.com/watch?v=qA2_-eQ26tY&t
 
 ## Contact
 * Email: dan@domain
+* [LinkedIn](https://www.linkedin.com/in/danielna)
 * Twitter: [@dxna](https://www.twitter.com/dxna)
