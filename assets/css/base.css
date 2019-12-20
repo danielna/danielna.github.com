@@ -578,6 +578,32 @@ hr {
     display: block;
     margin: 0 auto 1.2rem;
   }
+
+  /** iframe embeds (youtube) */
+  /* via https://stackoverflow.com/questions/15255858/set-the-iframe-height-automatically */
+  .iframe-embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    border: 0;
+  }
+  .iframe-embed-wrapper {
+    position: relative;
+    display: block;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  .iframe-embed-responsive-16by9 {
+    padding-bottom: 56.25%;
+  }
+  .iframe-embed-wrapper,
+  .speakerdeck-embed-wrapper {
+    margin-bottom: 1.5rem;
+  }
 }
 
 
