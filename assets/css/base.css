@@ -455,6 +455,9 @@ hr {
     font-family: "Helvetica Neue", Helvetica;
     margin-right: 0.33rem;
   }
+  .site-header__nav__link.active {
+    border-bottom: 1px dotted;
+  }
   .footer {
     font-size: 0.8rem;
   }

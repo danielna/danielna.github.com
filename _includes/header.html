@@ -1,12 +1,14 @@
+{% assign current = page.url | downcase | split: '/' %}
+
 <header class="site-header">
   <a href="/" class="site-header__logo">blog.danielna.com</a>
   <nav>
     <ul class="site-header__nav">
       <li class="site-header__nav__item">
-        <a href="/about" class="site-header__nav__link">About</a>
+        <a href="/about" class="site-header__nav__link {% if current[1] == 'about' %} active{% endif %}">About</a>
       </li>
       <li class="site-header__nav__item">
-        <a href="/talks" class="site-header__nav__link">Talks</a>
+        <a href="/talks" class="site-header__nav__link {% if current[1] == 'talks' %} active{% endif %}">Talks</a>
       </li>
       <li class="site-header__nav__item">
         <a href="https://www.twitter.com/dxna" class="site-header__nav__link">@dxna</a>
