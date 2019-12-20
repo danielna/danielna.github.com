@@ -18,7 +18,7 @@ during my tenure at Etsy included the Engineering Manager of the Accessibility
 team, Senior Software Engineer on the Front-end Infrastructure team and
 Software Engineer on the Mobile Web and Performance teams.
 
-When I have lessons to share I enjoy <a href="http://talks.danielna.com">speaking at conferences</a>.
+When I have lessons to share I enjoy <a href="/talks">speaking at conferences</a>.
 
 In my free time I like to spend time with my wife and son, explore different
 ethnic eateries throughout the boroughs, cook, and play basketball. I love but
