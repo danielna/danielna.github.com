@@ -566,6 +566,15 @@ hr {
     text-align: center;
     margin-bottom: 1rem;
   }
+
+  /** talks page **/
+  .talks-heading {
+    margin-bottom: 1rem;
+  }
+  .talks-promo {
+    display: block;
+    margin: 0 auto 1.2rem;
+  }
 }
 
 
