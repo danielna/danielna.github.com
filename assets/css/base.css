@@ -402,6 +402,12 @@ hr {
   margin-bottom: 1.5rem;
 }
 
+figure, figcaption {
+  margin-left: 0;
+  margin-right: 0;
+  display: block;
+}
+
 /**************************************
  * Smartphones (portrait)
  **************************************/

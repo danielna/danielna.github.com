@@ -6,10 +6,10 @@ tags: text
 redirect_from: "/2015/08/05/a-trip-to-europe.html"
 ---
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/paris-swings.jpg" title="The swings at the Jardin des Tuileries"/>
-    <div class="caption">The swings of the summer carnival at the Jardin des Tuileries. Paris, France</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/paris-swings.jpg" alt="The swings at the Jardin des Tuileries"/>
+    <figcaption class="caption">The swings of the summer carnival at the Jardin des Tuileries. Paris, France</figcaption>
+</figure>
 
 My wife and I recently got back from two weeks in Europe: six days in Paris (I was there for a tech conference) and three days each in Amsterdam and Copenhagen.  My wife is something of a Europe veteran, having studied abroad in Copenhagen during college and another trip with her family afterwards. I had never been there before.
 
@@ -69,10 +69,10 @@ The acceptable size/weight of a carry on in the US is significant larger than th
 
 Customs and travel security practices in Europe are significantly less annoying and onerous than those set forth by the TSA.  The customs guy in Amsterdam was literally a guy on a stool who waved us through without looking up.  I don't even think we went through customs at all in Copenhagen.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/paris.jpg" title="Place des Vosges, Paris"/>
-    <div class="caption">Place des Vosges, Paris</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/paris.jpg" alt="Place des Vosges, Paris"/>
+    <figcaption class="caption">Place des Vosges, Paris</figcaption>
+</figure>
 
 ## Paris, France
 
@@ -84,10 +84,11 @@ Customs and travel security practices in Europe are significantly less annoying 
 * Everyone smokes cigarettes.
 * The whole "people in Paris are assholes" thing is overblown -- or just outright wrong entirely.  Neither of us took French in school but a cursory understanding of a few key phrases ("Excuse me, do you speak English?") went a long way to show respect for locals before asking questions.  I don't think it's much different than when tourists ask for help in NYC, as courtesy and mutual respect go a long way when communicating with someone new. And frankly there are assholes everywhere, so that's something of a dice roll no matter where you are. All in all we found the people we interacted with to be very pleasant.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/paris-pastry.jpg" title="Parisian pastries are no joke"/>
-    <div class="caption">Parisian pastries are no joke</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/paris-pastry.jpg" alt="Parisian pastries are no joke"/>
+    <figcaption class="caption">Parisian pastries are no joke</figcaption>
+</figure>
+
 
 * Baked goods: holy crap.  There really is no comparison between the quality of pastries/bread in Paris and pastries/bread probably anywhere else in the world. We didn't even bother seeking out notable boulangeries/patisseries and ate mind-blowing after mind-blowing almond croissants from the neighborhood bakery down the street from our airbnb.
 * Here's an interesting fact: a store can only be called a "boulangerie" in Paris if the dough is made on premises.  And while it's a stretch to call the baguettes government regulated, you can only label a baguette for sale as "traditional" if it contains specific ingredients -- flour, water, salt, yeast -- and a very limited amount of other additives.
@@ -95,10 +96,10 @@ Customs and travel security practices in Europe are significantly less annoying 
 * I was pretty sick for most of my time in Europe which was incredibly lame. Finding an English-speaking doctor in Paris for a non-emergency was more complicated than I thought it'd be, mostly because the <a href="http://photos.state.gov/libraries/france/5/acs/paris-doctors.pdf" target="_blank">list of English speaking doctors in Paris provided by the State Department</a> is largely bogus. I was eventually able to get a walk-in appointment with Dr. Nancy Salzman near the Ecole Militaire metro, who is an American/Canadian expat and speaks perfect English. I had to pay out of pocket for the visit though.
 * Trying to find over-the-counter medication became something of a theme throughout the rest of the trip. Luckily there are pharmacies all over Paris marked by neon green crosses.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/paris-cafe.jpg" title="Lunch and people watching"/>
-    <div class="caption">Lunch and people watching</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/paris-cafe.jpg" alt="Lunch and people watching"/>
+    <figcaption class="caption">Lunch and people watching</figcaption>
+</figure>
 
 * Restaurants typically won't give you ice in your drink.  The McDonalds at the Louvre will, which is why it can be important to know that there's a McDonalds at the Louvre when it's 104 degrees outside.
 * When you sit at restaurants and ask for water you'll often be asked "gassy or still?" "Gassy" is obviously carbonated and so it seems reasonable to assume that "regular" is tap. Turns out "still" is bottled, which to the unsuspecting tourist can be an additional 8 euro on your final bill. "Eau de robinet" -- or "tap water" -- is the phrase you're looking for.
@@ -108,10 +109,10 @@ Customs and travel security practices in Europe are significantly less annoying 
 * French food is delicious but heavy.  It seemed like every menu we came across consisted of similar options -- foie gras/escargot/tartare appetizers and steak/duck/veal entrees.  I'm as carnivorous as the next person but eating like this becomes incredibly tiring (literally and figuratively).
 * The best way to get to the airport to catch an early flight is the <a href="http://www.ratp.fr/en/ratp/r_61852/roissybus/" target="_blank">Roissybus</a>. Straight to the airport for 11 euro from the Opera metro station on an air conditioned bus with WIFI, running every 15 minutes.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/amsterdam.jpg" title="The streets of Amsterdam, The Netherlands"/>
-    <div class="caption">The streets of Amsterdam, The Netherlands</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/amsterdam.jpg" alt="The streets of Amsterdam, The Netherlands"/>
+    <figcaption class="caption">The streets of Amsterdam, The Netherlands</figcaption>
+</figure>
 
 ## Amsterdam, The Netherlands
 
@@ -126,19 +127,19 @@ Customs and travel security practices in Europe are significantly less annoying 
 * We walked through the Red Light District during the day which undoubtedly isn't the same as walking through it at night.  It was full of drunken, belligerent Irish dudes at noon.  This was enough reason not to go back to the Red Light District.
 * I understand the idea of legalizing prostitution in order to provide proper services to those who are prostitutes, but I find it hard to believe that Amsterdam isn't a haven for the human trafficking that occurs throughout Europe.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/amsterdam-museum.jpg" title="Exploring the Rijksmuseum"/>
-    <div class="caption">Exploring the Rijksmuseum, Amsterdam</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/amsterdam-museum.jpg" alt="Exploring the Rijksmuseum"/>
+    <figcaption class="caption">Exploring the Rijksmuseum, Amsterdam</figcaption>
+</figure>
 
 * The <a href="https://www.rijksmuseum.nl/en" target="_blank">Rijsmuseum</a> was something of a revelation for me. The sheer scale and skill of the paintings, coupled with the descriptions-by-number headphone tour (highly recommended) is the first time I've really appreciated museum art.
 * The cafe at the Rijksmuseum was our first exposure to <a href="https://en.wikipedia.org/wiki/Stroopwafel" target="_blank">stroopwafel</a>, which I can confidently declare as the greatest coffee pastry known to man. A trip to the grocery store uncovered <a href="/assets/img/2015-07-19/amsterdam-stroopwafel.jpg" target="_blank">a lot of delicious varieties.</a>
 * The longest line in Amsterdam is hands down the line for the Anne Frank House.  We didn't get to go.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/amsterdam-bikes.jpg" title="Calling Amsterdam 'bike-friendly' is an understatement"/>
-    <div class="caption">Calling Amsterdam 'bike-friendly' is an understatement</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/amsterdam-bikes.jpg" alt="Calling Amsterdam 'bike-friendly' is an understatement"/>
+    <figcaption class="caption">Calling Amsterdam 'bike-friendly' is an understatement</figcaption>
+</figure>
 
 * That picture was taken at a bike parking garage near the central station. Seriously; a bike parking garage.
 * Amsterdam seems to be a mash up of post-colonial food cultures rather than something distinctly Dutch, with a surprising amount of Indonesian/Thai/Suriname restaurants.  We did manage to get a traditional Dutch meal consisting of varieties of sausage and mashed potatoes at a Yelp-popular restaurant but it wasn't that great.
@@ -147,10 +148,10 @@ Customs and travel security practices in Europe are significantly less annoying 
 * <a href="https://en.wikipedia.org/wiki/Vondelpark" target="_blank">Vondelpark</a> is a massive, beautiful park that stretches from downtown into the suburbs. It reminds me of Prospect Park in Brooklyn.  Sunbathers/picnicers were out in full force enjoying the warm weather and these <a href="http://i.ytimg.com/vi/xn_kFkdNNm0/maxresdefault.jpg" target="_blank">disposable aluminum grills</a> were everywhere.  <a href="http://www.amazon.com/EZ-Grill-Portable-Disposable-Barbeque/dp/B0037Z7LV6" target="_blank">I had no idea these existed.</a>
 * If you find yourself sick in Amsterdam don't seek out a pharmacy downtown, which are known to do things like charge tourists a surcharge just for being tourists.  Find an <a href="http://www.yelp.com/biz/etos-amsterdam-6" target="_blank">Etos</a> cosmetics/drugstore instead.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/copenhagen.jpg" title="Nyhaven, Copenhagen"/>
-    <div class="caption">Nyhaven, Copenhagen</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/copenhagen.jpg" alt="Nyhaven, Copenhagen"/>
+    <figcaption class="caption">Nyhaven, Copenhagen</figcaption>
+</figure>
 
 ## Copenhagen, Denmark
 
@@ -159,18 +160,18 @@ Customs and travel security practices in Europe are significantly less annoying 
 * Our airbnb was located in <a href="https://en.wikipedia.org/wiki/Vesterbro,_Copenhagen" target="_blank">Vesterbro</a>, which was previously described to us as "The Brooklyn of Copenhagen." ... I guess. The comparison works as far as it appears to be a recently gentrified neighborhood with a lot of coffee shops and hipsters on bikes but I think it would've been nicer to be closer to the center of town. As you get closer to Kobenhaven H (Central Station) from Vesterbro it gets weirdly seedy with a lot of porn shops and strip clubs and cracked out dudes lying in the street.
 * The bus system throughout Copenhagen is just as convenient and well thought out as every other public transportation system we encountered in Europe.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/copenhagen-polser.jpg" title="Polser - the king of street foods"/>
-    <div class="caption">Pølser - the king of street foods</div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/copenhagen-polser.jpg" alt="Polser - the king of street foods"/>
+    <figcaption class="caption">Pølser - the king of street foods</figcaption>
+</figure>
 
 * The pølser, or the Danish hot dog, is the best street food I've had anywhere. I must've eaten 5 of these. There are a few different varieties but my favorite is the one picture above: a long hot dog topped with ketchup, mustard, mayo, raw onion, fried onions, and pickles. E says the mayo tastes different than American mayo, and to me it tastes more homemade.
 * <a href="https://en.wikipedia.org/wiki/Tivoli_Gardens" target="_blank">Tivoli</a> is right across from Kobenhaven H and is really beautiful.  Its location in the center of a major city means its not as massive as a traditional American theme park, and you're looking at anywhere between $1-$3 to get on any of the rides.  It also seems to host some big names at its outdoor concert venue. Lady Gaga and Tony Bennett were scheduled to perform the day we visited.
 
-<div class="photo-block">
-    <img class="big" src="/assets/img/2015-07-19/copenhagen-segway.jpg" title="The awesome segway tour with go-segway.dk"/>
-    <div class="caption">The awesome segway tour with <a href="http://www.go-segway.dk/tours/tours.html?___store=en" target="_blank">go-segway.dk</a></div>
-</div>
+<figure aria-hidden="true" class="photo-block">
+    <img src="/assets/img/2015-07-19/copenhagen-segway.jpg" alt="The awesome segway tour with go-segway.dk"/>
+    <figcaption class="caption">The awesome segway tour with <a href="http://www.go-segway.dk/tours/tours.html?___store=en" target="_blank">go-segway.dk</a></figcaption>
+</figure>
 
 * Several of the highest rated things to do on Tripadvisor are segway tours, which makes sense in a city that's already so bike friendly. And while we recognize how shamelessly touristy a segway tour is, <strong>it was arguably the best activity we did in any country.</strong>  Not only are segways interesting/fun to ride (and neither of us had ever ridden one before), but we covered so much ground across the city with our guide that it took a lot of pressure off of how we spent our remaining time in Copenhagen. I can't recommend <a href="http://www.go-segway.dk/tours/tours.html?___store=en" target="_blank">go-segway.dk</a> and Will (our tour guide) enough.
 * One of the more notable tourist destinations in Copenhagen is the <a href="https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)" target="_blank">Little Mermaid Statue.</a> Our tour guide told us it was recently voted the most disappointing tourist attraction in Denmark.  It lived up to the hype.

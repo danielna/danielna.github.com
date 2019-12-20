@@ -12,17 +12,17 @@ My decision to attend hackerschool was not an indictment of my job because I act
 
 To be honest, the impetus to apply for (and ultimately attend) hackerschool came from a really unexpected place -- Cracker Barrel.
 
-<div class="photo-block">
-    <img src="/assets/img/2013-05-19_crackerbarrel.jpg" title="Cracker Barrel: Limited low calorie options"/>
-    <div class="caption"> Cracker Barrel: limited low calorie options </div>
-</div>
+<figure class="photo-block">
+    <img src="/assets/img/2013-05-19_crackerbarrel.jpg" alt="Cracker Barrel: Limited low calorie options"/>
+    <figcaption class="caption"> Cracker Barrel: limited low calorie options </figcaption>
+</figure>
 
 For the unacquainted, <a href="http://www.crackerbarrel.com" target="_blank">Cracker Barrel</a> is a restaurant/gift store that has a Southern country/Americana theme.  You can buy stuff like rocking chairs, corn muffin mix and cast iron pans from the store after eating a massive, non-diet-friendly meal of "chicken-n-dumplins" or country fried steak and eggs in the restaurant.  Last fall I stopped by a Cracker Barrel in suburban PA with my girlfriend and her family to eat a late lunch, at which point I was introduced to this:
 
-<div class="photo-block">
-    <img src="/assets/img/2013-05-19_peggame.jpg" title="The Peg Game, aka Peg Solitaire"/>
-    <div class="caption">The Peg Game, aka Peg Solitaire</div>
-</div>
+<figure class="photo-block">
+    <img src="/assets/img/2013-05-19_peggame.jpg" alt="The Peg Game, aka Peg Solitaire"/>
+    <figcaption class="caption">The Peg Game, aka Peg Solitaire</figcaption>
+</figure>
 
 The peg game.
 
