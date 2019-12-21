@@ -2,6 +2,7 @@
 layout: base
 title: Pushing Through Friction
 permalink: /talks/pushing-through-friction/
+redirect_from: "/talks/srecon19-emea/"
 ---
 
 ## Video
