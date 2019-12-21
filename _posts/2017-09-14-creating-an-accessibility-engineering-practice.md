@@ -3,7 +3,10 @@ layout: post
 title: Creating an Accessibility Engineering Practice
 subtitle: Accessibility is not a feature, it's a requirement.
 tags: text
+redirect_from: "/2017/09/14/creating-an-accessibility-engineering-practice.html"
 ---
+
+**Note:** You can link directly to this blog post via [http://a11y.danielna.com](http://a11y.danielna.com).
 
 I was a founding engineer and then the engineering manager of Etsy's first accessibility team for about a year, from mid-June 2016 to mid-June 2017. We were a small team of three, but [Cameron Cundiff](https://twitter.com/ckundo)'s deep subject matter expertise/strategic vision and [Kristyn Reith](https://twitter.com/krreith)'s work ethic and quick study of a completely new technical domain resulted in an organizational impact that far exceeded our team size. I will be forever proud of how much we accomplished.
 
@@ -98,7 +101,7 @@ First, turn on the DevTools experiment flag by navigating to `chrome://flags`:
 
 Then, enable the "Accessibility Inspection" checkbox under the Experiments menu (use `SHIFT+CMD+P` to access the dynamic dropdown):
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/chrome_experiments.gif' alt='Enabling the Accessibility Inspection checkbox in the chrome devtools experiments menu'/>
 </div>
 
@@ -109,19 +112,19 @@ Let's look at some form inputs with labels of varying correctness and their name
 
 The "First name" label is properly associated to its input via the "for" attribute. Thus, when you focus the "First name" input, the accessible name comes from the label:
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/labels_1.png' alt='Accessiblity tree for the first name input showing a proper accessible name, via the "for" attribute'/>
 </div>
 
 The "Middle name" label doesn't have a "for" attribute but is properly associated with its input via wrapping. Thus, when you focus the "Middle name" input, the accessible name comes from the label:
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/labels_2.png' alt='Accessiblity tree for the middle name input showing a proper accessible name, via wrapping'/>
 </div>
 
 The "Last name" label is visually next to, but unassociated with, its input. Thus, when you focus the "Last name" input, there is no prevailing name in the accessibility tree:
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/labels_3.png' alt='Accessiblity tree for the last name input showing no accessible name'/>
 </div>
 
@@ -150,7 +153,7 @@ Think about how most sighted people consume webpages. Chances are they visually 
 
 Here's what navigating via headline looks like in VoiceOver and Safari for this blog post:
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/voiceover_headings.jpg' alt='The headings list for this blog post from VoiceOver on Mac OS X, using the web rotor.'/>
 </div>
 
@@ -208,7 +211,7 @@ The good news: you can automate the identification and remediation of some acces
 
 aXe is a free, open-source accessibility utility that can be run via [Chrome/Firefox extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd) or via a [core js library](https://github.com/dequelabs/axe-core). aXe was built with a [few simple design principles](https://github.com/dequelabs/axe-core#manifesto), the one I love most being "no false positives." aXe doesn't claim to identify every accessibility error under the sun (although it identifies a ton), but when it does report something as an error you can rest assured that it is true. As the timeless software adage goes, a flaky test is a worthless test.
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/axe_espn.png' alt='Screenshot of the output of running the aXe chrome extension over espn.com'/>
 </div>
 
@@ -264,7 +267,7 @@ A "Skip to Content" link is visible only via keyboard focus and should be one of
 
 Here's a look at the "Skip to Content" and "Skip to Navigation" links on the homepage of the New York Times:
 
-<div class='center margin-B'>
+<div class='img-container'>
 <img class='bordered' src='/assets/img/2017-09-18/nytimes_skiptocontent.gif' alt='Demoing the skip to content link on nytimes.com'/>
 </div>
 

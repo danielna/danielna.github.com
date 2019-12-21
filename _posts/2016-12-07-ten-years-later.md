@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Ten Years Later
-subtitle: Reflections on life, ten years post-cancer
+subtitle: Reflections on life, ten years post-cancer.
 tags: text
+redirect_from: "/2016/12/07/ten-years-later.html"
 ---
 
 On December 7, 2006, as a 20 year old junior at the University of Pennsylvania,
@@ -59,7 +60,7 @@ one day at a time.
 And here I am, in 2016, writing this blog post. 10 years gone, a day at a time.
 A part of me can't believe that I'm alive today.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 A small voice inside of me is surprised that I'm writing this post and sharing
 it so publicly. It's the same voice that felt uneasy the first time I applied
@@ -81,7 +82,7 @@ and my sickness. I got the internship.
 
 Surviving and learning from hardship is an asset, not a liability.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 I'm going to end this post with a story of one of my biggest regrets over the
 last 10 years.

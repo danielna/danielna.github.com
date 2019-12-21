@@ -3,6 +3,7 @@ layout: post
 title: A Retrospective for Hacker School
 subtitle: A rising tide lifts all boats.
 tags: text
+redirect_from: "/2013/08/22/retrospective-for-hacker-school.html"
 ---
 
 [Hacker School](http://www.hackerschool.com) is over today.
@@ -22,7 +23,7 @@ Over time I whittled down 40+ technologies to a list of four or five, all center
 
 There are a number of ways to quantify the response to this question, the most typical being financial.  And while I think that's important, I also think focusing on immediate financial return is the wrong paradigm. <a href="#footnotes">[1]</a>
 
-Here are a few more appropriate phrasings: 
+Here are a few more appropriate phrasings:
 
 <ul class="narrow">
     <li>Are you more excited about what you do?</li>
@@ -32,14 +33,10 @@ Here are a few more appropriate phrasings:
     <li>Have you learned lessons about how to facilitate a positive work environment that maximizes collaboration, exploration and learning?</li>
 </ul>
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
 Yes.  It was 100% worth it.
 
 Never graduate.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 <a name="footnotes">[1]</a> Besides, does being a better programmer/thinker translate to better long-term financial returns over the course of a career?  Absolutely.
-
-[2] <a href="/hackerschool">A link to my hackerschool log.</a>

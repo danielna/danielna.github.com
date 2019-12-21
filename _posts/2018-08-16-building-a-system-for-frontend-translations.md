@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Building a System for Front-end Translations
-subtitle: Posted to the Squarespace engineering blog
+subtitle: Posted to the Squarespace engineering blog.
 tags: text
+redirect_from: "/2018/08/16/building-a-system-for-frontend-translations.html"
 ---
 
-> Blog post link: [Building a System for Front-End Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations)
+[Building a System for Front-End Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations)
 on [engineering.squarespace.com](https://engineering.squarespace.com)
 
 I joined Squarespace in October 2017 as a senior software engineer on the Interface

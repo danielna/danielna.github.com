@@ -6,22 +6,18 @@
 </head>
 
 <body>
-    <div class="wrapper">
-        {% include header.html %}
+  {% include header.html %}
 
-        {% if page.promo_url %}
-        <div class="promo">
-            <img src="{{ page.promo_url }}" class="promo__image" alt="{{ page.promo_alt }}"/>
-        </div>
-        {% endif %}
+  {% if page.promo_url %}
+  <div class="promo" aria-hidden="true">
+    <img src="{{ page.promo_url }}" class="promo__image" alt="{{ page.promo_alt }}"/>
+  </div>
+  {% endif %}
 
-        <main class="container content" role="main">
-            {{ content }}
-        </main>
+  <main class="container" role="main">
+    {{ content }}
+  </main>
 
-        <div class="clearfix"></div>
-
-        {% include footer.html %}
-    </div>
+  {% include footer.html %}
 </body>
 </html>

@@ -1,0 +1,61 @@
+---
+layout: base
+title: Talks
+permalink: /talks/
+---
+
+<section>
+  <h1 class="sr-only">Talks</h1>
+  <img class="talks-promo" src="/assets/img/srecon19emea.jpg" alt="Me presenting on stage at SREcon19 EMEA in Dublin, Ireland"/>
+  <p>When I have lessons to share I enjoy speaking at conferences.</p>
+  <p>Clicking on a talk title below redirects to a page that includes video (if available),
+  slides, and talk resources.</p>
+  <hr/>
+  <article class="talk">
+    <h2 class="talk__title">
+      <a href="/talks/pushing-through-friction/">Pushing Through Friction</a>
+    </h2>
+    <h3 class="sr-only">Abstract</h3>
+		<p>Things are broken. The deployment pipeline is painfully slow. Your engineering team has doubled in the last year and there's a lack of sufficient process and management. You git blame a file that's used everywhere but nobody understands it; the person who wrote it left the company five years ago.</p>
+		<p>As a senior-level engineering leader, experience tells you things could be better. You see the gaps. If only the company adopted policy A or dumped technology B, everyone would benefit. But there's so much inertia. The company has always used B. You are frustrated. Can you actually make a difference?</p>
+		<p>Yes. You are encountering organizational friction, and learning to identify, accept and push through friction is a key skill of engineering leaders. In this talk, Dan will talk about why organizational friction occurs and how to mitigate it. The ability to push through friction will distinguish you throughout your career.</p>
+    <h3>Delivered</h3>
+    <ul>
+      <li><a href="https://www.usenix.org/conference/srecon19emea/presentation/na">SREcon19 EMEA: Dublin, Ireland. October 2019.</a></li>
+      <li><a href="https://fitc.ca/presentation/pushing-through-friction/">Web Unleashed 2019: Toronto, Canada. September 2019.</a></li>
+    </ul>
+  </article>
+  <hr/>
+  <article class="talk">
+    <h2 class="talk__title">
+      <a href="/talks/transitioning-to-sass-at-scale/">Transitioning to Sass at Scale</a>
+    </h2>
+    <h3 class="sr-only">Abstract</h3>
+		<p>
+			CSS preprocessors like Sass add a variety of functions that streamline CSS
+			development: variables, nesting, functions, mixins, etc. The documentation is
+			great, the tools are mature, and starting a new project using Sass has a clear
+			and straight-forward workflow. But transitioning a large legacy codebase from
+			CSS to Sass is a different story. CSS syntax errors that may be harmless in
+			production can completely prevent Sass from compiling. But fixing those errors
+			creates a far juicier problem: will we introduce visual bugs by fixing syntax bugs?
+		</p>
+		<p>
+			At Etsy we faced this exact question multiplied across over 400,000 lines of
+			CSS and 2100+ CSS files. During this talk I’ll discuss the tools we used and
+			built throughout our Sass workflow, from the initial transformation of CSS
+			files using Abstract Syntax Trees (ASTs) to the libsass-powered Sass to CSS
+			render pipeline we have running on all development machines. I’ll cover some
+			of the tools we’ve built in-house to mitigate some of the biggest potential 
+			pitfalls of Sass (Sass live lint), how we ramped up our development and
+			production services to gain confidence in our process and how this entire
+			effort led to a single 1.2M line push that didn’t break production and had
+			minimal impact to developer and designer workflows.
+		</p>
+    <h3>Delivered</h3>
+    <ul>
+      <li>CSSConf Nordic 2016: Oslo, Norway. June 2016.</li>
+      <li>SassConf 2015: Austin, Texas. November 2015.</li>
+    </ul>
+  </article>
+</section>

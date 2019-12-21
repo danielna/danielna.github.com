@@ -3,6 +3,7 @@ layout: post
 title: Understanding Project Management Will Improve Your Developer Job
 subtitle: Shipping is about intention, not luck.
 tags: text
+redirect_from: "/2018/08/20/understanding-project-management-will-improve-your-developer-job.html"
 ---
 
 Last year when I was between jobs I asked a friend of mine how he liked his new gig:

@@ -1,19 +1,20 @@
 ---
 layout: post
 title: Thoughts from a First Time Conference Speaker
-subtitle: On the road to post-talk euphoria
+subtitle: On the road to post-talk euphoria.
 tags: text
+redirect_from: "/2015/11/17/thoughts-from-a-first-time-conference-speaker.html"
 ---
 
 I gave my first conference talk this past week at <a href="http://sassconf.com/" target="_blank">SassConf 2015</a> in Austin, Texas.  It
 was a full 40 minute talk entitled "Transitioning to Sass at Scale," which chronicled transitioning all of Etsy's CSS to Sass in October 2014. 
-It was awesome to have the opportunity to share about the most complex and rewarding project of my career thus far. 
+It was awesome to have the opportunity to share about the most complex and rewarding project of my career thus far.
 In February I wrote a really long blog post on Etsy's engineering blog about it:
 <a href="https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/" target="_blank">Transitioning to SCSS at Scale</a>.
 
 I've spoken publicly before, mostly in the context of <a href="http://www.cheekswab.org" target="_blank">Cheekswab</a>, but found preparing a tech conference talk
-a different and interesting experience. I wrote down thoughts and insights I encountered during the process of creating 
-my slides and iterating on my presentation.  Looking at them now they're less
+a different and interesting experience. I wrote down thoughts and insights I encountered
+during the process of creating my slides and iterating on my presentation.  Looking at them now they're less
 about the mental or emotional aspects of speaking, nor are they a step-by-step
 walkthrough of how to prepare a talk.  <a href="http://speaking.io/" target="_blank">Luckily 
 those topics have been written about extensively.</a>
@@ -22,8 +23,6 @@ To see my annotated slides, see my <a href="http://talks.danielna.com/sassconf-2
 
 The notes below aren't chronological and I'm only separating them into categories
 for the purposes of this blog post.  Writing them down was completely stream of consciousness.
-
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 ## SassConf
 * SassConf was unique in that we had talk mentorship, meaning we were scheduled to meet semi-regularly
@@ -46,7 +45,7 @@ with someone who has speaking experience. I was fortunate that my mentor, <a hre
 * Slides take a lot longer to prepare than you'd think, especially for a full 40 minute talk.  Mine took about 3 weeks.
 * The easiest way to give presentations (and how people typically do it in grade school or for presentations they don't care about) is to dump every piece of text on a slide.  It is non-trivially hard to be intentionally non-verbose on slides, because it causes you to focus on what phrases are important, as well as sequencing and delivery.
 * People will focus on numbers in slides even if they're not that important.  I had slides about Etsy metrics -- 21.7M active buyers, 1.5M active sellers, and $1.93B in sales in 2014 -- which I only had for the purpose of explaining that our site gets a lot of traffic.  Originally I had those numbers all on one slide until Elyse suggested transitioning through them quickly because otherwise they seem important to know.  I thought that was incredibly insightful.
-* For slides that encompass a major takeaway, avoid slides that have one word on its own line. 
+* For slides that encompass a major takeaway, avoid slides that have one word on its own line.
 
     This slide is hard to read:
 

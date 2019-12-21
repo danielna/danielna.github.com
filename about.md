@@ -1,56 +1,39 @@
 ---
 layout: base
-title: About -- danielna.com
-permalink: /about/index.html
-promo_url: /assets/img/about_header.jpg
-promo_alt: Manhattan via Astoria, Queens
+title: About Dan
 ---
 
-<p class="caption">Manhattan via Astoria, Queens</p>
+<h2 class="sr-only">About me</h2>
 
-<p class="first">
-I'm a DC-area transplant living in New York City.  The longer I live here the
-more I'm convinced it's the best city in the world.
-</p>
+I'm a DC-area transplant living in New York City. The longer I live here the more
+I'm convinced it's the best city in the world.
 
-<p>
 I'm currently a Staff Engineer and the Engineering Team Lead of the Internationalization
 Platform team at <a href="http://www.squarespace.com" target="_blank">Squarespace</a>.
-Before that I was a Senior Software Engineer II on the Interface Architecture team.
 The content of this blog does not reflect the opinion of my employer.
-</p>
 
-<p>
 Previously I was an Engineering Manager on the Product Infrastructure team at
 <a href="http://www.etsy.com" target="_blank">Etsy</a>. Other roles I held
 during my tenure at Etsy included the Engineering Manager of the Accessibility
 team, Senior Software Engineer on the Front-end Infrastructure team and
 Software Engineer on the Mobile Web and Performance teams.
-</p>
 
-<p>
-I've <a href="http://talks.danielna.com">spoken at a few conferences</a>.
-</p>
+When I have lessons to share I enjoy <a href="/talks">speaking at conferences</a>.
 
-<p>
 In my free time I like to spend time with my wife and son, explore different
 ethnic eateries throughout the boroughs, cook, and play basketball. I love but
 rarely update my cooking blog: <a href="http://www.fooddontlie.com" target="_blank">Food Don't Lie</a>.
-</p>
 
-<p>
 I'm a <a href="http://www.cheekswab.org/about-cheekswab/founders-story/" target="_blank">leukemia survivor</a>
 and the creator of <a href="http://www.cheekswab.org" target='_blank'>cheekswab.org</a>.
 I use my story to engage with ethnic minority groups and coordinate bone marrow drives
-in New York City. Please visit Cheekswab or reach out to me directly to learn
+in New York City and nearby areas. Please visit Cheekswab or reach out to me directly to learn
 more about bone marrow donation and joining the BeTheMatch Bone Marrow Registry.
 It truly is the lottery to save a life.
-</p>
 
-<p>
-I'm probably listening to <a href="https://www.youtube.com/watch?v=qA2_-eQ26tY&t=18s" target="_blank">90s hip hop</a>. I'm still convinced the 90s were the best decade.
-</p>
+I'm probably listening to <a href="https://www.youtube.com/watch?v=qA2_-eQ26tY&t=18s" target="_blank">90s hip hop</a>.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
-
-{% include disqus.html %}
+## Contact
+* Email: dan@domain
+* [LinkedIn](https://www.linkedin.com/in/danielna)
+* [@dxna](https://www.twitter.com/dxna)

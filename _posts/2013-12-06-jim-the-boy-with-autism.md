@@ -4,7 +4,8 @@ title: Jim, the Boy with Autism
 subtitle: The reasons he jumped.
 tags: text
 promo_url: /assets/img/2013-12-06_naoki.jpg
-promo_alt: Naoki Higashida, author
+promo_alt: Naoki Higashida, author of The Reason I Jump
+redirect_from: "/2013/12/06/jim-the-boy-with-autism.html"
 ---
 
 I recently finished the book ["The Reason I Jump"](http://www.amazon.com/gp/product/0812994868/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0812994868&linkCode=as2&tag=musings01b1-20) by Naoki Higashida.  It's a translated-to-English memoir written by a 13-year-old Japanese boy with autism.
@@ -13,7 +14,7 @@ I think it's one of the few (if only) books written that gives a first-hand acco
 
 It made me think of something.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 Growing up I was very active in church.  I was a consistent and visible member of my church's youth group, which was the community for middle/high school kids.  And towards the latter years of my time there I became aware of the presence of Jim <a href="#footnotes">[1]</a>.  He was the autistic kid.
 
@@ -27,7 +28,7 @@ Until we got used to him Jim did a lot of things that weirded us out.  He'd jump
 
 I think the times when Jim's "different-ness" became most stark was when we joined with other youth groups for events.  Jim would yell out at an inappropriate time and the less familiar kids would laugh, point and whisper.  Not necessarily because they were mean spirited but because they were kids.  Over time more exposure to Jim bred more tolerance from us.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 After I left for college I remained a volunteer for the youth group I left behind.  I'd come back during summers and participate as a counselor on those sleep-away retreats, acting as if a year or two of college had suddenly bestowed upon me the requisite wisdom and knowledge to lead younger kids.  There were some changes at the top while I was away and soon I was introduced to the new youth group pastor, a guy named Pastor Bob <a href="#footnotes">[2]</a>.
 
@@ -35,15 +36,15 @@ Pastor Bob was this large, imposing man.  He spoke loudly and with supreme confi
 
 I was away at school for the bulk of his tenure but the first time I visited I was shocked at the changes.  Boys were wearing suits on Sundays.  Attendance was booming and kids were participating in unprecedented numbers.  Pastor Bob had made a visible effect on youth and even parental engagement and all signs pointed up.  The kids were happy, the parents were happy, and the church leaders were happy.
 
-A year later things were different.  
+A year later things were different.
 
 I had been away at school for a while and when I returned the changes were even more alarming than before.  It seemed as if youth group sentiments had regressed to unprecedented lows.  I heard stories of leadership power struggles and bullying.  I heard stories of questionable monetary spending and the sudden proliferation of new iPods as a means of "encouraging" students to participate in events.  I heard stories of sexism and condescension, favoritism and alienation.  All within a high school community.
 
 Pastor Bob, with his dominating, aggressive, unyielding personality, turned out to be exactly the opposite of what these kids needed <a href="#footnotes">[4]</a>.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
-> ##What’s the reason you jump?##
+> **What’s the reason you jump?**
 >
 > What do you think I’m feeling when I’m jumping up and down clapping my hands? I bet you think I’m not really feeling anything much beyond the manic glee all over my face.
 >
@@ -55,7 +56,7 @@ Pastor Bob, with his dominating, aggressive, unyielding personality, turned out 
 >
 > But constrained both by ourselves and by the people around us, all we can do is tweet-tweet, flap our wings and hop around in a cage. Ah, if only I could just flap my wings and soar away, into the big blue yonder, over the hills and far away!
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 Summer mission trips were an annual event for youth group kids and during his tenure Pastor Bob decided to lead a summer missions trip to South Korea <a href="#footnotes">[5]</a>. At the encouragement of his mother (and because a pastor would be going along), Jim went on the trip.
 
@@ -69,9 +70,9 @@ It was at this point that Pastor Bob turned to Jim, grabbed him at both shoulder
 
 And Jim was quiet.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
-> ##What causes panic attacks and meltdowns?##
+> **What causes panic attacks and meltdowns?**
 >
 > I don’t know if you can understand this one. Panic attacks can be triggered by many things, but even if you set up an ideal environment that gets rid of all the usual causes for a given person, we would still suffer panic attacks now and then.
 >
@@ -79,7 +80,7 @@ And Jim was quiet.
 >
 > When this is happening to us, please just let us cry, or yell, and get it all out. Stay close by and keep a gentle eye on us, and while we’re swept up in our torment, please stop us from hurting ourselves or others.
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
 At least during the scope of that trip, friends who attended told me that Jim was different from that day forward.  Quieter, more subdued, more insular and less willing to participate in activities.  More visibly frustrated.
 
@@ -91,9 +92,9 @@ Good riddance.
 
 I wonder how all of our times with Jim could have been different had we read a book like "The Reason I Jump."
 
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
+---
 
-<h2><a name="footnotes"></a>Footnotes</h2>
+<h3><a name="footnotes"></a>Footnotes</h3>
 
 [1] Name change.
 

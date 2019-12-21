@@ -3,6 +3,7 @@ layout: post
 title: Moving to Jekyll
 subtitle: A static-site revamp because rich text editors suck.
 tags: text
+redirect_from: "/2012/12/18/moving-to-jekyll.html"
 ---
 
 I've moved from Tumblr to <a href="https://github.com/mojombo/jekyll" title="mojombo/jekyll" target="_blank">Jekyll</a>.
@@ -20,7 +21,5 @@ I originally gave <a href="http://octopress.org/" title="Octopress" target="_bla
 Unfortunately for prospective Jekyll users, the default docs are kind of horrendous.  The <a href="http://jekyllbootstrap.com/lessons/jekyll-introduction.html" title="Jekyll Introduction" target="_blank">introduction at jekyllbootstrap</a> is a much better place to start.
 
 <a href="http://github.com/danielna/danielna.github.com" title="Blog source @ github" target="_blank">Hosting things on github</a> is also really, really awesome.
-
-<div class="separator">&raquo;&raquo;&raquo;&laquo;&laquo;&laquo;</div>
 
 Any posts predating this post are cherrypicked from old blogs.
