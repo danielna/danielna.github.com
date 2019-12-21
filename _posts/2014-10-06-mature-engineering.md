@@ -8,7 +8,7 @@ redirect_from: "/2014/10/06/mature-engineering.html"
 
 Previously <a href="/2014/03/03/man-at-work.html" title="Man at Work">I wrote some observations I had about working at Etsy when I hit the five month mark</a>. Since October 1 was my one year mark, I wanted to add to those thoughts.
 
-### On Being a Senior Engineer
+## On Being a Senior Engineer
 
 Earlier this year I read <a href="http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/" target="_blank">"On Being a Senior Engineer",</a> a blog post by John Allspaw, the SVP of Infrastructure and Ops at Etsy. I think the rest of this blog post is somewhat predicated on the contents of his post, mostly because after I read it it changed my perspective on the type of work I was doing, how I was doing it and why.  If you haven't read his post I suggest you do so.
 
@@ -16,7 +16,7 @@ But I'll preface it by saying this: that post will only resonate with you if you
 
 So here's my tl;dr: read the post.  It's worth your time.
 
-### Why Culture Isn't Bullshit
+## Why Culture Isn't Bullshit
 
 Well, false; sometimes culture is bullshit.  Culture is bullshit when a company thinks that having a ping pong table makes up for overbearing and demeaning management.  Culture is bullshit when "unlimited vacation" is an intentional bait-and-switch to represent "no vacation."  Culture is bullshit when misguided engineers take pleasure in forcing interview candidates to experience as uncomfortable an interview experience as possible to feed their own egos.  Perhaps a more apt wording is that in our industry, culture is _often_ bullshit.
 
@@ -28,7 +28,7 @@ And the output is better for it.  The employees are healthier, more fulfilled, i
 
 Real culture is a long term play for long term organizations.
 
-### Technical Problems (and Their Externalities)
+## Technical Problems (and Their Externalities)
 
 It's not difficult to enumerate the explicit technical skills I've acquired this year: an understanding of web performance, a deeper knowledge of JavaScript, writing an end-to-end NodeJS application, hadoop jobs, vim and the terminal, etc.  And when most people think about the value add of technical jobs these are the types of things that are easiest to consider.  Skills that can be encapsulated in bullet points on LinkedIn.
 
