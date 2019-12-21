@@ -4,6 +4,8 @@ title: Transitioning to Sass at Scale
 permalink: /talks/transitioning-to-sass-at-scale/
 ---
 
+<h1 class='sr-only'>Transitioning to Sass at Scale</h1>
+
 ## Slides
 
 <script async class="speakerdeck-embed" data-id="9fe62ef9ce594a78b87ae8abe50484f1" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>

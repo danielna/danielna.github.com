@@ -5,6 +5,8 @@ permalink: /talks/pushing-through-friction/
 redirect_from: "/talks/srecon19-emea/"
 ---
 
+<h1 class='sr-only'>Pushing through Friction</h1>
+
 ## Video
 
 The talk was recorded at SREcon 19 EMEA.
