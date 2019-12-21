@@ -372,7 +372,7 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0;
 }
 
-p, li, blockquote, span, div {
+p, li, blockquote, span {
   font-family: "Georgia";
   font-weight: 400;
   color: rgba(0,0,0,0.9);
@@ -574,6 +574,18 @@ figure, figcaption {
   .img-container {
     text-align: center;
     margin-bottom: 1rem;
+  }
+
+  .post-links {
+    font-family: "Helvetica Neue", Helvetica;
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+  .post-links__link {
+    color: rgba(0,0,0,0.6);
+  }
+  .post-links__previous {
+    margin-bottom: 0.5rem;
   }
 
   /** talks page **/

@@ -9,4 +9,25 @@ layout: base
   <section>
     {{ content }}
   </section>
+  {% if page.previous.url or page.next.url %}
+    {% assign postlinks = true %}
+  {% endif %}
+  {% if postlinks == true %}
+    <section class="post-links">
+      <hr/>
+      <h2 class="sr-only">More posts</h2>
+      {% if page.previous.url %}
+        <div class="post-links__previous">
+          <h3 class="sr-only">Previous post</h3>
+          <span class="post-links__label" aria-hidden="true">&laquo;</span> <a class="post-links__link" href="{{page.previous.url}}">{{page.previous.title}}</a>
+        </div>
+      {% endif %}
+      {% if page.next.url %}
+        <div class="post-links__next">
+          <h3 class="sr-only">Next post</h3>
+          <a class="post-links__link" href="{{page.next.url}}">{{page.next.title}}</a><span class="post-links__label" aria-hidden="true">&raquo;</span>
+        </div>
+      {% endif %}
+    </section>
+  {% endif %}
 </article>
