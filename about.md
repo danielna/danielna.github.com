@@ -1,6 +1,6 @@
 ---
 layout: base
-title: About Dan | blog.danielna.com
+title: About Dan
 ---
 
 <h2 class="sr-only">About me</h2>
