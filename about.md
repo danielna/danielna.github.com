@@ -3,7 +3,7 @@ layout: base
 title: About Dan
 ---
 
-<h2 class="sr-only">About me</h2>
+<h1 class="sr-only">About me</h1>
 
 I'm a DC-area transplant living in New York City. The longer I live here the more
 I'm convinced it's the best city in the world.
