@@ -121,3 +121,7 @@ Questionstorming surfaces the disparate concerns and incentives relevant to a
 proposed change. Those in turn help direct your requirements gathering and inform
 the assumptions you'll have to make when executing your work. It's a valuable tactic
 for any engineering leader to have in their toolbox.
+
+## Resources
+
+* [One of the first descriptions of Questionstorming](https://web.archive.org/web/20190406194016/http://pynthan.com/vri/questorm.htm) ([h/t @allspaw](https://twitter.com/allspaw/status/1224335798423760896))
