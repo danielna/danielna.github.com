@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lean into your imposter syndrome
+title: Lean Into Your Imposter Syndrome
 subtitle: And, paradoxically, rid yourself of it.
 tags: text
 ---
