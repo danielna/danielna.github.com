@@ -5,7 +5,7 @@ subtitle: Sometimes the scariest challenges are the most important.
 tags: text
 ---
 
-I started my tech career in the late 2000's, and there was a period of several
+I started my tech career in the early 2000's, and there was a period of several
 years (from ~2008 onward) where I can imagine a lot of conversations at companies
 that went like this:
 
