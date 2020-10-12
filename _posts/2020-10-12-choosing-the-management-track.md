@@ -211,7 +211,7 @@ effects on other engineering or business teams?
 
 Another phrase from Grove's book that I think about often is "delegation is not abdication."
 As the manager you are responsible for the technical delivery of your teams projects
-even though you're not performing any implementation. Delegating work but as a means
+even though you're not performing any implementation. Delegating work as a means
 of absolving responsibility from outcomes is a management failure mode.
 
 ## My motives for the management track
