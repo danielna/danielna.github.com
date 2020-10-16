@@ -1,5 +1,13 @@
-gems:
+plugins:
   - jekyll-redirect-from
+  - jekyll-feed
 future: true
+name: blog.danielna.com
+title: blog.danielna.com
+author:
+  twitter: dxna
 description: Dan Na's personal blog.
+url: https://blog.danielna.com
 permalink: /:slug/
+feed:
+  posts_limit: 15

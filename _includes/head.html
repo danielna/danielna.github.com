@@ -4,6 +4,7 @@
    <meta name="twitter:card" content="summary" />
    <meta name="twitter:site" content="@dxna" />
    <meta name="twitter:creator" content="@dxna" />
+   {% feed_meta %}
    <meta property="og:title" content="{{ page.title }}" />
    <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.description }}{% endif %}">
    <meta property="og:locale" content="en_US" />
