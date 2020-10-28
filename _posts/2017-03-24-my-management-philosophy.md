@@ -103,7 +103,7 @@ half-ass many things."
 * I believe in accountability and ownership. Let's be proud of what we produce.
 If something breaks and we own it, that's our reputation. That's our work.
 Being accountable means that it's our responsibility to respond with empathy and action.
-* Let's be [in the arena.](http://www.theodore-roosevelt.com/trsorbonnespeech.html)
+* Let's be [in the arena.](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)
 
 ## On working with others
 
@@ -122,7 +122,7 @@ work, but the backchannel is often the best and fastest way to get support or
 context from across the organization.
 * Pick your battles carefully. Stand up for what you believe in, but know that
 fighting battles you don't care about will have diminishing returns on the battles
-you do. I love this blog post about picking your battles: [The sliding scale of giving a fuck](http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck)
+you do. I love this blog post about picking your battles: [The sliding scale of giving a fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
 * Assume best intentions. All people and teams have external factors (roadmaps,
 deadlines, stresses, personal circumstances, etc.) that impact their priorities
 and decision making. Gathering appropriate context around those factors is the
