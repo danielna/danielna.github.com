@@ -98,7 +98,7 @@ etc. - stay on track.
 
 As a small but illustrative example of something that's different as an IC than
 a manager: morning standup. When I was an engineer, there were more than a few
-times during morning standups when I didn't give pay attention unless I was giving
+times during morning standups when I didn't pay attention unless I was giving
 my own update. And frankly it didn't seem to matter much, especially if the other
 updates were concerning different workstreams than the one I was currently focused
 on.
