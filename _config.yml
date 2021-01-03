@@ -1,6 +1,7 @@
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-sitemap
 future: true
 name: blog.danielna.com
 title: blog.danielna.com
