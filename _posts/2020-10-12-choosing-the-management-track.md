@@ -318,7 +318,7 @@ a teammate - there is no better feeling in the world.
 [As a staff engineer](https://staffeng.com/stories/dan-na) I became comfortable with
 scoping and executing wide-reaching technical problems. I still love participating in
 those sessions. But there's a level of abstraction upstream of that scoping meeting
-that I think is more critical for oganizations to get correct: "given the current
+that I think is more critical for organizations to get correct: "given the current
 context of our business / staffing / priorities, should we even build this thing?
 And if the answer is no and it still needs to be built eventually, how do we get there?"
 I'm now more interested in that discussion than the scoping discussion.
